@@ -1,0 +1,961 @@
+advisor_id,market,product_type,month,conversion_rate
+ADV-001,South Africa,Funeral,2026-01-01,0.227
+ADV-001,South Africa,Investment,2026-02-01,0.2
+ADV-001,South Africa,Life,2026-03-01,0.22
+ADV-001,South Africa,Life,2026-04-01,0.268
+ADV-001,South Africa,Life,2026-05-01,0.292
+ADV-001,South Africa,Funeral,2026-06-01,0.263
+ADV-002,South Africa,Funeral,2026-01-01,0.189
+ADV-002,South Africa,Funeral,2026-02-01,0.177
+ADV-002,South Africa,Health,2026-03-01,0.173
+ADV-002,South Africa,Life,2026-04-01,0.147
+ADV-002,South Africa,Life,2026-05-01,0.163
+ADV-002,South Africa,Funeral,2026-06-01,0.175
+ADV-003,South Africa,Funeral,2026-01-01,0.247
+ADV-003,South Africa,Health,2026-02-01,0.252
+ADV-003,South Africa,Funeral,2026-03-01,0.257
+ADV-003,South Africa,Funeral,2026-04-01,0.213
+ADV-003,South Africa,Funeral,2026-05-01,0.266
+ADV-003,South Africa,Life,2026-06-01,0.214
+ADV-004,South Africa,Funeral,2026-01-01,0.347
+ADV-004,South Africa,Funeral,2026-02-01,0.326
+ADV-004,South Africa,Investment,2026-03-01,0.35
+ADV-004,South Africa,Investment,2026-04-01,0.359
+ADV-004,South Africa,Health,2026-05-01,0.333
+ADV-004,South Africa,Health,2026-06-01,0.333
+ADV-005,South Africa,Investment,2026-01-01,0.299
+ADV-005,South Africa,Life,2026-02-01,0.278
+ADV-005,South Africa,Investment,2026-03-01,0.293
+ADV-005,South Africa,Funeral,2026-04-01,0.297
+ADV-005,South Africa,Health,2026-05-01,0.26
+ADV-005,South Africa,Health,2026-06-01,0.267
+ADV-006,South Africa,Funeral,2026-01-01,0.24
+ADV-006,South Africa,Funeral,2026-02-01,0.268
+ADV-006,South Africa,Funeral,2026-03-01,0.235
+ADV-006,South Africa,Life,2026-04-01,0.274
+ADV-006,South Africa,Health,2026-05-01,0.271
+ADV-006,South Africa,Life,2026-06-01,0.258
+ADV-007,Lesotho,Investment,2026-01-01,0.132
+ADV-007,Lesotho,Funeral,2026-02-01,0.126
+ADV-007,Lesotho,Health,2026-03-01,0.106
+ADV-007,Lesotho,Funeral,2026-04-01,0.12
+ADV-007,Lesotho,Funeral,2026-05-01,0.099
+ADV-007,Lesotho,Life,2026-06-01,0.143
+ADV-008,South Africa,Life,2026-01-01,0.236
+ADV-008,South Africa,Health,2026-02-01,0.227
+ADV-008,South Africa,Funeral,2026-03-01,0.22
+ADV-008,South Africa,Investment,2026-04-01,0.207
+ADV-008,South Africa,Health,2026-05-01,0.174
+ADV-008,South Africa,Life,2026-06-01,0.236
+ADV-009,Lesotho,Life,2026-01-01,0.364
+ADV-009,Lesotho,Funeral,2026-02-01,0.324
+ADV-009,Lesotho,Life,2026-03-01,0.313
+ADV-009,Lesotho,Life,2026-04-01,0.36
+ADV-009,Lesotho,Health,2026-05-01,0.302
+ADV-009,Lesotho,Funeral,2026-06-01,0.321
+ADV-010,South Africa,Funeral,2026-01-01,0.158
+ADV-010,South Africa,Life,2026-02-01,0.214
+ADV-010,South Africa,Health,2026-03-01,0.216
+ADV-010,South Africa,Funeral,2026-04-01,0.178
+ADV-010,South Africa,Funeral,2026-05-01,0.232
+ADV-010,South Africa,Funeral,2026-06-01,0.195
+ADV-011,South Africa,Health,2026-01-01,0.336
+ADV-011,South Africa,Life,2026-02-01,0.346
+ADV-011,South Africa,Health,2026-03-01,0.323
+ADV-011,South Africa,Funeral,2026-04-01,0.385
+ADV-011,South Africa,Life,2026-05-01,0.356
+ADV-011,South Africa,Funeral,2026-06-01,0.398
+ADV-012,Lesotho,Life,2026-01-01,0.265
+ADV-012,Lesotho,Health,2026-02-01,0.317
+ADV-012,Lesotho,Investment,2026-03-01,0.271
+ADV-012,Lesotho,Funeral,2026-04-01,0.248
+ADV-012,Lesotho,Funeral,2026-05-01,0.295
+ADV-012,Lesotho,Investment,2026-06-01,0.294
+ADV-013,South Africa,Funeral,2026-01-01,0.195
+ADV-013,South Africa,Life,2026-02-01,0.137
+ADV-013,South Africa,Health,2026-03-01,0.206
+ADV-013,South Africa,Health,2026-04-01,0.192
+ADV-013,South Africa,Health,2026-05-01,0.219
+ADV-013,South Africa,Funeral,2026-06-01,0.207
+ADV-014,Botswana,Life,2026-01-01,0.326
+ADV-014,Botswana,Life,2026-02-01,0.34
+ADV-014,Botswana,Funeral,2026-03-01,0.306
+ADV-014,Botswana,Investment,2026-04-01,0.314
+ADV-014,Botswana,Health,2026-05-01,0.304
+ADV-014,Botswana,Funeral,2026-06-01,0.313
+ADV-015,Botswana,Funeral,2026-01-01,0.201
+ADV-015,Botswana,Funeral,2026-02-01,0.244
+ADV-015,Botswana,Funeral,2026-03-01,0.253
+ADV-015,Botswana,Funeral,2026-04-01,0.248
+ADV-015,Botswana,Funeral,2026-05-01,0.269
+ADV-015,Botswana,Funeral,2026-06-01,0.233
+ADV-016,South Africa,Life,2026-01-01,0.251
+ADV-016,South Africa,Life,2026-02-01,0.308
+ADV-016,South Africa,Life,2026-03-01,0.327
+ADV-016,South Africa,Funeral,2026-04-01,0.277
+ADV-016,South Africa,Life,2026-05-01,0.309
+ADV-016,South Africa,Life,2026-06-01,0.296
+ADV-017,Lesotho,Funeral,2026-01-01,0.224
+ADV-017,Lesotho,Health,2026-02-01,0.201
+ADV-017,Lesotho,Life,2026-03-01,0.256
+ADV-017,Lesotho,Life,2026-04-01,0.239
+ADV-017,Lesotho,Health,2026-05-01,0.226
+ADV-017,Lesotho,Funeral,2026-06-01,0.208
+ADV-018,Lesotho,Health,2026-01-01,0.26
+ADV-018,Lesotho,Investment,2026-02-01,0.267
+ADV-018,Lesotho,Investment,2026-03-01,0.274
+ADV-018,Lesotho,Life,2026-04-01,0.307
+ADV-018,Lesotho,Funeral,2026-05-01,0.218
+ADV-018,Lesotho,Funeral,2026-06-01,0.277
+ADV-019,South Africa,Funeral,2026-01-01,0.215
+ADV-019,South Africa,Life,2026-02-01,0.225
+ADV-019,South Africa,Investment,2026-03-01,0.211
+ADV-019,South Africa,Funeral,2026-04-01,0.22
+ADV-019,South Africa,Funeral,2026-05-01,0.227
+ADV-019,South Africa,Life,2026-06-01,0.234
+ADV-020,South Africa,Funeral,2026-01-01,0.264
+ADV-020,South Africa,Life,2026-02-01,0.266
+ADV-020,South Africa,Health,2026-03-01,0.289
+ADV-020,South Africa,Investment,2026-04-01,0.298
+ADV-020,South Africa,Funeral,2026-05-01,0.216
+ADV-020,South Africa,Funeral,2026-06-01,0.275
+ADV-021,Namibia,Health,2026-01-01,0.326
+ADV-021,Namibia,Health,2026-02-01,0.311
+ADV-021,Namibia,Funeral,2026-03-01,0.303
+ADV-021,Namibia,Life,2026-04-01,0.3
+ADV-021,Namibia,Health,2026-05-01,0.265
+ADV-021,Namibia,Funeral,2026-06-01,0.196
+ADV-022,South Africa,Investment,2026-01-01,0.324
+ADV-022,South Africa,Health,2026-02-01,0.326
+ADV-022,South Africa,Investment,2026-03-01,0.344
+ADV-022,South Africa,Funeral,2026-04-01,0.316
+ADV-022,South Africa,Life,2026-05-01,0.284
+ADV-022,South Africa,Life,2026-06-01,0.303
+ADV-023,Lesotho,Life,2026-01-01,0.234
+ADV-023,Lesotho,Funeral,2026-02-01,0.236
+ADV-023,Lesotho,Funeral,2026-03-01,0.222
+ADV-023,Lesotho,Life,2026-04-01,0.186
+ADV-023,Lesotho,Funeral,2026-05-01,0.223
+ADV-023,Lesotho,Funeral,2026-06-01,0.149
+ADV-024,South Africa,Life,2026-01-01,0.289
+ADV-024,South Africa,Funeral,2026-02-01,0.301
+ADV-024,South Africa,Health,2026-03-01,0.332
+ADV-024,South Africa,Funeral,2026-04-01,0.349
+ADV-024,South Africa,Life,2026-05-01,0.279
+ADV-024,South Africa,Funeral,2026-06-01,0.331
+ADV-025,South Africa,Funeral,2026-01-01,0.178
+ADV-025,South Africa,Funeral,2026-02-01,0.156
+ADV-025,South Africa,Funeral,2026-03-01,0.136
+ADV-025,South Africa,Funeral,2026-04-01,0.171
+ADV-025,South Africa,Health,2026-05-01,0.146
+ADV-025,South Africa,Funeral,2026-06-01,0.166
+ADV-026,South Africa,Health,2026-01-01,0.217
+ADV-026,South Africa,Health,2026-02-01,0.188
+ADV-026,South Africa,Life,2026-03-01,0.226
+ADV-026,South Africa,Life,2026-04-01,0.259
+ADV-026,South Africa,Funeral,2026-05-01,0.195
+ADV-026,South Africa,Health,2026-06-01,0.226
+ADV-027,South Africa,Funeral,2026-01-01,0.184
+ADV-027,South Africa,Funeral,2026-02-01,0.13
+ADV-027,South Africa,Health,2026-03-01,0.128
+ADV-027,South Africa,Health,2026-04-01,0.118
+ADV-027,South Africa,Funeral,2026-05-01,0.169
+ADV-027,South Africa,Health,2026-06-01,0.131
+ADV-028,Namibia,Investment,2026-01-01,0.134
+ADV-028,Namibia,Health,2026-02-01,0.108
+ADV-028,Namibia,Investment,2026-03-01,0.119
+ADV-028,Namibia,Funeral,2026-04-01,0.065
+ADV-028,Namibia,Investment,2026-05-01,0.069
+ADV-028,Namibia,Funeral,2026-06-01,0.069
+ADV-029,Botswana,Funeral,2026-01-01,0.114
+ADV-029,Botswana,Funeral,2026-02-01,0.107
+ADV-029,Botswana,Funeral,2026-03-01,0.132
+ADV-029,Botswana,Health,2026-04-01,0.131
+ADV-029,Botswana,Health,2026-05-01,0.125
+ADV-029,Botswana,Funeral,2026-06-01,0.167
+ADV-030,Botswana,Life,2026-01-01,0.246
+ADV-030,Botswana,Funeral,2026-02-01,0.206
+ADV-030,Botswana,Life,2026-03-01,0.236
+ADV-030,Botswana,Health,2026-04-01,0.252
+ADV-030,Botswana,Funeral,2026-05-01,0.222
+ADV-030,Botswana,Health,2026-06-01,0.256
+ADV-031,Botswana,Investment,2026-01-01,0.211
+ADV-031,Botswana,Investment,2026-02-01,0.202
+ADV-031,Botswana,Life,2026-03-01,0.203
+ADV-031,Botswana,Funeral,2026-04-01,0.205
+ADV-031,Botswana,Health,2026-05-01,0.191
+ADV-031,Botswana,Funeral,2026-06-01,0.19
+ADV-032,South Africa,Funeral,2026-01-01,0.168
+ADV-032,South Africa,Health,2026-02-01,0.078
+ADV-032,South Africa,Life,2026-03-01,0.101
+ADV-032,South Africa,Life,2026-04-01,0.123
+ADV-032,South Africa,Health,2026-05-01,0.169
+ADV-032,South Africa,Funeral,2026-06-01,0.101
+ADV-033,Namibia,Funeral,2026-01-01,0.291
+ADV-033,Namibia,Life,2026-02-01,0.305
+ADV-033,Namibia,Funeral,2026-03-01,0.321
+ADV-033,Namibia,Life,2026-04-01,0.324
+ADV-033,Namibia,Funeral,2026-05-01,0.315
+ADV-033,Namibia,Funeral,2026-06-01,0.343
+ADV-034,South Africa,Funeral,2026-01-01,0.209
+ADV-034,South Africa,Funeral,2026-02-01,0.217
+ADV-034,South Africa,Life,2026-03-01,0.197
+ADV-034,South Africa,Funeral,2026-04-01,0.221
+ADV-034,South Africa,Life,2026-05-01,0.227
+ADV-034,South Africa,Life,2026-06-01,0.228
+ADV-035,South Africa,Life,2026-01-01,0.327
+ADV-035,South Africa,Funeral,2026-02-01,0.34
+ADV-035,South Africa,Life,2026-03-01,0.33
+ADV-035,South Africa,Funeral,2026-04-01,0.344
+ADV-035,South Africa,Life,2026-05-01,0.34
+ADV-035,South Africa,Funeral,2026-06-01,0.325
+ADV-036,South Africa,Life,2026-01-01,0.345
+ADV-036,South Africa,Funeral,2026-02-01,0.407
+ADV-036,South Africa,Investment,2026-03-01,0.303
+ADV-036,South Africa,Life,2026-04-01,0.331
+ADV-036,South Africa,Funeral,2026-05-01,0.358
+ADV-036,South Africa,Life,2026-06-01,0.352
+ADV-037,South Africa,Funeral,2026-01-01,0.171
+ADV-037,South Africa,Funeral,2026-02-01,0.164
+ADV-037,South Africa,Funeral,2026-03-01,0.188
+ADV-037,South Africa,Life,2026-04-01,0.122
+ADV-037,South Africa,Funeral,2026-05-01,0.179
+ADV-037,South Africa,Investment,2026-06-01,0.181
+ADV-038,South Africa,Health,2026-01-01,0.192
+ADV-038,South Africa,Funeral,2026-02-01,0.185
+ADV-038,South Africa,Life,2026-03-01,0.146
+ADV-038,South Africa,Funeral,2026-04-01,0.171
+ADV-038,South Africa,Funeral,2026-05-01,0.185
+ADV-038,South Africa,Funeral,2026-06-01,0.223
+ADV-039,South Africa,Investment,2026-01-01,0.238
+ADV-039,South Africa,Funeral,2026-02-01,0.199
+ADV-039,South Africa,Funeral,2026-03-01,0.23
+ADV-039,South Africa,Health,2026-04-01,0.244
+ADV-039,South Africa,Funeral,2026-05-01,0.191
+ADV-039,South Africa,Life,2026-06-01,0.274
+ADV-040,South Africa,Investment,2026-01-01,0.323
+ADV-040,South Africa,Life,2026-02-01,0.338
+ADV-040,South Africa,Investment,2026-03-01,0.371
+ADV-040,South Africa,Health,2026-04-01,0.326
+ADV-040,South Africa,Funeral,2026-05-01,0.343
+ADV-040,South Africa,Life,2026-06-01,0.318
+ADV-041,Namibia,Funeral,2026-01-01,0.292
+ADV-041,Namibia,Funeral,2026-02-01,0.281
+ADV-041,Namibia,Investment,2026-03-01,0.293
+ADV-041,Namibia,Health,2026-04-01,0.27
+ADV-041,Namibia,Funeral,2026-05-01,0.242
+ADV-041,Namibia,Funeral,2026-06-01,0.2
+ADV-042,South Africa,Funeral,2026-01-01,0.237
+ADV-042,South Africa,Funeral,2026-02-01,0.259
+ADV-042,South Africa,Funeral,2026-03-01,0.253
+ADV-042,South Africa,Life,2026-04-01,0.231
+ADV-042,South Africa,Life,2026-05-01,0.304
+ADV-042,South Africa,Life,2026-06-01,0.228
+ADV-043,Botswana,Life,2026-01-01,0.273
+ADV-043,Botswana,Funeral,2026-02-01,0.329
+ADV-043,Botswana,Health,2026-03-01,0.289
+ADV-043,Botswana,Life,2026-04-01,0.294
+ADV-043,Botswana,Funeral,2026-05-01,0.325
+ADV-043,Botswana,Life,2026-06-01,0.319
+ADV-044,Namibia,Health,2026-01-01,0.156
+ADV-044,Namibia,Health,2026-02-01,0.107
+ADV-044,Namibia,Life,2026-03-01,0.082
+ADV-044,Namibia,Health,2026-04-01,0.093
+ADV-044,Namibia,Health,2026-05-01,0.052
+ADV-044,Namibia,Funeral,2026-06-01,0.063
+ADV-045,South Africa,Life,2026-01-01,0.24
+ADV-045,South Africa,Funeral,2026-02-01,0.2
+ADV-045,South Africa,Funeral,2026-03-01,0.223
+ADV-045,South Africa,Health,2026-04-01,0.257
+ADV-045,South Africa,Life,2026-05-01,0.213
+ADV-045,South Africa,Funeral,2026-06-01,0.185
+ADV-046,Lesotho,Life,2026-01-01,0.193
+ADV-046,Lesotho,Health,2026-02-01,0.232
+ADV-046,Lesotho,Funeral,2026-03-01,0.241
+ADV-046,Lesotho,Life,2026-04-01,0.238
+ADV-046,Lesotho,Funeral,2026-05-01,0.229
+ADV-046,Lesotho,Funeral,2026-06-01,0.189
+ADV-047,Lesotho,Funeral,2026-01-01,0.14
+ADV-047,Lesotho,Funeral,2026-02-01,0.225
+ADV-047,Lesotho,Funeral,2026-03-01,0.159
+ADV-047,Lesotho,Funeral,2026-04-01,0.171
+ADV-047,Lesotho,Health,2026-05-01,0.203
+ADV-047,Lesotho,Funeral,2026-06-01,0.188
+ADV-048,South Africa,Life,2026-01-01,0.239
+ADV-048,South Africa,Life,2026-02-01,0.227
+ADV-048,South Africa,Funeral,2026-03-01,0.226
+ADV-048,South Africa,Health,2026-04-01,0.196
+ADV-048,South Africa,Funeral,2026-05-01,0.198
+ADV-048,South Africa,Funeral,2026-06-01,0.202
+ADV-049,Namibia,Life,2026-01-01,0.32
+ADV-049,Namibia,Funeral,2026-02-01,0.285
+ADV-049,Namibia,Life,2026-03-01,0.249
+ADV-049,Namibia,Funeral,2026-04-01,0.236
+ADV-049,Namibia,Investment,2026-05-01,0.175
+ADV-049,Namibia,Funeral,2026-06-01,0.198
+ADV-050,South Africa,Funeral,2026-01-01,0.189
+ADV-050,South Africa,Investment,2026-02-01,0.234
+ADV-050,South Africa,Funeral,2026-03-01,0.193
+ADV-050,South Africa,Funeral,2026-04-01,0.2
+ADV-050,South Africa,Funeral,2026-05-01,0.227
+ADV-050,South Africa,Funeral,2026-06-01,0.196
+ADV-051,Botswana,Funeral,2026-01-01,0.25
+ADV-051,Botswana,Funeral,2026-02-01,0.253
+ADV-051,Botswana,Health,2026-03-01,0.193
+ADV-051,Botswana,Life,2026-04-01,0.199
+ADV-051,Botswana,Funeral,2026-05-01,0.234
+ADV-051,Botswana,Life,2026-06-01,0.269
+ADV-052,Lesotho,Life,2026-01-01,0.209
+ADV-052,Lesotho,Funeral,2026-02-01,0.214
+ADV-052,Lesotho,Life,2026-03-01,0.197
+ADV-052,Lesotho,Life,2026-04-01,0.201
+ADV-052,Lesotho,Funeral,2026-05-01,0.235
+ADV-052,Lesotho,Health,2026-06-01,0.202
+ADV-053,South Africa,Funeral,2026-01-01,0.1
+ADV-053,South Africa,Life,2026-02-01,0.135
+ADV-053,South Africa,Health,2026-03-01,0.123
+ADV-053,South Africa,Health,2026-04-01,0.096
+ADV-053,South Africa,Funeral,2026-05-01,0.122
+ADV-053,South Africa,Funeral,2026-06-01,0.087
+ADV-054,South Africa,Investment,2026-01-01,0.118
+ADV-054,South Africa,Investment,2026-02-01,0.142
+ADV-054,South Africa,Funeral,2026-03-01,0.094
+ADV-054,South Africa,Life,2026-04-01,0.151
+ADV-054,South Africa,Funeral,2026-05-01,0.132
+ADV-054,South Africa,Funeral,2026-06-01,0.1
+ADV-055,South Africa,Investment,2026-01-01,0.173
+ADV-055,South Africa,Funeral,2026-02-01,0.21
+ADV-055,South Africa,Funeral,2026-03-01,0.145
+ADV-055,South Africa,Funeral,2026-04-01,0.188
+ADV-055,South Africa,Funeral,2026-05-01,0.138
+ADV-055,South Africa,Funeral,2026-06-01,0.158
+ADV-056,Botswana,Funeral,2026-01-01,0.172
+ADV-056,Botswana,Funeral,2026-02-01,0.158
+ADV-056,Botswana,Funeral,2026-03-01,0.143
+ADV-056,Botswana,Life,2026-04-01,0.164
+ADV-056,Botswana,Investment,2026-05-01,0.175
+ADV-056,Botswana,Life,2026-06-01,0.144
+ADV-057,Lesotho,Health,2026-01-01,0.126
+ADV-057,Lesotho,Life,2026-02-01,0.166
+ADV-057,Lesotho,Life,2026-03-01,0.17
+ADV-057,Lesotho,Funeral,2026-04-01,0.136
+ADV-057,Lesotho,Funeral,2026-05-01,0.19
+ADV-057,Lesotho,Health,2026-06-01,0.161
+ADV-058,Lesotho,Life,2026-01-01,0.184
+ADV-058,Lesotho,Health,2026-02-01,0.163
+ADV-058,Lesotho,Investment,2026-03-01,0.169
+ADV-058,Lesotho,Health,2026-04-01,0.137
+ADV-058,Lesotho,Investment,2026-05-01,0.142
+ADV-058,Lesotho,Life,2026-06-01,0.158
+ADV-059,South Africa,Investment,2026-01-01,0.239
+ADV-059,South Africa,Life,2026-02-01,0.209
+ADV-059,South Africa,Funeral,2026-03-01,0.173
+ADV-059,South Africa,Investment,2026-04-01,0.216
+ADV-059,South Africa,Life,2026-05-01,0.22
+ADV-059,South Africa,Investment,2026-06-01,0.231
+ADV-060,South Africa,Life,2026-01-01,0.304
+ADV-060,South Africa,Funeral,2026-02-01,0.254
+ADV-060,South Africa,Funeral,2026-03-01,0.259
+ADV-060,South Africa,Funeral,2026-04-01,0.27
+ADV-060,South Africa,Life,2026-05-01,0.277
+ADV-060,South Africa,Funeral,2026-06-01,0.27
+ADV-061,Lesotho,Funeral,2026-01-01,0.244
+ADV-061,Lesotho,Health,2026-02-01,0.262
+ADV-061,Lesotho,Life,2026-03-01,0.283
+ADV-061,Lesotho,Funeral,2026-04-01,0.299
+ADV-061,Lesotho,Life,2026-05-01,0.237
+ADV-061,Lesotho,Funeral,2026-06-01,0.28
+ADV-062,Lesotho,Funeral,2026-01-01,0.148
+ADV-062,Lesotho,Health,2026-02-01,0.171
+ADV-062,Lesotho,Life,2026-03-01,0.149
+ADV-062,Lesotho,Funeral,2026-04-01,0.166
+ADV-062,Lesotho,Life,2026-05-01,0.194
+ADV-062,Lesotho,Health,2026-06-01,0.201
+ADV-063,Namibia,Investment,2026-01-01,0.192
+ADV-063,Namibia,Life,2026-02-01,0.173
+ADV-063,Namibia,Life,2026-03-01,0.191
+ADV-063,Namibia,Life,2026-04-01,0.168
+ADV-063,Namibia,Funeral,2026-05-01,0.194
+ADV-063,Namibia,Investment,2026-06-01,0.21
+ADV-064,South Africa,Investment,2026-01-01,0.333
+ADV-064,South Africa,Life,2026-02-01,0.306
+ADV-064,South Africa,Funeral,2026-03-01,0.311
+ADV-064,South Africa,Health,2026-04-01,0.36
+ADV-064,South Africa,Funeral,2026-05-01,0.346
+ADV-064,South Africa,Health,2026-06-01,0.342
+ADV-065,Botswana,Health,2026-01-01,0.284
+ADV-065,Botswana,Life,2026-02-01,0.27
+ADV-065,Botswana,Investment,2026-03-01,0.265
+ADV-065,Botswana,Life,2026-04-01,0.265
+ADV-065,Botswana,Funeral,2026-05-01,0.259
+ADV-065,Botswana,Funeral,2026-06-01,0.278
+ADV-066,Botswana,Life,2026-01-01,0.182
+ADV-066,Botswana,Life,2026-02-01,0.187
+ADV-066,Botswana,Life,2026-03-01,0.193
+ADV-066,Botswana,Life,2026-04-01,0.172
+ADV-066,Botswana,Funeral,2026-05-01,0.218
+ADV-066,Botswana,Funeral,2026-06-01,0.179
+ADV-067,South Africa,Life,2026-01-01,0.327
+ADV-067,South Africa,Health,2026-02-01,0.337
+ADV-067,South Africa,Life,2026-03-01,0.372
+ADV-067,South Africa,Funeral,2026-04-01,0.313
+ADV-067,South Africa,Life,2026-05-01,0.346
+ADV-067,South Africa,Life,2026-06-01,0.352
+ADV-068,Lesotho,Funeral,2026-01-01,0.28
+ADV-068,Lesotho,Life,2026-02-01,0.265
+ADV-068,Lesotho,Health,2026-03-01,0.28
+ADV-068,Lesotho,Life,2026-04-01,0.271
+ADV-068,Lesotho,Funeral,2026-05-01,0.251
+ADV-068,Lesotho,Funeral,2026-06-01,0.255
+ADV-069,South Africa,Funeral,2026-01-01,0.273
+ADV-069,South Africa,Life,2026-02-01,0.283
+ADV-069,South Africa,Investment,2026-03-01,0.282
+ADV-069,South Africa,Funeral,2026-04-01,0.262
+ADV-069,South Africa,Funeral,2026-05-01,0.297
+ADV-069,South Africa,Funeral,2026-06-01,0.308
+ADV-070,Lesotho,Funeral,2026-01-01,0.14
+ADV-070,Lesotho,Funeral,2026-02-01,0.112
+ADV-070,Lesotho,Funeral,2026-03-01,0.132
+ADV-070,Lesotho,Life,2026-04-01,0.123
+ADV-070,Lesotho,Funeral,2026-05-01,0.105
+ADV-070,Lesotho,Funeral,2026-06-01,0.108
+ADV-071,Botswana,Life,2026-01-01,0.267
+ADV-071,Botswana,Life,2026-02-01,0.29
+ADV-071,Botswana,Investment,2026-03-01,0.316
+ADV-071,Botswana,Funeral,2026-04-01,0.289
+ADV-071,Botswana,Life,2026-05-01,0.326
+ADV-071,Botswana,Life,2026-06-01,0.286
+ADV-072,South Africa,Health,2026-01-01,0.263
+ADV-072,South Africa,Funeral,2026-02-01,0.27
+ADV-072,South Africa,Investment,2026-03-01,0.269
+ADV-072,South Africa,Life,2026-04-01,0.207
+ADV-072,South Africa,Funeral,2026-05-01,0.285
+ADV-072,South Africa,Life,2026-06-01,0.29
+ADV-073,South Africa,Funeral,2026-01-01,0.24
+ADV-073,South Africa,Life,2026-02-01,0.238
+ADV-073,South Africa,Life,2026-03-01,0.248
+ADV-073,South Africa,Life,2026-04-01,0.257
+ADV-073,South Africa,Funeral,2026-05-01,0.223
+ADV-073,South Africa,Investment,2026-06-01,0.23
+ADV-074,South Africa,Funeral,2026-01-01,0.141
+ADV-074,South Africa,Funeral,2026-02-01,0.182
+ADV-074,South Africa,Health,2026-03-01,0.184
+ADV-074,South Africa,Health,2026-04-01,0.104
+ADV-074,South Africa,Health,2026-05-01,0.165
+ADV-074,South Africa,Health,2026-06-01,0.147
+ADV-075,South Africa,Funeral,2026-01-01,0.279
+ADV-075,South Africa,Health,2026-02-01,0.296
+ADV-075,South Africa,Health,2026-03-01,0.31
+ADV-075,South Africa,Life,2026-04-01,0.273
+ADV-075,South Africa,Health,2026-05-01,0.285
+ADV-075,South Africa,Life,2026-06-01,0.295
+ADV-076,South Africa,Funeral,2026-01-01,0.241
+ADV-076,South Africa,Life,2026-02-01,0.246
+ADV-076,South Africa,Life,2026-03-01,0.279
+ADV-076,South Africa,Life,2026-04-01,0.165
+ADV-076,South Africa,Investment,2026-05-01,0.249
+ADV-076,South Africa,Life,2026-06-01,0.208
+ADV-077,South Africa,Investment,2026-01-01,0.164
+ADV-077,South Africa,Funeral,2026-02-01,0.145
+ADV-077,South Africa,Funeral,2026-03-01,0.139
+ADV-077,South Africa,Funeral,2026-04-01,0.181
+ADV-077,South Africa,Funeral,2026-05-01,0.131
+ADV-077,South Africa,Investment,2026-06-01,0.094
+ADV-078,South Africa,Funeral,2026-01-01,0.337
+ADV-078,South Africa,Life,2026-02-01,0.326
+ADV-078,South Africa,Funeral,2026-03-01,0.295
+ADV-078,South Africa,Life,2026-04-01,0.362
+ADV-078,South Africa,Investment,2026-05-01,0.354
+ADV-078,South Africa,Investment,2026-06-01,0.367
+ADV-079,Lesotho,Life,2026-01-01,0.219
+ADV-079,Lesotho,Life,2026-02-01,0.254
+ADV-079,Lesotho,Life,2026-03-01,0.24
+ADV-079,Lesotho,Life,2026-04-01,0.245
+ADV-079,Lesotho,Funeral,2026-05-01,0.238
+ADV-079,Lesotho,Life,2026-06-01,0.212
+ADV-080,South Africa,Health,2026-01-01,0.257
+ADV-080,South Africa,Funeral,2026-02-01,0.294
+ADV-080,South Africa,Life,2026-03-01,0.296
+ADV-080,South Africa,Funeral,2026-04-01,0.294
+ADV-080,South Africa,Health,2026-05-01,0.286
+ADV-080,South Africa,Life,2026-06-01,0.309
+ADV-081,Namibia,Investment,2026-01-01,0.294
+ADV-081,Namibia,Funeral,2026-02-01,0.305
+ADV-081,Namibia,Health,2026-03-01,0.329
+ADV-081,Namibia,Life,2026-04-01,0.29
+ADV-081,Namibia,Funeral,2026-05-01,0.278
+ADV-081,Namibia,Funeral,2026-06-01,0.282
+ADV-082,South Africa,Funeral,2026-01-01,0.138
+ADV-082,South Africa,Life,2026-02-01,0.181
+ADV-082,South Africa,Funeral,2026-03-01,0.188
+ADV-082,South Africa,Funeral,2026-04-01,0.128
+ADV-082,South Africa,Life,2026-05-01,0.144
+ADV-082,South Africa,Investment,2026-06-01,0.149
+ADV-083,Namibia,Funeral,2026-01-01,0.134
+ADV-083,Namibia,Life,2026-02-01,0.112
+ADV-083,Namibia,Life,2026-03-01,0.098
+ADV-083,Namibia,Health,2026-04-01,0.118
+ADV-083,Namibia,Investment,2026-05-01,0.115
+ADV-083,Namibia,Funeral,2026-06-01,0.138
+ADV-084,Lesotho,Investment,2026-01-01,0.311
+ADV-084,Lesotho,Life,2026-02-01,0.307
+ADV-084,Lesotho,Life,2026-03-01,0.307
+ADV-084,Lesotho,Funeral,2026-04-01,0.302
+ADV-084,Lesotho,Funeral,2026-05-01,0.322
+ADV-084,Lesotho,Funeral,2026-06-01,0.335
+ADV-085,Namibia,Health,2026-01-01,0.183
+ADV-085,Namibia,Investment,2026-02-01,0.212
+ADV-085,Namibia,Funeral,2026-03-01,0.145
+ADV-085,Namibia,Funeral,2026-04-01,0.136
+ADV-085,Namibia,Health,2026-05-01,0.115
+ADV-085,Namibia,Life,2026-06-01,0.09
+ADV-086,South Africa,Funeral,2026-01-01,0.197
+ADV-086,South Africa,Life,2026-02-01,0.189
+ADV-086,South Africa,Funeral,2026-03-01,0.175
+ADV-086,South Africa,Funeral,2026-04-01,0.133
+ADV-086,South Africa,Life,2026-05-01,0.158
+ADV-086,South Africa,Funeral,2026-06-01,0.23
+ADV-087,South Africa,Funeral,2026-01-01,0.166
+ADV-087,South Africa,Life,2026-02-01,0.219
+ADV-087,South Africa,Funeral,2026-03-01,0.218
+ADV-087,South Africa,Health,2026-04-01,0.226
+ADV-087,South Africa,Health,2026-05-01,0.195
+ADV-087,South Africa,Funeral,2026-06-01,0.173
+ADV-088,South Africa,Funeral,2026-01-01,0.301
+ADV-088,South Africa,Funeral,2026-02-01,0.34
+ADV-088,South Africa,Funeral,2026-03-01,0.299
+ADV-088,South Africa,Funeral,2026-04-01,0.327
+ADV-088,South Africa,Funeral,2026-05-01,0.331
+ADV-088,South Africa,Funeral,2026-06-01,0.345
+ADV-089,South Africa,Health,2026-01-01,0.235
+ADV-089,South Africa,Life,2026-02-01,0.201
+ADV-089,South Africa,Funeral,2026-03-01,0.215
+ADV-089,South Africa,Life,2026-04-01,0.219
+ADV-089,South Africa,Funeral,2026-05-01,0.23
+ADV-089,South Africa,Life,2026-06-01,0.215
+ADV-090,Botswana,Life,2026-01-01,0.076
+ADV-090,Botswana,Life,2026-02-01,0.121
+ADV-090,Botswana,Life,2026-03-01,0.114
+ADV-090,Botswana,Life,2026-04-01,0.166
+ADV-090,Botswana,Funeral,2026-05-01,0.112
+ADV-090,Botswana,Funeral,2026-06-01,0.152
+ADV-091,Botswana,Health,2026-01-01,0.32
+ADV-091,Botswana,Health,2026-02-01,0.329
+ADV-091,Botswana,Funeral,2026-03-01,0.346
+ADV-091,Botswana,Investment,2026-04-01,0.34
+ADV-091,Botswana,Health,2026-05-01,0.276
+ADV-091,Botswana,Health,2026-06-01,0.341
+ADV-092,Botswana,Investment,2026-01-01,0.23
+ADV-092,Botswana,Funeral,2026-02-01,0.241
+ADV-092,Botswana,Health,2026-03-01,0.171
+ADV-092,Botswana,Funeral,2026-04-01,0.244
+ADV-092,Botswana,Funeral,2026-05-01,0.284
+ADV-092,Botswana,Funeral,2026-06-01,0.258
+ADV-093,Botswana,Funeral,2026-01-01,0.284
+ADV-093,Botswana,Health,2026-02-01,0.242
+ADV-093,Botswana,Health,2026-03-01,0.288
+ADV-093,Botswana,Life,2026-04-01,0.251
+ADV-093,Botswana,Funeral,2026-05-01,0.297
+ADV-093,Botswana,Health,2026-06-01,0.286
+ADV-094,South Africa,Health,2026-01-01,0.213
+ADV-094,South Africa,Funeral,2026-02-01,0.196
+ADV-094,South Africa,Health,2026-03-01,0.244
+ADV-094,South Africa,Life,2026-04-01,0.217
+ADV-094,South Africa,Funeral,2026-05-01,0.221
+ADV-094,South Africa,Funeral,2026-06-01,0.19
+ADV-095,South Africa,Life,2026-01-01,0.304
+ADV-095,South Africa,Life,2026-02-01,0.28
+ADV-095,South Africa,Investment,2026-03-01,0.311
+ADV-095,South Africa,Investment,2026-04-01,0.334
+ADV-095,South Africa,Funeral,2026-05-01,0.305
+ADV-095,South Africa,Health,2026-06-01,0.33
+ADV-096,South Africa,Health,2026-01-01,0.265
+ADV-096,South Africa,Funeral,2026-02-01,0.286
+ADV-096,South Africa,Funeral,2026-03-01,0.286
+ADV-096,South Africa,Funeral,2026-04-01,0.28
+ADV-096,South Africa,Funeral,2026-05-01,0.255
+ADV-096,South Africa,Funeral,2026-06-01,0.306
+ADV-097,Lesotho,Life,2026-01-01,0.16
+ADV-097,Lesotho,Funeral,2026-02-01,0.177
+ADV-097,Lesotho,Funeral,2026-03-01,0.126
+ADV-097,Lesotho,Funeral,2026-04-01,0.134
+ADV-097,Lesotho,Life,2026-05-01,0.118
+ADV-097,Lesotho,Funeral,2026-06-01,0.1
+ADV-098,South Africa,Funeral,2026-01-01,0.319
+ADV-098,South Africa,Funeral,2026-02-01,0.341
+ADV-098,South Africa,Funeral,2026-03-01,0.305
+ADV-098,South Africa,Life,2026-04-01,0.311
+ADV-098,South Africa,Life,2026-05-01,0.303
+ADV-098,South Africa,Investment,2026-06-01,0.302
+ADV-099,South Africa,Funeral,2026-01-01,0.22
+ADV-099,South Africa,Funeral,2026-02-01,0.214
+ADV-099,South Africa,Investment,2026-03-01,0.2
+ADV-099,South Africa,Life,2026-04-01,0.21
+ADV-099,South Africa,Life,2026-05-01,0.236
+ADV-099,South Africa,Health,2026-06-01,0.213
+ADV-100,Lesotho,Health,2026-01-01,0.185
+ADV-100,Lesotho,Funeral,2026-02-01,0.236
+ADV-100,Lesotho,Life,2026-03-01,0.221
+ADV-100,Lesotho,Funeral,2026-04-01,0.242
+ADV-100,Lesotho,Funeral,2026-05-01,0.205
+ADV-100,Lesotho,Funeral,2026-06-01,0.195
+ADV-101,South Africa,Life,2026-01-01,0.326
+ADV-101,South Africa,Health,2026-02-01,0.349
+ADV-101,South Africa,Funeral,2026-03-01,0.386
+ADV-101,South Africa,Health,2026-04-01,0.329
+ADV-101,South Africa,Investment,2026-05-01,0.345
+ADV-101,South Africa,Health,2026-06-01,0.339
+ADV-102,Botswana,Health,2026-01-01,0.223
+ADV-102,Botswana,Health,2026-02-01,0.207
+ADV-102,Botswana,Investment,2026-03-01,0.237
+ADV-102,Botswana,Life,2026-04-01,0.253
+ADV-102,Botswana,Life,2026-05-01,0.24
+ADV-102,Botswana,Health,2026-06-01,0.195
+ADV-103,Lesotho,Funeral,2026-01-01,0.236
+ADV-103,Lesotho,Life,2026-02-01,0.236
+ADV-103,Lesotho,Funeral,2026-03-01,0.242
+ADV-103,Lesotho,Health,2026-04-01,0.238
+ADV-103,Lesotho,Health,2026-05-01,0.242
+ADV-103,Lesotho,Health,2026-06-01,0.271
+ADV-104,Botswana,Funeral,2026-01-01,0.312
+ADV-104,Botswana,Health,2026-02-01,0.301
+ADV-104,Botswana,Health,2026-03-01,0.32
+ADV-104,Botswana,Life,2026-04-01,0.27
+ADV-104,Botswana,Funeral,2026-05-01,0.304
+ADV-104,Botswana,Funeral,2026-06-01,0.289
+ADV-105,South Africa,Life,2026-01-01,0.219
+ADV-105,South Africa,Funeral,2026-02-01,0.198
+ADV-105,South Africa,Funeral,2026-03-01,0.193
+ADV-105,South Africa,Life,2026-04-01,0.233
+ADV-105,South Africa,Life,2026-05-01,0.226
+ADV-105,South Africa,Health,2026-06-01,0.197
+ADV-106,South Africa,Investment,2026-01-01,0.152
+ADV-106,South Africa,Funeral,2026-02-01,0.125
+ADV-106,South Africa,Funeral,2026-03-01,0.153
+ADV-106,South Africa,Life,2026-04-01,0.114
+ADV-106,South Africa,Funeral,2026-05-01,0.121
+ADV-106,South Africa,Funeral,2026-06-01,0.162
+ADV-107,Lesotho,Life,2026-01-01,0.124
+ADV-107,Lesotho,Funeral,2026-02-01,0.117
+ADV-107,Lesotho,Life,2026-03-01,0.157
+ADV-107,Lesotho,Health,2026-04-01,0.112
+ADV-107,Lesotho,Funeral,2026-05-01,0.129
+ADV-107,Lesotho,Health,2026-06-01,0.125
+ADV-108,Lesotho,Life,2026-01-01,0.269
+ADV-108,Lesotho,Funeral,2026-02-01,0.272
+ADV-108,Lesotho,Investment,2026-03-01,0.281
+ADV-108,Lesotho,Life,2026-04-01,0.286
+ADV-108,Lesotho,Funeral,2026-05-01,0.314
+ADV-108,Lesotho,Funeral,2026-06-01,0.277
+ADV-109,South Africa,Life,2026-01-01,0.268
+ADV-109,South Africa,Life,2026-02-01,0.319
+ADV-109,South Africa,Health,2026-03-01,0.307
+ADV-109,South Africa,Life,2026-04-01,0.281
+ADV-109,South Africa,Funeral,2026-05-01,0.276
+ADV-109,South Africa,Funeral,2026-06-01,0.306
+ADV-110,South Africa,Life,2026-01-01,0.215
+ADV-110,South Africa,Funeral,2026-02-01,0.272
+ADV-110,South Africa,Health,2026-03-01,0.287
+ADV-110,South Africa,Funeral,2026-04-01,0.319
+ADV-110,South Africa,Life,2026-05-01,0.278
+ADV-110,South Africa,Funeral,2026-06-01,0.229
+ADV-111,South Africa,Funeral,2026-01-01,0.268
+ADV-111,South Africa,Life,2026-02-01,0.282
+ADV-111,South Africa,Health,2026-03-01,0.281
+ADV-111,South Africa,Life,2026-04-01,0.322
+ADV-111,South Africa,Funeral,2026-05-01,0.209
+ADV-111,South Africa,Life,2026-06-01,0.29
+ADV-112,South Africa,Life,2026-01-01,0.327
+ADV-112,South Africa,Life,2026-02-01,0.355
+ADV-112,South Africa,Life,2026-03-01,0.317
+ADV-112,South Africa,Health,2026-04-01,0.292
+ADV-112,South Africa,Funeral,2026-05-01,0.333
+ADV-112,South Africa,Investment,2026-06-01,0.354
+ADV-113,Botswana,Funeral,2026-01-01,0.331
+ADV-113,Botswana,Funeral,2026-02-01,0.333
+ADV-113,Botswana,Health,2026-03-01,0.335
+ADV-113,Botswana,Investment,2026-04-01,0.334
+ADV-113,Botswana,Health,2026-05-01,0.325
+ADV-113,Botswana,Investment,2026-06-01,0.371
+ADV-114,South Africa,Health,2026-01-01,0.219
+ADV-114,South Africa,Funeral,2026-02-01,0.166
+ADV-114,South Africa,Life,2026-03-01,0.205
+ADV-114,South Africa,Investment,2026-04-01,0.145
+ADV-114,South Africa,Funeral,2026-05-01,0.157
+ADV-114,South Africa,Funeral,2026-06-01,0.202
+ADV-115,South Africa,Health,2026-01-01,0.102
+ADV-115,South Africa,Health,2026-02-01,0.131
+ADV-115,South Africa,Life,2026-03-01,0.107
+ADV-115,South Africa,Health,2026-04-01,0.129
+ADV-115,South Africa,Funeral,2026-05-01,0.141
+ADV-115,South Africa,Funeral,2026-06-01,0.119
+ADV-116,South Africa,Health,2026-01-01,0.242
+ADV-116,South Africa,Funeral,2026-02-01,0.265
+ADV-116,South Africa,Life,2026-03-01,0.254
+ADV-116,South Africa,Health,2026-04-01,0.232
+ADV-116,South Africa,Life,2026-05-01,0.256
+ADV-116,South Africa,Health,2026-06-01,0.232
+ADV-117,Botswana,Funeral,2026-01-01,0.279
+ADV-117,Botswana,Funeral,2026-02-01,0.299
+ADV-117,Botswana,Health,2026-03-01,0.251
+ADV-117,Botswana,Funeral,2026-04-01,0.25
+ADV-117,Botswana,Life,2026-05-01,0.271
+ADV-117,Botswana,Health,2026-06-01,0.264
+ADV-118,Lesotho,Health,2026-01-01,0.193
+ADV-118,Lesotho,Health,2026-02-01,0.215
+ADV-118,Lesotho,Life,2026-03-01,0.163
+ADV-118,Lesotho,Health,2026-04-01,0.217
+ADV-118,Lesotho,Funeral,2026-05-01,0.215
+ADV-118,Lesotho,Funeral,2026-06-01,0.161
+ADV-119,South Africa,Funeral,2026-01-01,0.251
+ADV-119,South Africa,Funeral,2026-02-01,0.282
+ADV-119,South Africa,Life,2026-03-01,0.237
+ADV-119,South Africa,Health,2026-04-01,0.272
+ADV-119,South Africa,Funeral,2026-05-01,0.27
+ADV-119,South Africa,Health,2026-06-01,0.242
+ADV-120,Botswana,Life,2026-01-01,0.304
+ADV-120,Botswana,Funeral,2026-02-01,0.29
+ADV-120,Botswana,Life,2026-03-01,0.3
+ADV-120,Botswana,Health,2026-04-01,0.286
+ADV-120,Botswana,Funeral,2026-05-01,0.291
+ADV-120,Botswana,Funeral,2026-06-01,0.308
+ADV-121,South Africa,Life,2026-01-01,0.207
+ADV-121,South Africa,Health,2026-02-01,0.218
+ADV-121,South Africa,Funeral,2026-03-01,0.184
+ADV-121,South Africa,Investment,2026-04-01,0.211
+ADV-121,South Africa,Funeral,2026-05-01,0.205
+ADV-121,South Africa,Life,2026-06-01,0.171
+ADV-122,Namibia,Life,2026-01-01,0.16
+ADV-122,Namibia,Health,2026-02-01,0.181
+ADV-122,Namibia,Life,2026-03-01,0.171
+ADV-122,Namibia,Health,2026-04-01,0.15
+ADV-122,Namibia,Funeral,2026-05-01,0.1
+ADV-122,Namibia,Health,2026-06-01,0.089
+ADV-123,Namibia,Funeral,2026-01-01,0.174
+ADV-123,Namibia,Life,2026-02-01,0.216
+ADV-123,Namibia,Life,2026-03-01,0.189
+ADV-123,Namibia,Funeral,2026-04-01,0.194
+ADV-123,Namibia,Life,2026-05-01,0.203
+ADV-123,Namibia,Life,2026-06-01,0.216
+ADV-124,Namibia,Funeral,2026-01-01,0.201
+ADV-124,Namibia,Funeral,2026-02-01,0.15
+ADV-124,Namibia,Life,2026-03-01,0.174
+ADV-124,Namibia,Funeral,2026-04-01,0.145
+ADV-124,Namibia,Health,2026-05-01,0.134
+ADV-124,Namibia,Funeral,2026-06-01,0.145
+ADV-125,Lesotho,Health,2026-01-01,0.23
+ADV-125,Lesotho,Funeral,2026-02-01,0.259
+ADV-125,Lesotho,Health,2026-03-01,0.228
+ADV-125,Lesotho,Life,2026-04-01,0.229
+ADV-125,Lesotho,Life,2026-05-01,0.243
+ADV-125,Lesotho,Life,2026-06-01,0.258
+ADV-126,South Africa,Health,2026-01-01,0.305
+ADV-126,South Africa,Funeral,2026-02-01,0.335
+ADV-126,South Africa,Health,2026-03-01,0.309
+ADV-126,South Africa,Life,2026-04-01,0.309
+ADV-126,South Africa,Life,2026-05-01,0.354
+ADV-126,South Africa,Investment,2026-06-01,0.274
+ADV-127,South Africa,Funeral,2026-01-01,0.278
+ADV-127,South Africa,Health,2026-02-01,0.318
+ADV-127,South Africa,Life,2026-03-01,0.265
+ADV-127,South Africa,Health,2026-04-01,0.33
+ADV-127,South Africa,Life,2026-05-01,0.289
+ADV-127,South Africa,Funeral,2026-06-01,0.297
+ADV-128,South Africa,Life,2026-01-01,0.32
+ADV-128,South Africa,Investment,2026-02-01,0.314
+ADV-128,South Africa,Life,2026-03-01,0.328
+ADV-128,South Africa,Health,2026-04-01,0.288
+ADV-128,South Africa,Funeral,2026-05-01,0.312
+ADV-128,South Africa,Health,2026-06-01,0.305
+ADV-129,Lesotho,Investment,2026-01-01,0.302
+ADV-129,Lesotho,Funeral,2026-02-01,0.304
+ADV-129,Lesotho,Funeral,2026-03-01,0.276
+ADV-129,Lesotho,Life,2026-04-01,0.256
+ADV-129,Lesotho,Funeral,2026-05-01,0.281
+ADV-129,Lesotho,Funeral,2026-06-01,0.312
+ADV-130,Lesotho,Health,2026-01-01,0.244
+ADV-130,Lesotho,Funeral,2026-02-01,0.327
+ADV-130,Lesotho,Funeral,2026-03-01,0.323
+ADV-130,Lesotho,Investment,2026-04-01,0.286
+ADV-130,Lesotho,Health,2026-05-01,0.318
+ADV-130,Lesotho,Life,2026-06-01,0.282
+ADV-131,South Africa,Health,2026-01-01,0.202
+ADV-131,South Africa,Life,2026-02-01,0.197
+ADV-131,South Africa,Life,2026-03-01,0.221
+ADV-131,South Africa,Life,2026-04-01,0.195
+ADV-131,South Africa,Health,2026-05-01,0.179
+ADV-131,South Africa,Funeral,2026-06-01,0.185
+ADV-132,Botswana,Life,2026-01-01,0.318
+ADV-132,Botswana,Health,2026-02-01,0.332
+ADV-132,Botswana,Funeral,2026-03-01,0.31
+ADV-132,Botswana,Investment,2026-04-01,0.344
+ADV-132,Botswana,Funeral,2026-05-01,0.328
+ADV-132,Botswana,Funeral,2026-06-01,0.321
+ADV-133,South Africa,Health,2026-01-01,0.201
+ADV-133,South Africa,Life,2026-02-01,0.244
+ADV-133,South Africa,Life,2026-03-01,0.237
+ADV-133,South Africa,Funeral,2026-04-01,0.235
+ADV-133,South Africa,Life,2026-05-01,0.258
+ADV-133,South Africa,Funeral,2026-06-01,0.22
+ADV-134,South Africa,Funeral,2026-01-01,0.226
+ADV-134,South Africa,Funeral,2026-02-01,0.167
+ADV-134,South Africa,Funeral,2026-03-01,0.189
+ADV-134,South Africa,Funeral,2026-04-01,0.201
+ADV-134,South Africa,Health,2026-05-01,0.207
+ADV-134,South Africa,Funeral,2026-06-01,0.191
+ADV-135,Botswana,Life,2026-01-01,0.184
+ADV-135,Botswana,Investment,2026-02-01,0.192
+ADV-135,Botswana,Life,2026-03-01,0.222
+ADV-135,Botswana,Funeral,2026-04-01,0.222
+ADV-135,Botswana,Life,2026-05-01,0.18
+ADV-135,Botswana,Funeral,2026-06-01,0.175
+ADV-136,South Africa,Health,2026-01-01,0.35
+ADV-136,South Africa,Funeral,2026-02-01,0.337
+ADV-136,South Africa,Funeral,2026-03-01,0.303
+ADV-136,South Africa,Health,2026-04-01,0.306
+ADV-136,South Africa,Life,2026-05-01,0.356
+ADV-136,South Africa,Health,2026-06-01,0.295
+ADV-137,Lesotho,Investment,2026-01-01,0.18
+ADV-137,Lesotho,Life,2026-02-01,0.197
+ADV-137,Lesotho,Funeral,2026-03-01,0.211
+ADV-137,Lesotho,Life,2026-04-01,0.166
+ADV-137,Lesotho,Life,2026-05-01,0.214
+ADV-137,Lesotho,Investment,2026-06-01,0.197
+ADV-138,South Africa,Life,2026-01-01,0.259
+ADV-138,South Africa,Health,2026-02-01,0.22
+ADV-138,South Africa,Life,2026-03-01,0.257
+ADV-138,South Africa,Investment,2026-04-01,0.234
+ADV-138,South Africa,Health,2026-05-01,0.243
+ADV-138,South Africa,Life,2026-06-01,0.25
+ADV-139,South Africa,Investment,2026-01-01,0.176
+ADV-139,South Africa,Investment,2026-02-01,0.199
+ADV-139,South Africa,Health,2026-03-01,0.199
+ADV-139,South Africa,Funeral,2026-04-01,0.134
+ADV-139,South Africa,Funeral,2026-05-01,0.227
+ADV-139,South Africa,Funeral,2026-06-01,0.193
+ADV-140,Namibia,Investment,2026-01-01,0.198
+ADV-140,Namibia,Investment,2026-02-01,0.2
+ADV-140,Namibia,Life,2026-03-01,0.178
+ADV-140,Namibia,Funeral,2026-04-01,0.163
+ADV-140,Namibia,Health,2026-05-01,0.135
+ADV-140,Namibia,Investment,2026-06-01,0.101
+ADV-141,South Africa,Health,2026-01-01,0.301
+ADV-141,South Africa,Investment,2026-02-01,0.313
+ADV-141,South Africa,Life,2026-03-01,0.352
+ADV-141,South Africa,Funeral,2026-04-01,0.316
+ADV-141,South Africa,Funeral,2026-05-01,0.317
+ADV-141,South Africa,Funeral,2026-06-01,0.33
+ADV-142,South Africa,Life,2026-01-01,0.182
+ADV-142,South Africa,Health,2026-02-01,0.189
+ADV-142,South Africa,Health,2026-03-01,0.188
+ADV-142,South Africa,Funeral,2026-04-01,0.227
+ADV-142,South Africa,Health,2026-05-01,0.219
+ADV-142,South Africa,Funeral,2026-06-01,0.249
+ADV-143,South Africa,Funeral,2026-01-01,0.3
+ADV-143,South Africa,Life,2026-02-01,0.353
+ADV-143,South Africa,Health,2026-03-01,0.33
+ADV-143,South Africa,Funeral,2026-04-01,0.341
+ADV-143,South Africa,Funeral,2026-05-01,0.317
+ADV-143,South Africa,Life,2026-06-01,0.344
+ADV-144,South Africa,Life,2026-01-01,0.327
+ADV-144,South Africa,Funeral,2026-02-01,0.323
+ADV-144,South Africa,Funeral,2026-03-01,0.334
+ADV-144,South Africa,Funeral,2026-04-01,0.303
+ADV-144,South Africa,Funeral,2026-05-01,0.289
+ADV-144,South Africa,Funeral,2026-06-01,0.314
+ADV-145,South Africa,Funeral,2026-01-01,0.21
+ADV-145,South Africa,Life,2026-02-01,0.2
+ADV-145,South Africa,Funeral,2026-03-01,0.177
+ADV-145,South Africa,Life,2026-04-01,0.201
+ADV-145,South Africa,Funeral,2026-05-01,0.176
+ADV-145,South Africa,Health,2026-06-01,0.217
+ADV-146,South Africa,Funeral,2026-01-01,0.256
+ADV-146,South Africa,Life,2026-02-01,0.261
+ADV-146,South Africa,Health,2026-03-01,0.261
+ADV-146,South Africa,Funeral,2026-04-01,0.224
+ADV-146,South Africa,Funeral,2026-05-01,0.233
+ADV-146,South Africa,Funeral,2026-06-01,0.245
+ADV-147,South Africa,Investment,2026-01-01,0.278
+ADV-147,South Africa,Investment,2026-02-01,0.283
+ADV-147,South Africa,Life,2026-03-01,0.305
+ADV-147,South Africa,Funeral,2026-04-01,0.318
+ADV-147,South Africa,Funeral,2026-05-01,0.281
+ADV-147,South Africa,Investment,2026-06-01,0.332
+ADV-148,South Africa,Funeral,2026-01-01,0.239
+ADV-148,South Africa,Funeral,2026-02-01,0.243
+ADV-148,South Africa,Funeral,2026-03-01,0.238
+ADV-148,South Africa,Funeral,2026-04-01,0.246
+ADV-148,South Africa,Health,2026-05-01,0.264
+ADV-148,South Africa,Health,2026-06-01,0.253
+ADV-149,Botswana,Health,2026-01-01,0.287
+ADV-149,Botswana,Funeral,2026-02-01,0.269
+ADV-149,Botswana,Life,2026-03-01,0.274
+ADV-149,Botswana,Life,2026-04-01,0.246
+ADV-149,Botswana,Life,2026-05-01,0.263
+ADV-149,Botswana,Funeral,2026-06-01,0.271
+ADV-150,Namibia,Funeral,2026-01-01,0.271
+ADV-150,Namibia,Life,2026-02-01,0.273
+ADV-150,Namibia,Health,2026-03-01,0.313
+ADV-150,Namibia,Funeral,2026-04-01,0.3
+ADV-150,Namibia,Life,2026-05-01,0.298
+ADV-150,Namibia,Life,2026-06-01,0.326
+ADV-151,South Africa,Life,2026-01-01,0.111
+ADV-151,South Africa,Investment,2026-02-01,0.109
+ADV-151,South Africa,Investment,2026-03-01,0.114
+ADV-151,South Africa,Health,2026-04-01,0.144
+ADV-151,South Africa,Life,2026-05-01,0.101
+ADV-151,South Africa,Funeral,2026-06-01,0.16
+ADV-152,South Africa,Funeral,2026-01-01,0.181
+ADV-152,South Africa,Funeral,2026-02-01,0.231
+ADV-152,South Africa,Health,2026-03-01,0.174
+ADV-152,South Africa,Funeral,2026-04-01,0.185
+ADV-152,South Africa,Life,2026-05-01,0.236
+ADV-152,South Africa,Funeral,2026-06-01,0.207
+ADV-153,South Africa,Funeral,2026-01-01,0.248
+ADV-153,South Africa,Health,2026-02-01,0.228
+ADV-153,South Africa,Health,2026-03-01,0.256
+ADV-153,South Africa,Funeral,2026-04-01,0.229
+ADV-153,South Africa,Funeral,2026-05-01,0.247
+ADV-153,South Africa,Funeral,2026-06-01,0.199
+ADV-154,South Africa,Life,2026-01-01,0.134
+ADV-154,South Africa,Health,2026-02-01,0.187
+ADV-154,South Africa,Life,2026-03-01,0.216
+ADV-154,South Africa,Health,2026-04-01,0.19
+ADV-154,South Africa,Health,2026-05-01,0.187
+ADV-154,South Africa,Funeral,2026-06-01,0.212
+ADV-155,Lesotho,Funeral,2026-01-01,0.234
+ADV-155,Lesotho,Life,2026-02-01,0.204
+ADV-155,Lesotho,Life,2026-03-01,0.258
+ADV-155,Lesotho,Funeral,2026-04-01,0.245
+ADV-155,Lesotho,Life,2026-05-01,0.227
+ADV-155,Lesotho,Funeral,2026-06-01,0.236
+ADV-156,South Africa,Life,2026-01-01,0.272
+ADV-156,South Africa,Life,2026-02-01,0.275
+ADV-156,South Africa,Health,2026-03-01,0.243
+ADV-156,South Africa,Funeral,2026-04-01,0.23
+ADV-156,South Africa,Funeral,2026-05-01,0.24
+ADV-156,South Africa,Life,2026-06-01,0.203
+ADV-157,South Africa,Funeral,2026-01-01,0.18
+ADV-157,South Africa,Health,2026-02-01,0.199
+ADV-157,South Africa,Health,2026-03-01,0.215
+ADV-157,South Africa,Life,2026-04-01,0.226
+ADV-157,South Africa,Life,2026-05-01,0.21
+ADV-157,South Africa,Funeral,2026-06-01,0.207
+ADV-158,Botswana,Investment,2026-01-01,0.228
+ADV-158,Botswana,Life,2026-02-01,0.21
+ADV-158,Botswana,Investment,2026-03-01,0.256
+ADV-158,Botswana,Life,2026-04-01,0.254
+ADV-158,Botswana,Funeral,2026-05-01,0.261
+ADV-158,Botswana,Funeral,2026-06-01,0.269
+ADV-159,South Africa,Life,2026-01-01,0.21
+ADV-159,South Africa,Funeral,2026-02-01,0.236
+ADV-159,South Africa,Funeral,2026-03-01,0.201
+ADV-159,South Africa,Funeral,2026-04-01,0.21
+ADV-159,South Africa,Funeral,2026-05-01,0.233
+ADV-159,South Africa,Funeral,2026-06-01,0.205
+ADV-160,Namibia,Life,2026-01-01,0.337
+ADV-160,Namibia,Funeral,2026-02-01,0.315
+ADV-160,Namibia,Life,2026-03-01,0.235
+ADV-160,Namibia,Health,2026-04-01,0.225
+ADV-160,Namibia,Investment,2026-05-01,0.24
+ADV-160,Namibia,Funeral,2026-06-01,0.218

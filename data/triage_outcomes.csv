@@ -1,0 +1,5201 @@
+claim_id,tier,outcome,turnaround_hours
+CLM-000001,Green,Auto-approved,3.8
+CLM-000002,Amber,Human review,65.4
+CLM-000003,Amber,Human review,35.1
+CLM-000004,Amber,Human review,34.3
+CLM-000005,Green,Auto-approved,1.8
+CLM-000006,Amber,Human review,37.1
+CLM-000007,Green,Auto-approved,3.0
+CLM-000008,Red,SIU referral,466.1
+CLM-000009,Red,SIU referral,393.4
+CLM-000010,Green,Auto-approved,3.2
+CLM-000011,Green,Auto-approved,2.9
+CLM-000012,Amber,Human review,48.7
+CLM-000013,Amber,Human review,39.0
+CLM-000014,Green,Auto-approved,2.3
+CLM-000015,Amber,Human review,33.4
+CLM-000016,Green,Auto-approved,1.2
+CLM-000017,Green,Auto-approved,1.1
+CLM-000018,Green,Auto-approved,1.1
+CLM-000019,Amber,Human review,78.0
+CLM-000020,Amber,Human review,92.8
+CLM-000021,Amber,Human review,29.1
+CLM-000022,Green,Auto-approved,2.5
+CLM-000023,Green,Auto-approved,3.9
+CLM-000024,Green,Auto-approved,2.4
+CLM-000025,Green,Auto-approved,1.7
+CLM-000026,Green,Auto-approved,2.7
+CLM-000027,Red,SIU referral,479.9
+CLM-000028,Amber,Human review,64.3
+CLM-000029,Amber,Human review,41.0
+CLM-000030,Amber,Human review,76.4
+CLM-000031,Green,Auto-approved,2.0
+CLM-000032,Green,Auto-approved,3.0
+CLM-000033,Red,SIU referral,138.8
+CLM-000034,Green,Auto-approved,1.0
+CLM-000035,Green,Auto-approved,1.2
+CLM-000036,Red,SIU referral,418.3
+CLM-000037,Red,SIU referral,395.7
+CLM-000038,Green,Auto-approved,2.3
+CLM-000039,Green,Auto-approved,0.6
+CLM-000040,Green,Auto-approved,0.7
+CLM-000041,Amber,Human review,41.7
+CLM-000042,Green,Auto-approved,1.5
+CLM-000043,Green,Auto-approved,1.4
+CLM-000044,Amber,Human review,70.6
+CLM-000045,Green,Auto-approved,3.7
+CLM-000046,Red,SIU referral,130.8
+CLM-000047,Green,Auto-approved,3.5
+CLM-000048,Red,SIU referral,273.2
+CLM-000049,Amber,Human review,39.6
+CLM-000050,Amber,Human review,75.2
+CLM-000051,Green,Auto-approved,1.1
+CLM-000052,Amber,Human review,66.2
+CLM-000053,Amber,Human review,55.1
+CLM-000054,Green,Auto-approved,2.0
+CLM-000055,Amber,Human review,32.0
+CLM-000056,Green,Auto-approved,3.4
+CLM-000057,Red,SIU referral,206.0
+CLM-000058,Green,Auto-approved,3.7
+CLM-000059,Green,Auto-approved,0.8
+CLM-000060,Amber,Human review,45.6
+CLM-000061,Green,Auto-approved,2.6
+CLM-000062,Green,Auto-approved,1.2
+CLM-000063,Green,Auto-approved,1.7
+CLM-000064,Amber,Human review,54.2
+CLM-000065,Red,SIU referral,476.4
+CLM-000066,Amber,Human review,44.0
+CLM-000067,Green,Auto-approved,3.2
+CLM-000068,Red,SIU referral,275.5
+CLM-000069,Amber,Human review,82.6
+CLM-000070,Amber,Human review,36.3
+CLM-000071,Amber,Human review,49.2
+CLM-000072,Amber,Human review,52.0
+CLM-000073,Amber,Human review,67.3
+CLM-000074,Red,SIU referral,410.1
+CLM-000075,Amber,Human review,27.6
+CLM-000076,Amber,Human review,34.1
+CLM-000077,Green,Auto-approved,3.8
+CLM-000078,Green,Auto-approved,2.2
+CLM-000079,Amber,Human review,61.6
+CLM-000080,Amber,Human review,51.1
+CLM-000081,Green,Auto-approved,3.1
+CLM-000082,Amber,Human review,60.1
+CLM-000083,Green,Auto-approved,3.8
+CLM-000084,Green,Auto-approved,1.5
+CLM-000085,Green,Auto-approved,3.2
+CLM-000086,Green,Auto-approved,0.7
+CLM-000087,Green,Auto-approved,1.1
+CLM-000088,Green,Auto-approved,3.1
+CLM-000089,Green,Auto-approved,3.5
+CLM-000090,Green,Auto-approved,2.7
+CLM-000091,Amber,Human review,53.3
+CLM-000092,Green,Auto-approved,1.0
+CLM-000093,Green,Auto-approved,3.3
+CLM-000094,Amber,Human review,88.1
+CLM-000095,Green,Auto-approved,3.5
+CLM-000096,Amber,Human review,59.8
+CLM-000097,Green,Auto-approved,1.3
+CLM-000098,Amber,Human review,28.1
+CLM-000099,Green,Auto-approved,0.8
+CLM-000100,Green,Auto-approved,1.0
+CLM-000101,Green,Auto-approved,3.4
+CLM-000102,Green,Auto-approved,0.6
+CLM-000103,Green,Auto-approved,0.6
+CLM-000104,Amber,Human review,40.6
+CLM-000105,Green,Auto-approved,2.5
+CLM-000106,Amber,Human review,34.9
+CLM-000107,Amber,Human review,94.9
+CLM-000108,Green,Auto-approved,1.5
+CLM-000109,Amber,Human review,84.2
+CLM-000110,Green,Auto-approved,1.5
+CLM-000111,Amber,Human review,45.6
+CLM-000112,Green,Auto-approved,3.9
+CLM-000113,Amber,Human review,34.9
+CLM-000114,Amber,Human review,47.1
+CLM-000115,Green,Auto-approved,2.4
+CLM-000116,Amber,Human review,58.1
+CLM-000117,Green,Auto-approved,2.6
+CLM-000118,Amber,Human review,30.0
+CLM-000119,Red,SIU referral,366.6
+CLM-000120,Green,Auto-approved,3.6
+CLM-000121,Amber,Human review,50.9
+CLM-000122,Amber,Human review,41.3
+CLM-000123,Amber,Human review,77.5
+CLM-000124,Green,Auto-approved,2.0
+CLM-000125,Amber,Human review,35.7
+CLM-000126,Green,Auto-approved,1.0
+CLM-000127,Green,Auto-approved,2.6
+CLM-000128,Green,Auto-approved,2.1
+CLM-000129,Green,Auto-approved,1.0
+CLM-000130,Green,Auto-approved,1.6
+CLM-000131,Green,Auto-approved,2.9
+CLM-000132,Amber,Human review,93.4
+CLM-000133,Amber,Human review,50.7
+CLM-000134,Green,Auto-approved,3.0
+CLM-000135,Amber,Human review,69.6
+CLM-000136,Green,Auto-approved,2.8
+CLM-000137,Amber,Human review,40.6
+CLM-000138,Amber,Human review,90.9
+CLM-000139,Amber,Human review,29.6
+CLM-000140,Green,Auto-approved,2.1
+CLM-000141,Amber,Human review,88.4
+CLM-000142,Amber,Human review,87.0
+CLM-000143,Amber,Human review,88.5
+CLM-000144,Amber,Human review,33.6
+CLM-000145,Amber,Human review,48.2
+CLM-000146,Amber,Human review,32.6
+CLM-000147,Green,Auto-approved,1.6
+CLM-000148,Green,Auto-approved,1.4
+CLM-000149,Amber,Human review,92.2
+CLM-000150,Amber,Human review,87.2
+CLM-000151,Green,Auto-approved,1.8
+CLM-000152,Amber,Human review,94.0
+CLM-000153,Green,Auto-approved,0.6
+CLM-000154,Green,Auto-approved,1.7
+CLM-000155,Green,Auto-approved,1.8
+CLM-000156,Amber,Human review,64.4
+CLM-000157,Green,Auto-approved,2.5
+CLM-000158,Red,SIU referral,125.9
+CLM-000159,Red,SIU referral,224.8
+CLM-000160,Amber,Human review,37.5
+CLM-000161,Amber,Human review,92.2
+CLM-000162,Amber,Human review,25.8
+CLM-000163,Green,Auto-approved,0.5
+CLM-000164,Green,Auto-approved,1.4
+CLM-000165,Amber,Human review,42.8
+CLM-000166,Green,Auto-approved,1.4
+CLM-000167,Amber,Human review,89.7
+CLM-000168,Amber,Human review,55.8
+CLM-000169,Amber,Human review,91.0
+CLM-000170,Amber,Human review,55.7
+CLM-000171,Green,Auto-approved,1.0
+CLM-000172,Green,Auto-approved,3.0
+CLM-000173,Amber,Human review,39.5
+CLM-000174,Green,Auto-approved,2.0
+CLM-000175,Green,Auto-approved,1.7
+CLM-000176,Green,Auto-approved,2.0
+CLM-000177,Green,Auto-approved,2.2
+CLM-000178,Green,Auto-approved,1.6
+CLM-000179,Amber,Human review,74.3
+CLM-000180,Green,Auto-approved,3.9
+CLM-000181,Red,SIU referral,182.4
+CLM-000182,Amber,Human review,26.7
+CLM-000183,Amber,Human review,55.7
+CLM-000184,Green,Auto-approved,3.9
+CLM-000185,Green,Auto-approved,3.1
+CLM-000186,Green,Auto-approved,2.3
+CLM-000187,Green,Auto-approved,2.2
+CLM-000188,Amber,Human review,90.0
+CLM-000189,Red,SIU referral,172.3
+CLM-000190,Green,Auto-approved,1.4
+CLM-000191,Green,Auto-approved,2.6
+CLM-000192,Amber,Human review,94.7
+CLM-000193,Amber,Human review,40.0
+CLM-000194,Green,Auto-approved,3.9
+CLM-000195,Amber,Human review,86.6
+CLM-000196,Amber,Human review,61.3
+CLM-000197,Amber,Human review,24.4
+CLM-000198,Green,Auto-approved,2.3
+CLM-000199,Green,Auto-approved,1.5
+CLM-000200,Amber,Human review,44.4
+CLM-000201,Red,SIU referral,269.0
+CLM-000202,Amber,Human review,49.2
+CLM-000203,Amber,Human review,74.9
+CLM-000204,Green,Auto-approved,2.3
+CLM-000205,Amber,Human review,57.4
+CLM-000206,Green,Auto-approved,1.1
+CLM-000207,Green,Auto-approved,1.7
+CLM-000208,Green,Auto-approved,3.8
+CLM-000209,Amber,Human review,94.9
+CLM-000210,Green,Auto-approved,3.0
+CLM-000211,Green,Auto-approved,1.0
+CLM-000212,Green,Auto-approved,0.9
+CLM-000213,Green,Auto-approved,0.7
+CLM-000214,Red,SIU referral,190.2
+CLM-000215,Green,Auto-approved,2.8
+CLM-000216,Red,SIU referral,146.9
+CLM-000217,Amber,Human review,48.5
+CLM-000218,Green,Auto-approved,2.2
+CLM-000219,Green,Auto-approved,4.0
+CLM-000220,Green,Auto-approved,1.4
+CLM-000221,Green,Auto-approved,1.7
+CLM-000222,Red,SIU referral,355.2
+CLM-000223,Amber,Human review,42.5
+CLM-000224,Amber,Human review,80.9
+CLM-000225,Green,Auto-approved,2.7
+CLM-000226,Green,Auto-approved,2.6
+CLM-000227,Amber,Human review,66.0
+CLM-000228,Amber,Human review,59.2
+CLM-000229,Green,Auto-approved,3.0
+CLM-000230,Amber,Human review,93.6
+CLM-000231,Green,Auto-approved,3.1
+CLM-000232,Amber,Human review,27.2
+CLM-000233,Green,Auto-approved,0.7
+CLM-000234,Green,Auto-approved,3.0
+CLM-000235,Amber,Human review,78.0
+CLM-000236,Amber,Human review,71.5
+CLM-000237,Amber,Human review,41.2
+CLM-000238,Green,Auto-approved,3.9
+CLM-000239,Green,Auto-approved,0.6
+CLM-000240,Amber,Human review,92.8
+CLM-000241,Amber,Human review,76.0
+CLM-000242,Green,Auto-approved,1.2
+CLM-000243,Red,SIU referral,375.2
+CLM-000244,Amber,Human review,37.3
+CLM-000245,Green,Auto-approved,3.9
+CLM-000246,Green,Auto-approved,1.9
+CLM-000247,Amber,Human review,62.3
+CLM-000248,Green,Auto-approved,1.1
+CLM-000249,Green,Auto-approved,1.0
+CLM-000250,Green,Auto-approved,1.2
+CLM-000251,Green,Auto-approved,2.1
+CLM-000252,Green,Auto-approved,1.8
+CLM-000253,Amber,Human review,33.1
+CLM-000254,Green,Auto-approved,2.8
+CLM-000255,Amber,Human review,92.0
+CLM-000256,Amber,Human review,86.2
+CLM-000257,Amber,Human review,35.6
+CLM-000258,Green,Auto-approved,3.0
+CLM-000259,Green,Auto-approved,2.3
+CLM-000260,Green,Auto-approved,2.6
+CLM-000261,Amber,Human review,36.2
+CLM-000262,Amber,Human review,65.7
+CLM-000263,Amber,Human review,89.2
+CLM-000264,Amber,Human review,50.1
+CLM-000265,Amber,Human review,53.5
+CLM-000266,Amber,Human review,50.8
+CLM-000267,Amber,Human review,70.0
+CLM-000268,Green,Auto-approved,0.8
+CLM-000269,Amber,Human review,51.2
+CLM-000270,Amber,Human review,88.0
+CLM-000271,Green,Auto-approved,3.9
+CLM-000272,Green,Auto-approved,0.9
+CLM-000273,Amber,Human review,35.8
+CLM-000274,Amber,Human review,89.5
+CLM-000275,Amber,Human review,68.1
+CLM-000276,Green,Auto-approved,1.6
+CLM-000277,Amber,Human review,94.8
+CLM-000278,Amber,Human review,59.1
+CLM-000279,Amber,Human review,81.8
+CLM-000280,Amber,Human review,34.6
+CLM-000281,Amber,Human review,46.3
+CLM-000282,Green,Auto-approved,1.7
+CLM-000283,Amber,Human review,70.5
+CLM-000284,Amber,Human review,72.2
+CLM-000285,Amber,Human review,59.6
+CLM-000286,Amber,Human review,61.9
+CLM-000287,Amber,Human review,39.9
+CLM-000288,Green,Auto-approved,2.5
+CLM-000289,Amber,Human review,95.5
+CLM-000290,Green,Auto-approved,3.7
+CLM-000291,Green,Auto-approved,3.9
+CLM-000292,Amber,Human review,35.5
+CLM-000293,Green,Auto-approved,0.5
+CLM-000294,Red,SIU referral,345.6
+CLM-000295,Green,Auto-approved,2.4
+CLM-000296,Green,Auto-approved,2.0
+CLM-000297,Green,Auto-approved,2.4
+CLM-000298,Amber,Human review,88.9
+CLM-000299,Green,Auto-approved,3.6
+CLM-000300,Green,Auto-approved,1.8
+CLM-000301,Green,Auto-approved,2.8
+CLM-000302,Green,Auto-approved,2.7
+CLM-000303,Green,Auto-approved,3.8
+CLM-000304,Green,Auto-approved,3.3
+CLM-000305,Amber,Human review,63.9
+CLM-000306,Green,Auto-approved,0.7
+CLM-000307,Green,Auto-approved,1.6
+CLM-000308,Green,Auto-approved,1.2
+CLM-000309,Green,Auto-approved,3.3
+CLM-000310,Amber,Human review,86.4
+CLM-000311,Green,Auto-approved,3.1
+CLM-000312,Green,Auto-approved,2.0
+CLM-000313,Amber,Human review,36.9
+CLM-000314,Green,Auto-approved,2.4
+CLM-000315,Green,Auto-approved,3.1
+CLM-000316,Green,Auto-approved,0.6
+CLM-000317,Green,Auto-approved,1.5
+CLM-000318,Green,Auto-approved,3.8
+CLM-000319,Amber,Human review,66.1
+CLM-000320,Green,Auto-approved,3.3
+CLM-000321,Green,Auto-approved,0.6
+CLM-000322,Amber,Human review,44.4
+CLM-000323,Green,Auto-approved,2.8
+CLM-000324,Green,Auto-approved,1.2
+CLM-000325,Green,Auto-approved,2.6
+CLM-000326,Amber,Human review,56.0
+CLM-000327,Green,Auto-approved,2.3
+CLM-000328,Green,Auto-approved,2.8
+CLM-000329,Green,Auto-approved,1.7
+CLM-000330,Green,Auto-approved,3.8
+CLM-000331,Green,Auto-approved,1.1
+CLM-000332,Green,Auto-approved,3.2
+CLM-000333,Green,Auto-approved,2.4
+CLM-000334,Green,Auto-approved,3.5
+CLM-000335,Green,Auto-approved,3.6
+CLM-000336,Green,Auto-approved,0.7
+CLM-000337,Amber,Human review,88.9
+CLM-000338,Amber,Human review,74.5
+CLM-000339,Green,Auto-approved,3.7
+CLM-000340,Green,Auto-approved,3.6
+CLM-000341,Amber,Human review,44.3
+CLM-000342,Green,Auto-approved,2.3
+CLM-000343,Green,Auto-approved,2.1
+CLM-000344,Green,Auto-approved,3.6
+CLM-000345,Green,Auto-approved,3.4
+CLM-000346,Red,SIU referral,472.4
+CLM-000347,Amber,Human review,90.1
+CLM-000348,Green,Auto-approved,1.4
+CLM-000349,Green,Auto-approved,2.6
+CLM-000350,Amber,Human review,29.1
+CLM-000351,Green,Auto-approved,3.9
+CLM-000352,Green,Auto-approved,0.7
+CLM-000353,Green,Auto-approved,0.9
+CLM-000354,Green,Auto-approved,2.7
+CLM-000355,Green,Auto-approved,2.2
+CLM-000356,Red,SIU referral,190.7
+CLM-000357,Green,Auto-approved,1.8
+CLM-000358,Amber,Human review,27.4
+CLM-000359,Red,SIU referral,189.4
+CLM-000360,Amber,Human review,66.6
+CLM-000361,Red,SIU referral,354.2
+CLM-000362,Green,Auto-approved,3.3
+CLM-000363,Green,Auto-approved,2.5
+CLM-000364,Green,Auto-approved,2.1
+CLM-000365,Amber,Human review,30.6
+CLM-000366,Amber,Human review,54.5
+CLM-000367,Amber,Human review,24.6
+CLM-000368,Amber,Human review,33.4
+CLM-000369,Green,Auto-approved,2.8
+CLM-000370,Green,Auto-approved,3.1
+CLM-000371,Green,Auto-approved,1.4
+CLM-000372,Amber,Human review,55.2
+CLM-000373,Amber,Human review,90.3
+CLM-000374,Green,Auto-approved,4.0
+CLM-000375,Amber,Human review,72.0
+CLM-000376,Amber,Human review,52.5
+CLM-000377,Green,Auto-approved,1.6
+CLM-000378,Green,Auto-approved,1.4
+CLM-000379,Amber,Human review,64.2
+CLM-000380,Green,Auto-approved,3.3
+CLM-000381,Amber,Human review,24.8
+CLM-000382,Green,Auto-approved,3.3
+CLM-000383,Red,SIU referral,417.4
+CLM-000384,Green,Auto-approved,1.1
+CLM-000385,Amber,Human review,81.8
+CLM-000386,Amber,Human review,57.7
+CLM-000387,Green,Auto-approved,1.3
+CLM-000388,Green,Auto-approved,2.9
+CLM-000389,Amber,Human review,39.0
+CLM-000390,Amber,Human review,48.0
+CLM-000391,Amber,Human review,71.0
+CLM-000392,Amber,Human review,32.1
+CLM-000393,Green,Auto-approved,3.3
+CLM-000394,Amber,Human review,83.2
+CLM-000395,Green,Auto-approved,2.1
+CLM-000396,Green,Auto-approved,1.5
+CLM-000397,Green,Auto-approved,4.0
+CLM-000398,Green,Auto-approved,0.6
+CLM-000399,Green,Auto-approved,2.2
+CLM-000400,Amber,Human review,88.1
+CLM-000401,Green,Auto-approved,2.8
+CLM-000402,Green,Auto-approved,2.1
+CLM-000403,Green,Auto-approved,1.8
+CLM-000404,Red,SIU referral,479.8
+CLM-000405,Green,Auto-approved,2.5
+CLM-000406,Green,Auto-approved,2.6
+CLM-000407,Amber,Human review,79.2
+CLM-000408,Amber,Human review,90.4
+CLM-000409,Amber,Human review,49.3
+CLM-000410,Green,Auto-approved,1.8
+CLM-000411,Amber,Human review,26.3
+CLM-000412,Red,SIU referral,475.6
+CLM-000413,Green,Auto-approved,1.7
+CLM-000414,Green,Auto-approved,2.5
+CLM-000415,Green,Auto-approved,2.7
+CLM-000416,Green,Auto-approved,3.4
+CLM-000417,Green,Auto-approved,3.8
+CLM-000418,Green,Auto-approved,0.7
+CLM-000419,Green,Auto-approved,3.5
+CLM-000420,Green,Auto-approved,1.0
+CLM-000421,Amber,Human review,47.8
+CLM-000422,Green,Auto-approved,1.0
+CLM-000423,Amber,Human review,67.9
+CLM-000424,Amber,Human review,46.5
+CLM-000425,Green,Auto-approved,1.9
+CLM-000426,Red,SIU referral,113.4
+CLM-000427,Green,Auto-approved,3.8
+CLM-000428,Green,Auto-approved,1.2
+CLM-000429,Green,Auto-approved,1.9
+CLM-000430,Green,Auto-approved,2.0
+CLM-000431,Green,Auto-approved,1.2
+CLM-000432,Green,Auto-approved,3.1
+CLM-000433,Amber,Human review,54.7
+CLM-000434,Amber,Human review,75.3
+CLM-000435,Amber,Human review,83.0
+CLM-000436,Amber,Human review,32.0
+CLM-000437,Amber,Human review,92.9
+CLM-000438,Green,Auto-approved,1.0
+CLM-000439,Amber,Human review,52.5
+CLM-000440,Amber,Human review,91.7
+CLM-000441,Amber,Human review,51.4
+CLM-000442,Green,Auto-approved,1.5
+CLM-000443,Green,Auto-approved,0.9
+CLM-000444,Green,Auto-approved,1.7
+CLM-000445,Green,Auto-approved,1.2
+CLM-000446,Amber,Human review,31.5
+CLM-000447,Amber,Human review,32.0
+CLM-000448,Amber,Human review,67.4
+CLM-000449,Amber,Human review,61.0
+CLM-000450,Amber,Human review,79.0
+CLM-000451,Green,Auto-approved,2.3
+CLM-000452,Green,Auto-approved,1.0
+CLM-000453,Green,Auto-approved,2.9
+CLM-000454,Green,Auto-approved,1.1
+CLM-000455,Green,Auto-approved,2.8
+CLM-000456,Green,Auto-approved,2.5
+CLM-000457,Green,Auto-approved,0.6
+CLM-000458,Green,Auto-approved,2.0
+CLM-000459,Amber,Human review,38.5
+CLM-000460,Green,Auto-approved,3.0
+CLM-000461,Amber,Human review,25.1
+CLM-000462,Green,Auto-approved,0.7
+CLM-000463,Green,Auto-approved,1.7
+CLM-000464,Amber,Human review,41.4
+CLM-000465,Green,Auto-approved,1.7
+CLM-000466,Green,Auto-approved,1.2
+CLM-000467,Green,Auto-approved,3.4
+CLM-000468,Amber,Human review,73.2
+CLM-000469,Green,Auto-approved,3.3
+CLM-000470,Amber,Human review,70.2
+CLM-000471,Green,Auto-approved,2.6
+CLM-000472,Amber,Human review,27.8
+CLM-000473,Green,Auto-approved,3.0
+CLM-000474,Green,Auto-approved,2.1
+CLM-000475,Green,Auto-approved,2.2
+CLM-000476,Amber,Human review,65.4
+CLM-000477,Green,Auto-approved,3.7
+CLM-000478,Green,Auto-approved,3.0
+CLM-000479,Red,SIU referral,134.2
+CLM-000480,Amber,Human review,65.0
+CLM-000481,Amber,Human review,90.4
+CLM-000482,Green,Auto-approved,2.9
+CLM-000483,Red,SIU referral,321.7
+CLM-000484,Amber,Human review,39.0
+CLM-000485,Amber,Human review,75.2
+CLM-000486,Green,Auto-approved,2.7
+CLM-000487,Amber,Human review,61.2
+CLM-000488,Red,SIU referral,113.0
+CLM-000489,Green,Auto-approved,3.0
+CLM-000490,Amber,Human review,32.9
+CLM-000491,Amber,Human review,27.5
+CLM-000492,Green,Auto-approved,2.2
+CLM-000493,Green,Auto-approved,1.0
+CLM-000494,Green,Auto-approved,2.7
+CLM-000495,Amber,Human review,77.8
+CLM-000496,Amber,Human review,85.2
+CLM-000497,Amber,Human review,74.3
+CLM-000498,Green,Auto-approved,3.3
+CLM-000499,Green,Auto-approved,0.9
+CLM-000500,Green,Auto-approved,0.8
+CLM-000501,Amber,Human review,77.6
+CLM-000502,Green,Auto-approved,1.7
+CLM-000503,Green,Auto-approved,3.4
+CLM-000504,Green,Auto-approved,2.6
+CLM-000505,Green,Auto-approved,0.6
+CLM-000506,Green,Auto-approved,0.8
+CLM-000507,Green,Auto-approved,0.8
+CLM-000508,Red,SIU referral,124.4
+CLM-000509,Amber,Human review,77.9
+CLM-000510,Amber,Human review,71.8
+CLM-000511,Red,SIU referral,186.4
+CLM-000512,Green,Auto-approved,3.4
+CLM-000513,Amber,Human review,24.6
+CLM-000514,Green,Auto-approved,2.0
+CLM-000515,Green,Auto-approved,2.3
+CLM-000516,Green,Auto-approved,2.5
+CLM-000517,Green,Auto-approved,3.3
+CLM-000518,Red,SIU referral,307.0
+CLM-000519,Amber,Human review,42.3
+CLM-000520,Amber,Human review,66.9
+CLM-000521,Green,Auto-approved,2.8
+CLM-000522,Amber,Human review,77.7
+CLM-000523,Amber,Human review,42.1
+CLM-000524,Green,Auto-approved,2.2
+CLM-000525,Green,Auto-approved,1.6
+CLM-000526,Green,Auto-approved,1.3
+CLM-000527,Green,Auto-approved,3.0
+CLM-000528,Amber,Human review,38.3
+CLM-000529,Amber,Human review,39.7
+CLM-000530,Amber,Human review,75.3
+CLM-000531,Green,Auto-approved,0.6
+CLM-000532,Green,Auto-approved,2.2
+CLM-000533,Red,SIU referral,323.4
+CLM-000534,Green,Auto-approved,3.3
+CLM-000535,Amber,Human review,64.5
+CLM-000536,Amber,Human review,87.8
+CLM-000537,Green,Auto-approved,1.2
+CLM-000538,Green,Auto-approved,2.9
+CLM-000539,Green,Auto-approved,2.9
+CLM-000540,Amber,Human review,88.1
+CLM-000541,Amber,Human review,61.1
+CLM-000542,Amber,Human review,36.8
+CLM-000543,Amber,Human review,26.0
+CLM-000544,Green,Auto-approved,1.3
+CLM-000545,Green,Auto-approved,2.6
+CLM-000546,Green,Auto-approved,3.2
+CLM-000547,Green,Auto-approved,1.7
+CLM-000548,Amber,Human review,73.3
+CLM-000549,Green,Auto-approved,1.5
+CLM-000550,Green,Auto-approved,1.0
+CLM-000551,Amber,Human review,81.6
+CLM-000552,Green,Auto-approved,0.7
+CLM-000553,Green,Auto-approved,1.6
+CLM-000554,Green,Auto-approved,1.2
+CLM-000555,Green,Auto-approved,2.2
+CLM-000556,Green,Auto-approved,2.5
+CLM-000557,Amber,Human review,48.9
+CLM-000558,Green,Auto-approved,3.2
+CLM-000559,Green,Auto-approved,3.9
+CLM-000560,Green,Auto-approved,1.1
+CLM-000561,Green,Auto-approved,3.7
+CLM-000562,Green,Auto-approved,2.3
+CLM-000563,Green,Auto-approved,2.3
+CLM-000564,Amber,Human review,75.9
+CLM-000565,Green,Auto-approved,3.4
+CLM-000566,Amber,Human review,62.1
+CLM-000567,Green,Auto-approved,2.2
+CLM-000568,Amber,Human review,65.3
+CLM-000569,Green,Auto-approved,0.8
+CLM-000570,Green,Auto-approved,3.3
+CLM-000571,Green,Auto-approved,2.2
+CLM-000572,Green,Auto-approved,3.3
+CLM-000573,Amber,Human review,44.9
+CLM-000574,Green,Auto-approved,2.9
+CLM-000575,Green,Auto-approved,1.7
+CLM-000576,Green,Auto-approved,2.1
+CLM-000577,Amber,Human review,47.3
+CLM-000578,Amber,Human review,28.0
+CLM-000579,Red,SIU referral,375.9
+CLM-000580,Green,Auto-approved,2.4
+CLM-000581,Green,Auto-approved,0.7
+CLM-000582,Amber,Human review,75.8
+CLM-000583,Amber,Human review,61.1
+CLM-000584,Red,SIU referral,180.2
+CLM-000585,Amber,Human review,25.3
+CLM-000586,Amber,Human review,44.0
+CLM-000587,Red,SIU referral,382.9
+CLM-000588,Amber,Human review,37.6
+CLM-000589,Red,SIU referral,174.4
+CLM-000590,Amber,Human review,73.4
+CLM-000591,Green,Auto-approved,0.7
+CLM-000592,Green,Auto-approved,2.8
+CLM-000593,Green,Auto-approved,0.6
+CLM-000594,Green,Auto-approved,2.8
+CLM-000595,Amber,Human review,69.0
+CLM-000596,Amber,Human review,50.6
+CLM-000597,Amber,Human review,64.0
+CLM-000598,Green,Auto-approved,1.0
+CLM-000599,Amber,Human review,47.7
+CLM-000600,Red,SIU referral,423.1
+CLM-000601,Amber,Human review,35.1
+CLM-000602,Red,SIU referral,151.0
+CLM-000603,Green,Auto-approved,1.9
+CLM-000604,Green,Auto-approved,3.5
+CLM-000605,Green,Auto-approved,3.1
+CLM-000606,Amber,Human review,78.2
+CLM-000607,Amber,Human review,31.3
+CLM-000608,Amber,Human review,59.1
+CLM-000609,Red,SIU referral,469.5
+CLM-000610,Green,Auto-approved,3.1
+CLM-000611,Red,SIU referral,361.5
+CLM-000612,Green,Auto-approved,0.9
+CLM-000613,Amber,Human review,64.5
+CLM-000614,Amber,Human review,29.9
+CLM-000615,Green,Auto-approved,3.0
+CLM-000616,Amber,Human review,44.3
+CLM-000617,Green,Auto-approved,2.5
+CLM-000618,Green,Auto-approved,1.4
+CLM-000619,Red,SIU referral,369.2
+CLM-000620,Green,Auto-approved,1.7
+CLM-000621,Green,Auto-approved,2.7
+CLM-000622,Green,Auto-approved,2.8
+CLM-000623,Amber,Human review,82.2
+CLM-000624,Amber,Human review,37.2
+CLM-000625,Amber,Human review,51.9
+CLM-000626,Green,Auto-approved,2.4
+CLM-000627,Green,Auto-approved,2.4
+CLM-000628,Amber,Human review,25.3
+CLM-000629,Green,Auto-approved,3.3
+CLM-000630,Amber,Human review,89.3
+CLM-000631,Red,SIU referral,350.6
+CLM-000632,Green,Auto-approved,2.6
+CLM-000633,Amber,Human review,26.6
+CLM-000634,Green,Auto-approved,1.7
+CLM-000635,Green,Auto-approved,3.5
+CLM-000636,Green,Auto-approved,3.9
+CLM-000637,Red,SIU referral,356.9
+CLM-000638,Amber,Human review,30.1
+CLM-000639,Green,Auto-approved,3.3
+CLM-000640,Amber,Human review,65.3
+CLM-000641,Green,Auto-approved,0.8
+CLM-000642,Red,SIU referral,251.7
+CLM-000643,Green,Auto-approved,0.5
+CLM-000644,Green,Auto-approved,2.1
+CLM-000645,Green,Auto-approved,1.1
+CLM-000646,Amber,Human review,67.8
+CLM-000647,Amber,Human review,86.8
+CLM-000648,Green,Auto-approved,2.0
+CLM-000649,Green,Auto-approved,2.8
+CLM-000650,Amber,Human review,28.7
+CLM-000651,Green,Auto-approved,3.3
+CLM-000652,Green,Auto-approved,0.9
+CLM-000653,Amber,Human review,53.3
+CLM-000654,Red,SIU referral,188.4
+CLM-000655,Green,Auto-approved,1.2
+CLM-000656,Red,SIU referral,219.4
+CLM-000657,Red,SIU referral,99.3
+CLM-000658,Green,Auto-approved,3.7
+CLM-000659,Green,Auto-approved,1.1
+CLM-000660,Amber,Human review,61.6
+CLM-000661,Red,SIU referral,165.4
+CLM-000662,Green,Auto-approved,0.6
+CLM-000663,Green,Auto-approved,1.4
+CLM-000664,Amber,Human review,26.5
+CLM-000665,Amber,Human review,88.1
+CLM-000666,Green,Auto-approved,3.1
+CLM-000667,Amber,Human review,30.6
+CLM-000668,Green,Auto-approved,3.3
+CLM-000669,Amber,Human review,30.1
+CLM-000670,Green,Auto-approved,2.5
+CLM-000671,Amber,Human review,44.2
+CLM-000672,Amber,Human review,84.3
+CLM-000673,Green,Auto-approved,1.0
+CLM-000674,Green,Auto-approved,2.9
+CLM-000675,Green,Auto-approved,1.1
+CLM-000676,Green,Auto-approved,2.6
+CLM-000677,Green,Auto-approved,0.6
+CLM-000678,Amber,Human review,59.6
+CLM-000679,Green,Auto-approved,1.9
+CLM-000680,Green,Auto-approved,3.9
+CLM-000681,Green,Auto-approved,3.2
+CLM-000682,Green,Auto-approved,1.7
+CLM-000683,Amber,Human review,53.7
+CLM-000684,Green,Auto-approved,3.3
+CLM-000685,Green,Auto-approved,1.8
+CLM-000686,Amber,Human review,31.2
+CLM-000687,Amber,Human review,28.6
+CLM-000688,Green,Auto-approved,2.9
+CLM-000689,Green,Auto-approved,3.0
+CLM-000690,Amber,Human review,52.9
+CLM-000691,Amber,Human review,55.0
+CLM-000692,Amber,Human review,66.9
+CLM-000693,Green,Auto-approved,3.1
+CLM-000694,Red,SIU referral,445.6
+CLM-000695,Amber,Human review,33.5
+CLM-000696,Amber,Human review,86.8
+CLM-000697,Amber,Human review,48.7
+CLM-000698,Green,Auto-approved,3.4
+CLM-000699,Green,Auto-approved,3.0
+CLM-000700,Amber,Human review,37.3
+CLM-000701,Green,Auto-approved,2.7
+CLM-000702,Green,Auto-approved,0.6
+CLM-000703,Red,SIU referral,471.1
+CLM-000704,Amber,Human review,31.4
+CLM-000705,Amber,Human review,80.2
+CLM-000706,Green,Auto-approved,1.1
+CLM-000707,Amber,Human review,81.1
+CLM-000708,Amber,Human review,79.6
+CLM-000709,Green,Auto-approved,3.4
+CLM-000710,Green,Auto-approved,2.5
+CLM-000711,Green,Auto-approved,2.6
+CLM-000712,Green,Auto-approved,1.4
+CLM-000713,Amber,Human review,89.2
+CLM-000714,Red,SIU referral,364.6
+CLM-000715,Green,Auto-approved,3.1
+CLM-000716,Green,Auto-approved,1.8
+CLM-000717,Green,Auto-approved,0.9
+CLM-000718,Red,SIU referral,231.7
+CLM-000719,Green,Auto-approved,1.7
+CLM-000720,Amber,Human review,54.1
+CLM-000721,Green,Auto-approved,2.8
+CLM-000722,Green,Auto-approved,3.1
+CLM-000723,Amber,Human review,93.7
+CLM-000724,Green,Auto-approved,2.4
+CLM-000725,Green,Auto-approved,3.6
+CLM-000726,Green,Auto-approved,3.4
+CLM-000727,Amber,Human review,57.3
+CLM-000728,Red,SIU referral,240.5
+CLM-000729,Amber,Human review,28.7
+CLM-000730,Green,Auto-approved,3.7
+CLM-000731,Green,Auto-approved,3.7
+CLM-000732,Amber,Human review,55.3
+CLM-000733,Amber,Human review,84.4
+CLM-000734,Green,Auto-approved,3.7
+CLM-000735,Amber,Human review,48.7
+CLM-000736,Green,Auto-approved,0.5
+CLM-000737,Red,SIU referral,128.7
+CLM-000738,Amber,Human review,65.4
+CLM-000739,Red,SIU referral,315.1
+CLM-000740,Amber,Human review,44.6
+CLM-000741,Green,Auto-approved,2.8
+CLM-000742,Green,Auto-approved,2.5
+CLM-000743,Green,Auto-approved,1.9
+CLM-000744,Amber,Human review,48.4
+CLM-000745,Green,Auto-approved,1.8
+CLM-000746,Amber,Human review,85.6
+CLM-000747,Amber,Human review,35.3
+CLM-000748,Green,Auto-approved,3.9
+CLM-000749,Amber,Human review,37.5
+CLM-000750,Amber,Human review,59.1
+CLM-000751,Amber,Human review,38.7
+CLM-000752,Green,Auto-approved,2.2
+CLM-000753,Green,Auto-approved,2.4
+CLM-000754,Amber,Human review,43.8
+CLM-000755,Amber,Human review,37.7
+CLM-000756,Amber,Human review,49.4
+CLM-000757,Green,Auto-approved,3.9
+CLM-000758,Green,Auto-approved,3.0
+CLM-000759,Red,SIU referral,426.2
+CLM-000760,Green,Auto-approved,3.6
+CLM-000761,Amber,Human review,88.9
+CLM-000762,Green,Auto-approved,3.2
+CLM-000763,Red,SIU referral,319.2
+CLM-000764,Amber,Human review,43.7
+CLM-000765,Green,Auto-approved,2.3
+CLM-000766,Amber,Human review,42.8
+CLM-000767,Green,Auto-approved,1.7
+CLM-000768,Green,Auto-approved,1.9
+CLM-000769,Amber,Human review,33.9
+CLM-000770,Red,SIU referral,420.6
+CLM-000771,Green,Auto-approved,3.2
+CLM-000772,Amber,Human review,49.3
+CLM-000773,Green,Auto-approved,2.6
+CLM-000774,Green,Auto-approved,1.8
+CLM-000775,Green,Auto-approved,3.3
+CLM-000776,Amber,Human review,49.3
+CLM-000777,Green,Auto-approved,1.1
+CLM-000778,Amber,Human review,51.1
+CLM-000779,Amber,Human review,54.0
+CLM-000780,Amber,Human review,28.3
+CLM-000781,Green,Auto-approved,2.2
+CLM-000782,Green,Auto-approved,1.1
+CLM-000783,Green,Auto-approved,3.6
+CLM-000784,Green,Auto-approved,0.5
+CLM-000785,Green,Auto-approved,0.7
+CLM-000786,Amber,Human review,90.2
+CLM-000787,Green,Auto-approved,2.1
+CLM-000788,Green,Auto-approved,0.8
+CLM-000789,Green,Auto-approved,2.6
+CLM-000790,Green,Auto-approved,3.0
+CLM-000791,Green,Auto-approved,2.1
+CLM-000792,Red,SIU referral,141.8
+CLM-000793,Green,Auto-approved,3.5
+CLM-000794,Amber,Human review,78.1
+CLM-000795,Red,SIU referral,265.5
+CLM-000796,Green,Auto-approved,3.2
+CLM-000797,Green,Auto-approved,2.2
+CLM-000798,Green,Auto-approved,0.5
+CLM-000799,Amber,Human review,56.7
+CLM-000800,Green,Auto-approved,0.9
+CLM-000801,Amber,Human review,57.4
+CLM-000802,Green,Auto-approved,2.9
+CLM-000803,Green,Auto-approved,1.6
+CLM-000804,Green,Auto-approved,0.5
+CLM-000805,Green,Auto-approved,1.4
+CLM-000806,Green,Auto-approved,3.4
+CLM-000807,Amber,Human review,92.0
+CLM-000808,Green,Auto-approved,3.6
+CLM-000809,Amber,Human review,64.0
+CLM-000810,Green,Auto-approved,3.0
+CLM-000811,Amber,Human review,85.8
+CLM-000812,Green,Auto-approved,1.6
+CLM-000813,Amber,Human review,53.2
+CLM-000814,Amber,Human review,26.4
+CLM-000815,Red,SIU referral,168.7
+CLM-000816,Green,Auto-approved,1.9
+CLM-000817,Green,Auto-approved,2.2
+CLM-000818,Green,Auto-approved,1.2
+CLM-000819,Amber,Human review,81.3
+CLM-000820,Amber,Human review,89.1
+CLM-000821,Green,Auto-approved,2.2
+CLM-000822,Green,Auto-approved,1.0
+CLM-000823,Green,Auto-approved,3.6
+CLM-000824,Amber,Human review,26.9
+CLM-000825,Green,Auto-approved,3.5
+CLM-000826,Green,Auto-approved,3.8
+CLM-000827,Green,Auto-approved,3.4
+CLM-000828,Amber,Human review,58.6
+CLM-000829,Green,Auto-approved,2.7
+CLM-000830,Red,SIU referral,450.1
+CLM-000831,Green,Auto-approved,3.0
+CLM-000832,Green,Auto-approved,3.3
+CLM-000833,Red,SIU referral,422.2
+CLM-000834,Amber,Human review,73.0
+CLM-000835,Green,Auto-approved,0.8
+CLM-000836,Amber,Human review,67.5
+CLM-000837,Amber,Human review,61.7
+CLM-000838,Green,Auto-approved,0.9
+CLM-000839,Green,Auto-approved,2.4
+CLM-000840,Green,Auto-approved,1.5
+CLM-000841,Amber,Human review,45.4
+CLM-000842,Green,Auto-approved,2.2
+CLM-000843,Green,Auto-approved,3.0
+CLM-000844,Amber,Human review,90.6
+CLM-000845,Amber,Human review,50.3
+CLM-000846,Green,Auto-approved,1.9
+CLM-000847,Amber,Human review,24.5
+CLM-000848,Green,Auto-approved,1.0
+CLM-000849,Amber,Human review,61.7
+CLM-000850,Green,Auto-approved,3.2
+CLM-000851,Green,Auto-approved,3.9
+CLM-000852,Amber,Human review,95.0
+CLM-000853,Red,SIU referral,287.3
+CLM-000854,Amber,Human review,56.9
+CLM-000855,Green,Auto-approved,3.7
+CLM-000856,Green,Auto-approved,3.2
+CLM-000857,Green,Auto-approved,1.3
+CLM-000858,Green,Auto-approved,2.2
+CLM-000859,Green,Auto-approved,3.4
+CLM-000860,Green,Auto-approved,1.1
+CLM-000861,Green,Auto-approved,2.7
+CLM-000862,Green,Auto-approved,0.6
+CLM-000863,Amber,Human review,84.2
+CLM-000864,Green,Auto-approved,4.0
+CLM-000865,Amber,Human review,75.4
+CLM-000866,Green,Auto-approved,0.5
+CLM-000867,Amber,Human review,41.9
+CLM-000868,Green,Auto-approved,2.0
+CLM-000869,Red,SIU referral,267.9
+CLM-000870,Green,Auto-approved,3.8
+CLM-000871,Green,Auto-approved,0.7
+CLM-000872,Amber,Human review,77.7
+CLM-000873,Green,Auto-approved,1.9
+CLM-000874,Amber,Human review,85.7
+CLM-000875,Green,Auto-approved,2.9
+CLM-000876,Amber,Human review,44.6
+CLM-000877,Green,Auto-approved,1.2
+CLM-000878,Green,Auto-approved,2.5
+CLM-000879,Green,Auto-approved,3.1
+CLM-000880,Green,Auto-approved,2.1
+CLM-000881,Green,Auto-approved,3.6
+CLM-000882,Green,Auto-approved,1.0
+CLM-000883,Green,Auto-approved,0.8
+CLM-000884,Green,Auto-approved,2.5
+CLM-000885,Amber,Human review,92.2
+CLM-000886,Green,Auto-approved,1.0
+CLM-000887,Green,Auto-approved,1.4
+CLM-000888,Green,Auto-approved,3.4
+CLM-000889,Green,Auto-approved,0.6
+CLM-000890,Green,Auto-approved,0.8
+CLM-000891,Amber,Human review,39.3
+CLM-000892,Green,Auto-approved,1.8
+CLM-000893,Amber,Human review,95.1
+CLM-000894,Green,Auto-approved,3.8
+CLM-000895,Green,Auto-approved,0.7
+CLM-000896,Green,Auto-approved,1.4
+CLM-000897,Amber,Human review,27.6
+CLM-000898,Green,Auto-approved,0.6
+CLM-000899,Green,Auto-approved,2.5
+CLM-000900,Amber,Human review,42.5
+CLM-000901,Green,Auto-approved,2.1
+CLM-000902,Green,Auto-approved,1.3
+CLM-000903,Amber,Human review,24.2
+CLM-000904,Green,Auto-approved,3.1
+CLM-000905,Green,Auto-approved,3.6
+CLM-000906,Amber,Human review,48.9
+CLM-000907,Green,Auto-approved,1.8
+CLM-000908,Amber,Human review,72.6
+CLM-000909,Amber,Human review,46.7
+CLM-000910,Amber,Human review,34.5
+CLM-000911,Green,Auto-approved,3.4
+CLM-000912,Green,Auto-approved,3.1
+CLM-000913,Amber,Human review,68.7
+CLM-000914,Amber,Human review,68.8
+CLM-000915,Green,Auto-approved,0.8
+CLM-000916,Green,Auto-approved,0.6
+CLM-000917,Red,SIU referral,152.6
+CLM-000918,Amber,Human review,27.5
+CLM-000919,Green,Auto-approved,3.6
+CLM-000920,Amber,Human review,83.8
+CLM-000921,Amber,Human review,78.3
+CLM-000922,Amber,Human review,76.1
+CLM-000923,Green,Auto-approved,3.2
+CLM-000924,Green,Auto-approved,2.4
+CLM-000925,Green,Auto-approved,1.4
+CLM-000926,Green,Auto-approved,1.5
+CLM-000927,Amber,Human review,52.3
+CLM-000928,Amber,Human review,35.3
+CLM-000929,Amber,Human review,91.4
+CLM-000930,Green,Auto-approved,2.4
+CLM-000931,Amber,Human review,54.2
+CLM-000932,Amber,Human review,33.1
+CLM-000933,Green,Auto-approved,1.3
+CLM-000934,Red,SIU referral,477.4
+CLM-000935,Amber,Human review,26.1
+CLM-000936,Green,Auto-approved,2.3
+CLM-000937,Green,Auto-approved,2.4
+CLM-000938,Green,Auto-approved,3.1
+CLM-000939,Green,Auto-approved,3.2
+CLM-000940,Amber,Human review,81.5
+CLM-000941,Green,Auto-approved,1.3
+CLM-000942,Red,SIU referral,173.3
+CLM-000943,Green,Auto-approved,3.7
+CLM-000944,Green,Auto-approved,1.1
+CLM-000945,Red,SIU referral,139.7
+CLM-000946,Green,Auto-approved,1.0
+CLM-000947,Amber,Human review,39.4
+CLM-000948,Green,Auto-approved,1.5
+CLM-000949,Amber,Human review,67.6
+CLM-000950,Amber,Human review,94.3
+CLM-000951,Green,Auto-approved,3.1
+CLM-000952,Amber,Human review,39.3
+CLM-000953,Amber,Human review,87.1
+CLM-000954,Green,Auto-approved,1.6
+CLM-000955,Green,Auto-approved,3.2
+CLM-000956,Amber,Human review,90.4
+CLM-000957,Green,Auto-approved,3.6
+CLM-000958,Amber,Human review,43.9
+CLM-000959,Amber,Human review,57.9
+CLM-000960,Red,SIU referral,111.3
+CLM-000961,Green,Auto-approved,3.6
+CLM-000962,Red,SIU referral,420.5
+CLM-000963,Amber,Human review,69.9
+CLM-000964,Green,Auto-approved,1.5
+CLM-000965,Green,Auto-approved,2.4
+CLM-000966,Green,Auto-approved,1.5
+CLM-000967,Amber,Human review,58.2
+CLM-000968,Amber,Human review,72.3
+CLM-000969,Red,SIU referral,261.1
+CLM-000970,Green,Auto-approved,2.4
+CLM-000971,Amber,Human review,70.7
+CLM-000972,Amber,Human review,45.2
+CLM-000973,Green,Auto-approved,1.4
+CLM-000974,Red,SIU referral,398.9
+CLM-000975,Amber,Human review,40.8
+CLM-000976,Amber,Human review,48.4
+CLM-000977,Amber,Human review,82.1
+CLM-000978,Red,SIU referral,445.4
+CLM-000979,Green,Auto-approved,2.0
+CLM-000980,Green,Auto-approved,1.0
+CLM-000981,Green,Auto-approved,1.5
+CLM-000982,Green,Auto-approved,0.9
+CLM-000983,Red,SIU referral,432.5
+CLM-000984,Green,Auto-approved,3.5
+CLM-000985,Red,SIU referral,172.6
+CLM-000986,Green,Auto-approved,3.1
+CLM-000987,Green,Auto-approved,2.8
+CLM-000988,Amber,Human review,37.6
+CLM-000989,Amber,Human review,30.0
+CLM-000990,Green,Auto-approved,2.1
+CLM-000991,Amber,Human review,54.2
+CLM-000992,Amber,Human review,63.2
+CLM-000993,Green,Auto-approved,0.7
+CLM-000994,Green,Auto-approved,1.6
+CLM-000995,Amber,Human review,48.3
+CLM-000996,Amber,Human review,43.4
+CLM-000997,Amber,Human review,70.0
+CLM-000998,Amber,Human review,31.3
+CLM-000999,Green,Auto-approved,2.4
+CLM-001000,Green,Auto-approved,3.1
+CLM-001001,Amber,Human review,26.7
+CLM-001002,Green,Auto-approved,1.6
+CLM-001003,Green,Auto-approved,0.5
+CLM-001004,Green,Auto-approved,2.6
+CLM-001005,Amber,Human review,81.1
+CLM-001006,Amber,Human review,58.4
+CLM-001007,Red,SIU referral,356.7
+CLM-001008,Green,Auto-approved,1.7
+CLM-001009,Amber,Human review,91.6
+CLM-001010,Amber,Human review,82.5
+CLM-001011,Green,Auto-approved,0.6
+CLM-001012,Green,Auto-approved,0.5
+CLM-001013,Green,Auto-approved,1.7
+CLM-001014,Red,SIU referral,360.8
+CLM-001015,Green,Auto-approved,2.1
+CLM-001016,Amber,Human review,91.4
+CLM-001017,Green,Auto-approved,1.5
+CLM-001018,Amber,Human review,46.6
+CLM-001019,Green,Auto-approved,1.6
+CLM-001020,Green,Auto-approved,1.5
+CLM-001021,Green,Auto-approved,2.8
+CLM-001022,Green,Auto-approved,3.5
+CLM-001023,Green,Auto-approved,0.5
+CLM-001024,Green,Auto-approved,1.2
+CLM-001025,Green,Auto-approved,1.7
+CLM-001026,Green,Auto-approved,2.7
+CLM-001027,Green,Auto-approved,2.9
+CLM-001028,Green,Auto-approved,3.1
+CLM-001029,Green,Auto-approved,1.6
+CLM-001030,Green,Auto-approved,1.7
+CLM-001031,Amber,Human review,27.6
+CLM-001032,Green,Auto-approved,3.9
+CLM-001033,Amber,Human review,82.9
+CLM-001034,Red,SIU referral,473.6
+CLM-001035,Green,Auto-approved,2.6
+CLM-001036,Amber,Human review,29.4
+CLM-001037,Green,Auto-approved,2.9
+CLM-001038,Amber,Human review,54.7
+CLM-001039,Amber,Human review,34.1
+CLM-001040,Green,Auto-approved,2.5
+CLM-001041,Amber,Human review,57.9
+CLM-001042,Green,Auto-approved,3.4
+CLM-001043,Green,Auto-approved,1.3
+CLM-001044,Amber,Human review,85.6
+CLM-001045,Green,Auto-approved,2.7
+CLM-001046,Amber,Human review,30.1
+CLM-001047,Green,Auto-approved,0.8
+CLM-001048,Green,Auto-approved,0.6
+CLM-001049,Amber,Human review,74.0
+CLM-001050,Green,Auto-approved,1.4
+CLM-001051,Amber,Human review,53.8
+CLM-001052,Green,Auto-approved,0.8
+CLM-001053,Amber,Human review,85.0
+CLM-001054,Green,Auto-approved,1.7
+CLM-001055,Amber,Human review,85.9
+CLM-001056,Green,Auto-approved,3.4
+CLM-001057,Amber,Human review,39.9
+CLM-001058,Green,Auto-approved,1.0
+CLM-001059,Red,SIU referral,458.7
+CLM-001060,Green,Auto-approved,3.8
+CLM-001061,Amber,Human review,63.6
+CLM-001062,Green,Auto-approved,3.9
+CLM-001063,Amber,Human review,25.2
+CLM-001064,Amber,Human review,58.7
+CLM-001065,Green,Auto-approved,1.7
+CLM-001066,Amber,Human review,71.6
+CLM-001067,Amber,Human review,55.2
+CLM-001068,Amber,Human review,34.9
+CLM-001069,Amber,Human review,37.3
+CLM-001070,Amber,Human review,42.7
+CLM-001071,Amber,Human review,42.9
+CLM-001072,Green,Auto-approved,1.3
+CLM-001073,Green,Auto-approved,1.5
+CLM-001074,Green,Auto-approved,0.6
+CLM-001075,Green,Auto-approved,1.6
+CLM-001076,Amber,Human review,48.7
+CLM-001077,Amber,Human review,87.9
+CLM-001078,Red,SIU referral,218.9
+CLM-001079,Green,Auto-approved,2.4
+CLM-001080,Amber,Human review,27.7
+CLM-001081,Amber,Human review,51.9
+CLM-001082,Green,Auto-approved,4.0
+CLM-001083,Green,Auto-approved,2.5
+CLM-001084,Amber,Human review,30.0
+CLM-001085,Amber,Human review,57.3
+CLM-001086,Green,Auto-approved,3.7
+CLM-001087,Green,Auto-approved,2.2
+CLM-001088,Red,SIU referral,460.1
+CLM-001089,Amber,Human review,70.7
+CLM-001090,Amber,Human review,75.3
+CLM-001091,Green,Auto-approved,1.3
+CLM-001092,Amber,Human review,66.3
+CLM-001093,Green,Auto-approved,0.7
+CLM-001094,Green,Auto-approved,1.2
+CLM-001095,Green,Auto-approved,1.3
+CLM-001096,Green,Auto-approved,1.9
+CLM-001097,Green,Auto-approved,2.0
+CLM-001098,Amber,Human review,49.1
+CLM-001099,Green,Auto-approved,1.7
+CLM-001100,Green,Auto-approved,0.7
+CLM-001101,Green,Auto-approved,3.2
+CLM-001102,Amber,Human review,64.9
+CLM-001103,Amber,Human review,44.3
+CLM-001104,Green,Auto-approved,1.6
+CLM-001105,Amber,Human review,76.3
+CLM-001106,Amber,Human review,46.4
+CLM-001107,Amber,Human review,70.8
+CLM-001108,Green,Auto-approved,2.8
+CLM-001109,Green,Auto-approved,2.0
+CLM-001110,Green,Auto-approved,2.4
+CLM-001111,Green,Auto-approved,3.1
+CLM-001112,Red,SIU referral,397.2
+CLM-001113,Green,Auto-approved,2.5
+CLM-001114,Green,Auto-approved,1.0
+CLM-001115,Red,SIU referral,431.8
+CLM-001116,Green,Auto-approved,2.7
+CLM-001117,Amber,Human review,76.7
+CLM-001118,Green,Auto-approved,3.3
+CLM-001119,Amber,Human review,63.3
+CLM-001120,Amber,Human review,91.9
+CLM-001121,Green,Auto-approved,3.6
+CLM-001122,Red,SIU referral,203.2
+CLM-001123,Green,Auto-approved,2.3
+CLM-001124,Amber,Human review,33.2
+CLM-001125,Green,Auto-approved,2.9
+CLM-001126,Green,Auto-approved,1.4
+CLM-001127,Amber,Human review,32.4
+CLM-001128,Green,Auto-approved,2.7
+CLM-001129,Green,Auto-approved,3.7
+CLM-001130,Red,SIU referral,163.3
+CLM-001131,Green,Auto-approved,2.0
+CLM-001132,Green,Auto-approved,1.1
+CLM-001133,Green,Auto-approved,3.5
+CLM-001134,Green,Auto-approved,3.7
+CLM-001135,Amber,Human review,76.1
+CLM-001136,Amber,Human review,80.8
+CLM-001137,Green,Auto-approved,3.6
+CLM-001138,Amber,Human review,50.2
+CLM-001139,Green,Auto-approved,3.7
+CLM-001140,Green,Auto-approved,2.7
+CLM-001141,Green,Auto-approved,2.5
+CLM-001142,Amber,Human review,44.4
+CLM-001143,Amber,Human review,49.5
+CLM-001144,Green,Auto-approved,0.7
+CLM-001145,Green,Auto-approved,3.4
+CLM-001146,Amber,Human review,49.1
+CLM-001147,Amber,Human review,42.6
+CLM-001148,Amber,Human review,71.1
+CLM-001149,Amber,Human review,47.1
+CLM-001150,Green,Auto-approved,3.2
+CLM-001151,Amber,Human review,27.8
+CLM-001152,Amber,Human review,88.3
+CLM-001153,Green,Auto-approved,2.5
+CLM-001154,Amber,Human review,46.1
+CLM-001155,Amber,Human review,70.0
+CLM-001156,Red,SIU referral,405.6
+CLM-001157,Green,Auto-approved,3.3
+CLM-001158,Green,Auto-approved,3.0
+CLM-001159,Amber,Human review,51.8
+CLM-001160,Green,Auto-approved,3.2
+CLM-001161,Amber,Human review,37.0
+CLM-001162,Green,Auto-approved,3.7
+CLM-001163,Green,Auto-approved,1.7
+CLM-001164,Amber,Human review,51.6
+CLM-001165,Amber,Human review,82.1
+CLM-001166,Green,Auto-approved,2.7
+CLM-001167,Green,Auto-approved,1.2
+CLM-001168,Amber,Human review,48.1
+CLM-001169,Green,Auto-approved,1.3
+CLM-001170,Amber,Human review,43.8
+CLM-001171,Amber,Human review,37.5
+CLM-001172,Green,Auto-approved,2.6
+CLM-001173,Amber,Human review,81.9
+CLM-001174,Green,Auto-approved,3.8
+CLM-001175,Green,Auto-approved,0.7
+CLM-001176,Amber,Human review,73.8
+CLM-001177,Amber,Human review,77.0
+CLM-001178,Green,Auto-approved,1.4
+CLM-001179,Amber,Human review,60.2
+CLM-001180,Amber,Human review,72.7
+CLM-001181,Amber,Human review,95.2
+CLM-001182,Amber,Human review,39.5
+CLM-001183,Green,Auto-approved,2.7
+CLM-001184,Green,Auto-approved,2.8
+CLM-001185,Green,Auto-approved,1.5
+CLM-001186,Amber,Human review,52.2
+CLM-001187,Amber,Human review,78.2
+CLM-001188,Green,Auto-approved,2.2
+CLM-001189,Amber,Human review,79.7
+CLM-001190,Green,Auto-approved,1.9
+CLM-001191,Amber,Human review,95.0
+CLM-001192,Green,Auto-approved,3.2
+CLM-001193,Green,Auto-approved,1.2
+CLM-001194,Green,Auto-approved,1.4
+CLM-001195,Green,Auto-approved,0.8
+CLM-001196,Green,Auto-approved,3.4
+CLM-001197,Amber,Human review,65.9
+CLM-001198,Amber,Human review,25.0
+CLM-001199,Amber,Human review,65.6
+CLM-001200,Green,Auto-approved,3.9
+CLM-001201,Green,Auto-approved,2.0
+CLM-001202,Green,Auto-approved,2.4
+CLM-001203,Green,Auto-approved,2.0
+CLM-001204,Red,SIU referral,390.5
+CLM-001205,Amber,Human review,76.2
+CLM-001206,Amber,Human review,66.7
+CLM-001207,Green,Auto-approved,0.7
+CLM-001208,Green,Auto-approved,2.2
+CLM-001209,Green,Auto-approved,3.8
+CLM-001210,Amber,Human review,93.3
+CLM-001211,Green,Auto-approved,1.4
+CLM-001212,Amber,Human review,71.1
+CLM-001213,Amber,Human review,43.8
+CLM-001214,Green,Auto-approved,3.5
+CLM-001215,Green,Auto-approved,0.7
+CLM-001216,Green,Auto-approved,3.7
+CLM-001217,Amber,Human review,77.8
+CLM-001218,Green,Auto-approved,3.0
+CLM-001219,Green,Auto-approved,3.0
+CLM-001220,Amber,Human review,79.9
+CLM-001221,Green,Auto-approved,1.2
+CLM-001222,Green,Auto-approved,2.1
+CLM-001223,Green,Auto-approved,0.7
+CLM-001224,Amber,Human review,26.3
+CLM-001225,Amber,Human review,24.1
+CLM-001226,Amber,Human review,38.1
+CLM-001227,Green,Auto-approved,1.6
+CLM-001228,Green,Auto-approved,1.1
+CLM-001229,Green,Auto-approved,3.7
+CLM-001230,Green,Auto-approved,2.1
+CLM-001231,Green,Auto-approved,1.2
+CLM-001232,Green,Auto-approved,3.2
+CLM-001233,Amber,Human review,90.8
+CLM-001234,Green,Auto-approved,2.5
+CLM-001235,Red,SIU referral,286.4
+CLM-001236,Red,SIU referral,411.9
+CLM-001237,Red,SIU referral,402.8
+CLM-001238,Green,Auto-approved,1.7
+CLM-001239,Amber,Human review,29.5
+CLM-001240,Green,Auto-approved,2.9
+CLM-001241,Amber,Human review,78.8
+CLM-001242,Green,Auto-approved,2.2
+CLM-001243,Green,Auto-approved,2.2
+CLM-001244,Green,Auto-approved,1.2
+CLM-001245,Green,Auto-approved,3.8
+CLM-001246,Green,Auto-approved,1.7
+CLM-001247,Green,Auto-approved,1.8
+CLM-001248,Green,Auto-approved,3.7
+CLM-001249,Amber,Human review,56.3
+CLM-001250,Green,Auto-approved,3.8
+CLM-001251,Amber,Human review,58.9
+CLM-001252,Green,Auto-approved,2.6
+CLM-001253,Red,SIU referral,167.6
+CLM-001254,Green,Auto-approved,3.1
+CLM-001255,Amber,Human review,80.3
+CLM-001256,Green,Auto-approved,2.5
+CLM-001257,Amber,Human review,65.6
+CLM-001258,Green,Auto-approved,1.0
+CLM-001259,Amber,Human review,61.1
+CLM-001260,Amber,Human review,74.2
+CLM-001261,Green,Auto-approved,2.0
+CLM-001262,Amber,Human review,71.4
+CLM-001263,Green,Auto-approved,3.4
+CLM-001264,Green,Auto-approved,2.1
+CLM-001265,Amber,Human review,46.5
+CLM-001266,Green,Auto-approved,1.4
+CLM-001267,Red,SIU referral,285.9
+CLM-001268,Amber,Human review,28.3
+CLM-001269,Green,Auto-approved,3.3
+CLM-001270,Green,Auto-approved,3.7
+CLM-001271,Green,Auto-approved,3.0
+CLM-001272,Amber,Human review,86.9
+CLM-001273,Green,Auto-approved,1.1
+CLM-001274,Amber,Human review,87.6
+CLM-001275,Amber,Human review,90.4
+CLM-001276,Green,Auto-approved,3.8
+CLM-001277,Green,Auto-approved,2.5
+CLM-001278,Amber,Human review,53.6
+CLM-001279,Green,Auto-approved,1.6
+CLM-001280,Green,Auto-approved,3.0
+CLM-001281,Amber,Human review,62.3
+CLM-001282,Green,Auto-approved,1.0
+CLM-001283,Amber,Human review,60.1
+CLM-001284,Green,Auto-approved,2.3
+CLM-001285,Amber,Human review,84.7
+CLM-001286,Amber,Human review,81.3
+CLM-001287,Green,Auto-approved,2.3
+CLM-001288,Green,Auto-approved,1.1
+CLM-001289,Amber,Human review,66.7
+CLM-001290,Amber,Human review,77.0
+CLM-001291,Amber,Human review,89.0
+CLM-001292,Amber,Human review,48.6
+CLM-001293,Green,Auto-approved,3.6
+CLM-001294,Amber,Human review,76.5
+CLM-001295,Amber,Human review,77.9
+CLM-001296,Amber,Human review,62.2
+CLM-001297,Amber,Human review,60.1
+CLM-001298,Green,Auto-approved,2.5
+CLM-001299,Red,SIU referral,163.9
+CLM-001300,Amber,Human review,76.6
+CLM-001301,Amber,Human review,66.1
+CLM-001302,Amber,Human review,32.7
+CLM-001303,Green,Auto-approved,0.7
+CLM-001304,Green,Auto-approved,0.9
+CLM-001305,Green,Auto-approved,0.9
+CLM-001306,Amber,Human review,47.1
+CLM-001307,Green,Auto-approved,0.6
+CLM-001308,Amber,Human review,78.8
+CLM-001309,Red,SIU referral,339.6
+CLM-001310,Green,Auto-approved,0.6
+CLM-001311,Green,Auto-approved,1.4
+CLM-001312,Green,Auto-approved,3.9
+CLM-001313,Amber,Human review,58.2
+CLM-001314,Green,Auto-approved,1.2
+CLM-001315,Green,Auto-approved,2.1
+CLM-001316,Amber,Human review,86.5
+CLM-001317,Amber,Human review,36.7
+CLM-001318,Green,Auto-approved,1.1
+CLM-001319,Green,Auto-approved,1.2
+CLM-001320,Green,Auto-approved,3.6
+CLM-001321,Green,Auto-approved,3.3
+CLM-001322,Green,Auto-approved,0.5
+CLM-001323,Amber,Human review,59.7
+CLM-001324,Green,Auto-approved,3.4
+CLM-001325,Amber,Human review,78.8
+CLM-001326,Amber,Human review,37.0
+CLM-001327,Amber,Human review,47.7
+CLM-001328,Amber,Human review,81.7
+CLM-001329,Amber,Human review,86.9
+CLM-001330,Amber,Human review,87.7
+CLM-001331,Green,Auto-approved,3.1
+CLM-001332,Amber,Human review,66.4
+CLM-001333,Green,Auto-approved,1.5
+CLM-001334,Green,Auto-approved,3.3
+CLM-001335,Green,Auto-approved,2.7
+CLM-001336,Green,Auto-approved,2.8
+CLM-001337,Amber,Human review,30.6
+CLM-001338,Amber,Human review,31.5
+CLM-001339,Amber,Human review,39.2
+CLM-001340,Green,Auto-approved,2.6
+CLM-001341,Green,Auto-approved,3.4
+CLM-001342,Amber,Human review,43.2
+CLM-001343,Red,SIU referral,260.3
+CLM-001344,Amber,Human review,40.2
+CLM-001345,Amber,Human review,76.9
+CLM-001346,Green,Auto-approved,2.1
+CLM-001347,Green,Auto-approved,0.9
+CLM-001348,Amber,Human review,94.1
+CLM-001349,Amber,Human review,49.9
+CLM-001350,Green,Auto-approved,2.4
+CLM-001351,Amber,Human review,91.0
+CLM-001352,Green,Auto-approved,1.6
+CLM-001353,Green,Auto-approved,2.5
+CLM-001354,Green,Auto-approved,2.4
+CLM-001355,Amber,Human review,76.9
+CLM-001356,Red,SIU referral,343.2
+CLM-001357,Amber,Human review,67.3
+CLM-001358,Green,Auto-approved,1.1
+CLM-001359,Green,Auto-approved,3.1
+CLM-001360,Green,Auto-approved,2.4
+CLM-001361,Amber,Human review,68.2
+CLM-001362,Amber,Human review,80.7
+CLM-001363,Green,Auto-approved,2.6
+CLM-001364,Green,Auto-approved,2.2
+CLM-001365,Amber,Human review,89.3
+CLM-001366,Amber,Human review,90.6
+CLM-001367,Green,Auto-approved,1.2
+CLM-001368,Green,Auto-approved,2.6
+CLM-001369,Green,Auto-approved,3.1
+CLM-001370,Green,Auto-approved,2.3
+CLM-001371,Amber,Human review,31.6
+CLM-001372,Green,Auto-approved,3.3
+CLM-001373,Amber,Human review,59.0
+CLM-001374,Green,Auto-approved,3.1
+CLM-001375,Green,Auto-approved,2.6
+CLM-001376,Red,SIU referral,437.4
+CLM-001377,Green,Auto-approved,1.5
+CLM-001378,Green,Auto-approved,1.4
+CLM-001379,Green,Auto-approved,3.3
+CLM-001380,Green,Auto-approved,2.2
+CLM-001381,Amber,Human review,75.0
+CLM-001382,Green,Auto-approved,2.2
+CLM-001383,Amber,Human review,58.1
+CLM-001384,Green,Auto-approved,0.7
+CLM-001385,Green,Auto-approved,2.8
+CLM-001386,Amber,Human review,40.2
+CLM-001387,Amber,Human review,31.3
+CLM-001388,Amber,Human review,80.2
+CLM-001389,Green,Auto-approved,3.2
+CLM-001390,Green,Auto-approved,2.6
+CLM-001391,Green,Auto-approved,3.7
+CLM-001392,Green,Auto-approved,0.6
+CLM-001393,Amber,Human review,37.7
+CLM-001394,Red,SIU referral,394.3
+CLM-001395,Red,SIU referral,137.0
+CLM-001396,Green,Auto-approved,1.7
+CLM-001397,Green,Auto-approved,1.9
+CLM-001398,Amber,Human review,48.2
+CLM-001399,Amber,Human review,72.1
+CLM-001400,Green,Auto-approved,2.2
+CLM-001401,Green,Auto-approved,2.4
+CLM-001402,Green,Auto-approved,3.5
+CLM-001403,Amber,Human review,92.3
+CLM-001404,Amber,Human review,38.3
+CLM-001405,Amber,Human review,44.4
+CLM-001406,Amber,Human review,67.9
+CLM-001407,Green,Auto-approved,2.6
+CLM-001408,Green,Auto-approved,2.6
+CLM-001409,Green,Auto-approved,2.1
+CLM-001410,Amber,Human review,58.0
+CLM-001411,Amber,Human review,52.1
+CLM-001412,Green,Auto-approved,1.2
+CLM-001413,Red,SIU referral,409.6
+CLM-001414,Red,SIU referral,349.2
+CLM-001415,Green,Auto-approved,3.0
+CLM-001416,Green,Auto-approved,1.7
+CLM-001417,Amber,Human review,56.2
+CLM-001418,Green,Auto-approved,3.9
+CLM-001419,Amber,Human review,90.7
+CLM-001420,Green,Auto-approved,1.4
+CLM-001421,Green,Auto-approved,2.5
+CLM-001422,Green,Auto-approved,2.1
+CLM-001423,Amber,Human review,78.4
+CLM-001424,Green,Auto-approved,3.8
+CLM-001425,Amber,Human review,87.6
+CLM-001426,Amber,Human review,87.2
+CLM-001427,Amber,Human review,74.4
+CLM-001428,Green,Auto-approved,1.5
+CLM-001429,Green,Auto-approved,3.5
+CLM-001430,Amber,Human review,87.5
+CLM-001431,Amber,Human review,88.8
+CLM-001432,Amber,Human review,65.8
+CLM-001433,Green,Auto-approved,1.3
+CLM-001434,Green,Auto-approved,4.0
+CLM-001435,Amber,Human review,82.0
+CLM-001436,Green,Auto-approved,1.1
+CLM-001437,Green,Auto-approved,3.1
+CLM-001438,Amber,Human review,34.7
+CLM-001439,Green,Auto-approved,3.5
+CLM-001440,Green,Auto-approved,3.0
+CLM-001441,Amber,Human review,84.1
+CLM-001442,Green,Auto-approved,3.6
+CLM-001443,Red,SIU referral,227.4
+CLM-001444,Green,Auto-approved,3.1
+CLM-001445,Amber,Human review,93.0
+CLM-001446,Green,Auto-approved,1.0
+CLM-001447,Green,Auto-approved,1.8
+CLM-001448,Amber,Human review,90.3
+CLM-001449,Green,Auto-approved,3.5
+CLM-001450,Green,Auto-approved,0.6
+CLM-001451,Green,Auto-approved,1.2
+CLM-001452,Green,Auto-approved,1.8
+CLM-001453,Green,Auto-approved,1.0
+CLM-001454,Green,Auto-approved,1.6
+CLM-001455,Green,Auto-approved,2.8
+CLM-001456,Green,Auto-approved,0.7
+CLM-001457,Green,Auto-approved,2.5
+CLM-001458,Amber,Human review,76.8
+CLM-001459,Amber,Human review,45.0
+CLM-001460,Green,Auto-approved,2.6
+CLM-001461,Green,Auto-approved,1.7
+CLM-001462,Green,Auto-approved,2.9
+CLM-001463,Amber,Human review,91.4
+CLM-001464,Green,Auto-approved,3.8
+CLM-001465,Amber,Human review,46.7
+CLM-001466,Green,Auto-approved,2.8
+CLM-001467,Amber,Human review,24.4
+CLM-001468,Green,Auto-approved,2.7
+CLM-001469,Green,Auto-approved,3.0
+CLM-001470,Amber,Human review,76.6
+CLM-001471,Amber,Human review,95.6
+CLM-001472,Red,SIU referral,220.5
+CLM-001473,Green,Auto-approved,0.7
+CLM-001474,Amber,Human review,53.5
+CLM-001475,Amber,Human review,31.2
+CLM-001476,Green,Auto-approved,1.8
+CLM-001477,Green,Auto-approved,2.3
+CLM-001478,Amber,Human review,82.8
+CLM-001479,Amber,Human review,68.1
+CLM-001480,Amber,Human review,36.4
+CLM-001481,Amber,Human review,32.6
+CLM-001482,Green,Auto-approved,1.0
+CLM-001483,Amber,Human review,60.8
+CLM-001484,Green,Auto-approved,0.7
+CLM-001485,Amber,Human review,81.7
+CLM-001486,Amber,Human review,27.5
+CLM-001487,Green,Auto-approved,1.3
+CLM-001488,Amber,Human review,46.6
+CLM-001489,Amber,Human review,55.6
+CLM-001490,Green,Auto-approved,4.0
+CLM-001491,Green,Auto-approved,3.9
+CLM-001492,Amber,Human review,51.4
+CLM-001493,Amber,Human review,65.4
+CLM-001494,Amber,Human review,64.3
+CLM-001495,Green,Auto-approved,1.1
+CLM-001496,Amber,Human review,44.9
+CLM-001497,Green,Auto-approved,1.2
+CLM-001498,Green,Auto-approved,3.0
+CLM-001499,Green,Auto-approved,0.8
+CLM-001500,Amber,Human review,62.5
+CLM-001501,Green,Auto-approved,1.7
+CLM-001502,Red,SIU referral,213.9
+CLM-001503,Green,Auto-approved,2.3
+CLM-001504,Amber,Human review,52.7
+CLM-001505,Green,Auto-approved,0.9
+CLM-001506,Amber,Human review,75.2
+CLM-001507,Green,Auto-approved,0.8
+CLM-001508,Amber,Human review,66.4
+CLM-001509,Amber,Human review,25.2
+CLM-001510,Amber,Human review,61.1
+CLM-001511,Green,Auto-approved,3.2
+CLM-001512,Green,Auto-approved,1.8
+CLM-001513,Green,Auto-approved,2.2
+CLM-001514,Amber,Human review,40.6
+CLM-001515,Amber,Human review,89.6
+CLM-001516,Green,Auto-approved,3.9
+CLM-001517,Green,Auto-approved,3.1
+CLM-001518,Green,Auto-approved,2.2
+CLM-001519,Green,Auto-approved,0.5
+CLM-001520,Green,Auto-approved,2.0
+CLM-001521,Green,Auto-approved,2.0
+CLM-001522,Red,SIU referral,257.5
+CLM-001523,Green,Auto-approved,1.7
+CLM-001524,Amber,Human review,35.0
+CLM-001525,Green,Auto-approved,1.6
+CLM-001526,Amber,Human review,33.2
+CLM-001527,Amber,Human review,79.4
+CLM-001528,Amber,Human review,95.8
+CLM-001529,Green,Auto-approved,3.0
+CLM-001530,Green,Auto-approved,2.9
+CLM-001531,Green,Auto-approved,2.7
+CLM-001532,Red,SIU referral,392.4
+CLM-001533,Green,Auto-approved,0.6
+CLM-001534,Amber,Human review,50.1
+CLM-001535,Amber,Human review,43.3
+CLM-001536,Amber,Human review,32.5
+CLM-001537,Green,Auto-approved,2.7
+CLM-001538,Amber,Human review,39.3
+CLM-001539,Green,Auto-approved,2.9
+CLM-001540,Amber,Human review,55.3
+CLM-001541,Amber,Human review,40.8
+CLM-001542,Green,Auto-approved,3.1
+CLM-001543,Amber,Human review,34.3
+CLM-001544,Amber,Human review,24.3
+CLM-001545,Green,Auto-approved,3.1
+CLM-001546,Green,Auto-approved,0.5
+CLM-001547,Green,Auto-approved,3.5
+CLM-001548,Amber,Human review,52.8
+CLM-001549,Amber,Human review,53.6
+CLM-001550,Green,Auto-approved,3.0
+CLM-001551,Amber,Human review,95.2
+CLM-001552,Green,Auto-approved,1.4
+CLM-001553,Green,Auto-approved,1.7
+CLM-001554,Red,SIU referral,151.1
+CLM-001555,Amber,Human review,31.3
+CLM-001556,Green,Auto-approved,3.9
+CLM-001557,Red,SIU referral,240.4
+CLM-001558,Amber,Human review,33.2
+CLM-001559,Red,SIU referral,311.3
+CLM-001560,Green,Auto-approved,0.5
+CLM-001561,Green,Auto-approved,2.9
+CLM-001562,Amber,Human review,69.4
+CLM-001563,Green,Auto-approved,1.6
+CLM-001564,Green,Auto-approved,2.7
+CLM-001565,Green,Auto-approved,3.7
+CLM-001566,Green,Auto-approved,2.2
+CLM-001567,Green,Auto-approved,1.9
+CLM-001568,Amber,Human review,36.3
+CLM-001569,Amber,Human review,53.5
+CLM-001570,Green,Auto-approved,2.3
+CLM-001571,Amber,Human review,56.0
+CLM-001572,Amber,Human review,55.2
+CLM-001573,Green,Auto-approved,0.5
+CLM-001574,Amber,Human review,33.9
+CLM-001575,Green,Auto-approved,3.0
+CLM-001576,Amber,Human review,90.1
+CLM-001577,Amber,Human review,61.4
+CLM-001578,Amber,Human review,60.0
+CLM-001579,Amber,Human review,40.1
+CLM-001580,Amber,Human review,38.1
+CLM-001581,Amber,Human review,35.7
+CLM-001582,Green,Auto-approved,1.0
+CLM-001583,Green,Auto-approved,2.3
+CLM-001584,Green,Auto-approved,3.9
+CLM-001585,Green,Auto-approved,1.2
+CLM-001586,Amber,Human review,44.3
+CLM-001587,Green,Auto-approved,0.6
+CLM-001588,Green,Auto-approved,1.8
+CLM-001589,Green,Auto-approved,2.8
+CLM-001590,Amber,Human review,75.2
+CLM-001591,Green,Auto-approved,1.1
+CLM-001592,Green,Auto-approved,2.9
+CLM-001593,Green,Auto-approved,2.9
+CLM-001594,Amber,Human review,90.3
+CLM-001595,Green,Auto-approved,0.7
+CLM-001596,Green,Auto-approved,0.7
+CLM-001597,Green,Auto-approved,3.4
+CLM-001598,Green,Auto-approved,0.5
+CLM-001599,Amber,Human review,33.7
+CLM-001600,Green,Auto-approved,0.5
+CLM-001601,Green,Auto-approved,1.3
+CLM-001602,Green,Auto-approved,3.6
+CLM-001603,Green,Auto-approved,1.3
+CLM-001604,Green,Auto-approved,2.8
+CLM-001605,Amber,Human review,40.2
+CLM-001606,Green,Auto-approved,0.6
+CLM-001607,Amber,Human review,65.2
+CLM-001608,Green,Auto-approved,3.0
+CLM-001609,Green,Auto-approved,2.5
+CLM-001610,Green,Auto-approved,3.6
+CLM-001611,Amber,Human review,94.0
+CLM-001612,Green,Auto-approved,1.5
+CLM-001613,Green,Auto-approved,3.6
+CLM-001614,Amber,Human review,81.8
+CLM-001615,Green,Auto-approved,2.9
+CLM-001616,Green,Auto-approved,2.2
+CLM-001617,Amber,Human review,86.4
+CLM-001618,Red,SIU referral,315.3
+CLM-001619,Amber,Human review,61.5
+CLM-001620,Green,Auto-approved,1.2
+CLM-001621,Amber,Human review,57.4
+CLM-001622,Red,SIU referral,325.8
+CLM-001623,Green,Auto-approved,3.7
+CLM-001624,Green,Auto-approved,3.8
+CLM-001625,Green,Auto-approved,3.7
+CLM-001626,Green,Auto-approved,3.8
+CLM-001627,Green,Auto-approved,3.2
+CLM-001628,Amber,Human review,36.5
+CLM-001629,Green,Auto-approved,0.7
+CLM-001630,Amber,Human review,28.8
+CLM-001631,Green,Auto-approved,2.6
+CLM-001632,Green,Auto-approved,0.9
+CLM-001633,Green,Auto-approved,3.3
+CLM-001634,Amber,Human review,40.2
+CLM-001635,Amber,Human review,53.8
+CLM-001636,Amber,Human review,42.0
+CLM-001637,Green,Auto-approved,2.4
+CLM-001638,Amber,Human review,83.9
+CLM-001639,Green,Auto-approved,3.7
+CLM-001640,Green,Auto-approved,2.4
+CLM-001641,Amber,Human review,74.7
+CLM-001642,Amber,Human review,28.5
+CLM-001643,Red,SIU referral,241.2
+CLM-001644,Green,Auto-approved,3.8
+CLM-001645,Green,Auto-approved,3.5
+CLM-001646,Green,Auto-approved,2.6
+CLM-001647,Green,Auto-approved,2.2
+CLM-001648,Amber,Human review,49.8
+CLM-001649,Green,Auto-approved,2.2
+CLM-001650,Green,Auto-approved,2.1
+CLM-001651,Green,Auto-approved,3.1
+CLM-001652,Green,Auto-approved,1.6
+CLM-001653,Amber,Human review,45.2
+CLM-001654,Red,SIU referral,289.3
+CLM-001655,Amber,Human review,91.7
+CLM-001656,Amber,Human review,75.6
+CLM-001657,Amber,Human review,86.1
+CLM-001658,Green,Auto-approved,0.6
+CLM-001659,Green,Auto-approved,3.0
+CLM-001660,Amber,Human review,24.6
+CLM-001661,Amber,Human review,50.0
+CLM-001662,Green,Auto-approved,0.6
+CLM-001663,Green,Auto-approved,0.9
+CLM-001664,Amber,Human review,70.4
+CLM-001665,Amber,Human review,40.9
+CLM-001666,Red,SIU referral,451.5
+CLM-001667,Green,Auto-approved,2.0
+CLM-001668,Green,Auto-approved,3.6
+CLM-001669,Red,SIU referral,306.8
+CLM-001670,Amber,Human review,55.6
+CLM-001671,Amber,Human review,93.8
+CLM-001672,Green,Auto-approved,3.4
+CLM-001673,Amber,Human review,56.8
+CLM-001674,Amber,Human review,28.2
+CLM-001675,Green,Auto-approved,2.6
+CLM-001676,Green,Auto-approved,3.7
+CLM-001677,Green,Auto-approved,3.7
+CLM-001678,Green,Auto-approved,0.8
+CLM-001679,Amber,Human review,86.5
+CLM-001680,Amber,Human review,62.6
+CLM-001681,Amber,Human review,70.9
+CLM-001682,Green,Auto-approved,0.9
+CLM-001683,Green,Auto-approved,2.3
+CLM-001684,Green,Auto-approved,2.3
+CLM-001685,Green,Auto-approved,1.6
+CLM-001686,Green,Auto-approved,3.0
+CLM-001687,Green,Auto-approved,1.3
+CLM-001688,Green,Auto-approved,3.9
+CLM-001689,Amber,Human review,69.4
+CLM-001690,Amber,Human review,47.7
+CLM-001691,Amber,Human review,39.8
+CLM-001692,Amber,Human review,62.5
+CLM-001693,Green,Auto-approved,3.4
+CLM-001694,Green,Auto-approved,3.5
+CLM-001695,Amber,Human review,29.0
+CLM-001696,Green,Auto-approved,2.5
+CLM-001697,Amber,Human review,81.8
+CLM-001698,Green,Auto-approved,1.9
+CLM-001699,Amber,Human review,88.9
+CLM-001700,Amber,Human review,63.0
+CLM-001701,Green,Auto-approved,1.4
+CLM-001702,Amber,Human review,45.1
+CLM-001703,Green,Auto-approved,2.0
+CLM-001704,Amber,Human review,73.5
+CLM-001705,Amber,Human review,67.3
+CLM-001706,Amber,Human review,52.0
+CLM-001707,Green,Auto-approved,1.4
+CLM-001708,Amber,Human review,54.5
+CLM-001709,Green,Auto-approved,0.7
+CLM-001710,Amber,Human review,78.1
+CLM-001711,Green,Auto-approved,2.7
+CLM-001712,Amber,Human review,89.2
+CLM-001713,Amber,Human review,67.7
+CLM-001714,Amber,Human review,59.4
+CLM-001715,Green,Auto-approved,2.4
+CLM-001716,Green,Auto-approved,1.7
+CLM-001717,Amber,Human review,88.0
+CLM-001718,Green,Auto-approved,1.1
+CLM-001719,Amber,Human review,51.8
+CLM-001720,Green,Auto-approved,3.0
+CLM-001721,Green,Auto-approved,3.1
+CLM-001722,Green,Auto-approved,3.0
+CLM-001723,Amber,Human review,31.2
+CLM-001724,Amber,Human review,75.0
+CLM-001725,Amber,Human review,71.5
+CLM-001726,Green,Auto-approved,3.2
+CLM-001727,Amber,Human review,65.2
+CLM-001728,Amber,Human review,83.1
+CLM-001729,Green,Auto-approved,0.5
+CLM-001730,Green,Auto-approved,3.5
+CLM-001731,Green,Auto-approved,3.7
+CLM-001732,Amber,Human review,37.6
+CLM-001733,Green,Auto-approved,2.5
+CLM-001734,Green,Auto-approved,2.3
+CLM-001735,Green,Auto-approved,2.7
+CLM-001736,Amber,Human review,58.3
+CLM-001737,Red,SIU referral,279.7
+CLM-001738,Green,Auto-approved,3.5
+CLM-001739,Green,Auto-approved,2.3
+CLM-001740,Amber,Human review,86.8
+CLM-001741,Green,Auto-approved,1.3
+CLM-001742,Green,Auto-approved,2.2
+CLM-001743,Amber,Human review,60.7
+CLM-001744,Green,Auto-approved,3.2
+CLM-001745,Green,Auto-approved,3.1
+CLM-001746,Green,Auto-approved,3.5
+CLM-001747,Red,SIU referral,265.5
+CLM-001748,Green,Auto-approved,2.8
+CLM-001749,Green,Auto-approved,3.9
+CLM-001750,Green,Auto-approved,2.6
+CLM-001751,Amber,Human review,74.0
+CLM-001752,Red,SIU referral,402.5
+CLM-001753,Amber,Human review,61.0
+CLM-001754,Amber,Human review,61.0
+CLM-001755,Green,Auto-approved,1.8
+CLM-001756,Green,Auto-approved,0.9
+CLM-001757,Green,Auto-approved,0.9
+CLM-001758,Green,Auto-approved,3.6
+CLM-001759,Green,Auto-approved,1.8
+CLM-001760,Amber,Human review,88.3
+CLM-001761,Red,SIU referral,471.5
+CLM-001762,Amber,Human review,88.5
+CLM-001763,Green,Auto-approved,3.3
+CLM-001764,Green,Auto-approved,0.5
+CLM-001765,Amber,Human review,48.2
+CLM-001766,Amber,Human review,37.7
+CLM-001767,Amber,Human review,33.0
+CLM-001768,Green,Auto-approved,1.0
+CLM-001769,Green,Auto-approved,2.9
+CLM-001770,Amber,Human review,38.8
+CLM-001771,Green,Auto-approved,1.8
+CLM-001772,Amber,Human review,67.0
+CLM-001773,Green,Auto-approved,3.0
+CLM-001774,Amber,Human review,89.0
+CLM-001775,Green,Auto-approved,2.2
+CLM-001776,Red,SIU referral,352.3
+CLM-001777,Amber,Human review,73.4
+CLM-001778,Red,SIU referral,277.2
+CLM-001779,Amber,Human review,76.3
+CLM-001780,Green,Auto-approved,3.2
+CLM-001781,Green,Auto-approved,0.7
+CLM-001782,Green,Auto-approved,3.5
+CLM-001783,Amber,Human review,47.2
+CLM-001784,Green,Auto-approved,1.2
+CLM-001785,Amber,Human review,72.0
+CLM-001786,Green,Auto-approved,2.3
+CLM-001787,Green,Auto-approved,3.6
+CLM-001788,Red,SIU referral,255.4
+CLM-001789,Amber,Human review,41.0
+CLM-001790,Amber,Human review,37.4
+CLM-001791,Amber,Human review,33.7
+CLM-001792,Amber,Human review,88.3
+CLM-001793,Amber,Human review,24.5
+CLM-001794,Green,Auto-approved,3.9
+CLM-001795,Green,Auto-approved,1.2
+CLM-001796,Green,Auto-approved,1.9
+CLM-001797,Green,Auto-approved,2.5
+CLM-001798,Green,Auto-approved,2.7
+CLM-001799,Amber,Human review,86.3
+CLM-001800,Amber,Human review,85.5
+CLM-001801,Amber,Human review,47.0
+CLM-001802,Amber,Human review,57.7
+CLM-001803,Red,SIU referral,278.4
+CLM-001804,Amber,Human review,77.6
+CLM-001805,Green,Auto-approved,1.9
+CLM-001806,Green,Auto-approved,1.8
+CLM-001807,Green,Auto-approved,2.7
+CLM-001808,Amber,Human review,87.2
+CLM-001809,Green,Auto-approved,2.6
+CLM-001810,Green,Auto-approved,0.6
+CLM-001811,Amber,Human review,50.5
+CLM-001812,Green,Auto-approved,3.9
+CLM-001813,Amber,Human review,51.8
+CLM-001814,Green,Auto-approved,4.0
+CLM-001815,Red,SIU referral,433.1
+CLM-001816,Amber,Human review,59.0
+CLM-001817,Amber,Human review,46.9
+CLM-001818,Green,Auto-approved,4.0
+CLM-001819,Amber,Human review,49.5
+CLM-001820,Green,Auto-approved,0.9
+CLM-001821,Amber,Human review,29.3
+CLM-001822,Green,Auto-approved,1.2
+CLM-001823,Red,SIU referral,475.0
+CLM-001824,Amber,Human review,27.6
+CLM-001825,Green,Auto-approved,2.1
+CLM-001826,Green,Auto-approved,3.7
+CLM-001827,Amber,Human review,84.4
+CLM-001828,Amber,Human review,45.1
+CLM-001829,Green,Auto-approved,1.8
+CLM-001830,Green,Auto-approved,2.6
+CLM-001831,Green,Auto-approved,1.0
+CLM-001832,Green,Auto-approved,2.2
+CLM-001833,Green,Auto-approved,3.2
+CLM-001834,Green,Auto-approved,1.2
+CLM-001835,Green,Auto-approved,3.1
+CLM-001836,Green,Auto-approved,2.6
+CLM-001837,Green,Auto-approved,1.3
+CLM-001838,Green,Auto-approved,3.2
+CLM-001839,Amber,Human review,74.3
+CLM-001840,Amber,Human review,73.3
+CLM-001841,Amber,Human review,82.4
+CLM-001842,Amber,Human review,76.7
+CLM-001843,Amber,Human review,72.6
+CLM-001844,Green,Auto-approved,2.9
+CLM-001845,Green,Auto-approved,0.8
+CLM-001846,Amber,Human review,78.8
+CLM-001847,Amber,Human review,64.2
+CLM-001848,Amber,Human review,75.9
+CLM-001849,Green,Auto-approved,2.4
+CLM-001850,Amber,Human review,87.3
+CLM-001851,Amber,Human review,71.1
+CLM-001852,Amber,Human review,95.3
+CLM-001853,Green,Auto-approved,1.7
+CLM-001854,Green,Auto-approved,2.3
+CLM-001855,Amber,Human review,24.0
+CLM-001856,Amber,Human review,51.8
+CLM-001857,Amber,Human review,89.5
+CLM-001858,Green,Auto-approved,3.5
+CLM-001859,Amber,Human review,31.8
+CLM-001860,Amber,Human review,69.4
+CLM-001861,Amber,Human review,49.1
+CLM-001862,Amber,Human review,76.0
+CLM-001863,Green,Auto-approved,2.4
+CLM-001864,Green,Auto-approved,2.8
+CLM-001865,Green,Auto-approved,2.6
+CLM-001866,Green,Auto-approved,3.6
+CLM-001867,Green,Auto-approved,3.3
+CLM-001868,Amber,Human review,81.6
+CLM-001869,Green,Auto-approved,0.7
+CLM-001870,Red,SIU referral,449.4
+CLM-001871,Green,Auto-approved,1.4
+CLM-001872,Amber,Human review,32.1
+CLM-001873,Green,Auto-approved,2.9
+CLM-001874,Green,Auto-approved,1.3
+CLM-001875,Amber,Human review,39.2
+CLM-001876,Amber,Human review,93.8
+CLM-001877,Green,Auto-approved,3.9
+CLM-001878,Green,Auto-approved,3.6
+CLM-001879,Amber,Human review,33.5
+CLM-001880,Amber,Human review,54.2
+CLM-001881,Green,Auto-approved,4.0
+CLM-001882,Amber,Human review,80.3
+CLM-001883,Amber,Human review,73.7
+CLM-001884,Green,Auto-approved,1.8
+CLM-001885,Red,SIU referral,99.6
+CLM-001886,Green,Auto-approved,3.4
+CLM-001887,Green,Auto-approved,3.5
+CLM-001888,Amber,Human review,73.9
+CLM-001889,Green,Auto-approved,2.4
+CLM-001890,Amber,Human review,91.9
+CLM-001891,Amber,Human review,66.7
+CLM-001892,Red,SIU referral,473.0
+CLM-001893,Green,Auto-approved,0.9
+CLM-001894,Green,Auto-approved,3.7
+CLM-001895,Amber,Human review,82.3
+CLM-001896,Green,Auto-approved,1.9
+CLM-001897,Green,Auto-approved,3.0
+CLM-001898,Green,Auto-approved,3.9
+CLM-001899,Green,Auto-approved,3.6
+CLM-001900,Green,Auto-approved,1.8
+CLM-001901,Amber,Human review,61.7
+CLM-001902,Amber,Human review,33.4
+CLM-001903,Amber,Human review,29.0
+CLM-001904,Amber,Human review,75.1
+CLM-001905,Amber,Human review,43.5
+CLM-001906,Green,Auto-approved,1.5
+CLM-001907,Green,Auto-approved,4.0
+CLM-001908,Green,Auto-approved,1.2
+CLM-001909,Amber,Human review,65.1
+CLM-001910,Amber,Human review,28.6
+CLM-001911,Amber,Human review,66.5
+CLM-001912,Green,Auto-approved,0.9
+CLM-001913,Amber,Human review,50.6
+CLM-001914,Green,Auto-approved,1.1
+CLM-001915,Green,Auto-approved,1.5
+CLM-001916,Amber,Human review,33.9
+CLM-001917,Green,Auto-approved,3.9
+CLM-001918,Amber,Human review,60.9
+CLM-001919,Green,Auto-approved,2.4
+CLM-001920,Green,Auto-approved,2.0
+CLM-001921,Amber,Human review,30.6
+CLM-001922,Green,Auto-approved,0.6
+CLM-001923,Green,Auto-approved,1.8
+CLM-001924,Red,SIU referral,335.8
+CLM-001925,Amber,Human review,74.4
+CLM-001926,Green,Auto-approved,1.6
+CLM-001927,Green,Auto-approved,1.0
+CLM-001928,Green,Auto-approved,2.8
+CLM-001929,Amber,Human review,39.5
+CLM-001930,Green,Auto-approved,2.4
+CLM-001931,Red,SIU referral,165.8
+CLM-001932,Red,SIU referral,196.9
+CLM-001933,Green,Auto-approved,4.0
+CLM-001934,Amber,Human review,54.4
+CLM-001935,Green,Auto-approved,3.4
+CLM-001936,Amber,Human review,32.4
+CLM-001937,Green,Auto-approved,3.9
+CLM-001938,Green,Auto-approved,2.8
+CLM-001939,Red,SIU referral,315.7
+CLM-001940,Amber,Human review,41.9
+CLM-001941,Red,SIU referral,134.6
+CLM-001942,Green,Auto-approved,4.0
+CLM-001943,Red,SIU referral,303.9
+CLM-001944,Green,Auto-approved,2.6
+CLM-001945,Amber,Human review,41.1
+CLM-001946,Amber,Human review,62.1
+CLM-001947,Amber,Human review,95.2
+CLM-001948,Green,Auto-approved,3.9
+CLM-001949,Green,Auto-approved,0.5
+CLM-001950,Red,SIU referral,165.8
+CLM-001951,Green,Auto-approved,3.6
+CLM-001952,Amber,Human review,72.2
+CLM-001953,Green,Auto-approved,0.7
+CLM-001954,Green,Auto-approved,3.4
+CLM-001955,Amber,Human review,68.4
+CLM-001956,Red,SIU referral,315.4
+CLM-001957,Green,Auto-approved,1.8
+CLM-001958,Amber,Human review,76.7
+CLM-001959,Green,Auto-approved,0.8
+CLM-001960,Amber,Human review,54.1
+CLM-001961,Green,Auto-approved,0.9
+CLM-001962,Amber,Human review,46.8
+CLM-001963,Green,Auto-approved,3.0
+CLM-001964,Amber,Human review,65.7
+CLM-001965,Green,Auto-approved,1.0
+CLM-001966,Amber,Human review,51.7
+CLM-001967,Amber,Human review,35.6
+CLM-001968,Green,Auto-approved,1.3
+CLM-001969,Amber,Human review,38.1
+CLM-001970,Green,Auto-approved,3.6
+CLM-001971,Amber,Human review,28.3
+CLM-001972,Amber,Human review,85.8
+CLM-001973,Green,Auto-approved,2.6
+CLM-001974,Amber,Human review,85.4
+CLM-001975,Green,Auto-approved,2.9
+CLM-001976,Amber,Human review,76.9
+CLM-001977,Green,Auto-approved,3.5
+CLM-001978,Green,Auto-approved,2.8
+CLM-001979,Green,Auto-approved,0.6
+CLM-001980,Green,Auto-approved,0.7
+CLM-001981,Red,SIU referral,118.5
+CLM-001982,Amber,Human review,81.7
+CLM-001983,Green,Auto-approved,1.8
+CLM-001984,Amber,Human review,86.3
+CLM-001985,Green,Auto-approved,0.9
+CLM-001986,Green,Auto-approved,3.7
+CLM-001987,Green,Auto-approved,1.7
+CLM-001988,Green,Auto-approved,3.6
+CLM-001989,Green,Auto-approved,2.4
+CLM-001990,Green,Auto-approved,1.3
+CLM-001991,Green,Auto-approved,2.7
+CLM-001992,Green,Auto-approved,1.9
+CLM-001993,Green,Auto-approved,3.3
+CLM-001994,Green,Auto-approved,1.6
+CLM-001995,Amber,Human review,89.2
+CLM-001996,Green,Auto-approved,3.0
+CLM-001997,Amber,Human review,89.6
+CLM-001998,Amber,Human review,67.0
+CLM-001999,Amber,Human review,51.7
+CLM-002000,Green,Auto-approved,1.5
+CLM-002001,Green,Auto-approved,3.7
+CLM-002002,Amber,Human review,91.5
+CLM-002003,Green,Auto-approved,2.1
+CLM-002004,Green,Auto-approved,1.5
+CLM-002005,Amber,Human review,57.5
+CLM-002006,Amber,Human review,42.0
+CLM-002007,Green,Auto-approved,3.6
+CLM-002008,Amber,Human review,36.1
+CLM-002009,Green,Auto-approved,1.1
+CLM-002010,Green,Auto-approved,3.5
+CLM-002011,Red,SIU referral,461.1
+CLM-002012,Green,Auto-approved,2.9
+CLM-002013,Green,Auto-approved,0.5
+CLM-002014,Green,Auto-approved,2.4
+CLM-002015,Amber,Human review,89.4
+CLM-002016,Green,Auto-approved,3.1
+CLM-002017,Amber,Human review,46.1
+CLM-002018,Amber,Human review,31.6
+CLM-002019,Amber,Human review,28.7
+CLM-002020,Amber,Human review,73.5
+CLM-002021,Amber,Human review,77.7
+CLM-002022,Green,Auto-approved,1.5
+CLM-002023,Amber,Human review,43.4
+CLM-002024,Green,Auto-approved,1.5
+CLM-002025,Green,Auto-approved,4.0
+CLM-002026,Amber,Human review,48.0
+CLM-002027,Amber,Human review,46.9
+CLM-002028,Amber,Human review,78.4
+CLM-002029,Green,Auto-approved,3.2
+CLM-002030,Amber,Human review,40.4
+CLM-002031,Green,Auto-approved,3.0
+CLM-002032,Green,Auto-approved,3.5
+CLM-002033,Amber,Human review,82.0
+CLM-002034,Amber,Human review,27.9
+CLM-002035,Amber,Human review,79.6
+CLM-002036,Green,Auto-approved,3.9
+CLM-002037,Green,Auto-approved,3.4
+CLM-002038,Green,Auto-approved,1.3
+CLM-002039,Green,Auto-approved,0.7
+CLM-002040,Green,Auto-approved,1.9
+CLM-002041,Green,Auto-approved,1.2
+CLM-002042,Green,Auto-approved,2.5
+CLM-002043,Green,Auto-approved,2.3
+CLM-002044,Amber,Human review,51.7
+CLM-002045,Amber,Human review,45.5
+CLM-002046,Amber,Human review,62.6
+CLM-002047,Amber,Human review,84.3
+CLM-002048,Green,Auto-approved,3.9
+CLM-002049,Green,Auto-approved,3.2
+CLM-002050,Amber,Human review,88.7
+CLM-002051,Green,Auto-approved,1.8
+CLM-002052,Green,Auto-approved,2.3
+CLM-002053,Green,Auto-approved,1.8
+CLM-002054,Amber,Human review,58.7
+CLM-002055,Green,Auto-approved,3.4
+CLM-002056,Amber,Human review,39.5
+CLM-002057,Red,SIU referral,475.3
+CLM-002058,Green,Auto-approved,1.5
+CLM-002059,Green,Auto-approved,3.6
+CLM-002060,Amber,Human review,93.0
+CLM-002061,Green,Auto-approved,1.6
+CLM-002062,Green,Auto-approved,3.7
+CLM-002063,Green,Auto-approved,1.1
+CLM-002064,Amber,Human review,93.8
+CLM-002065,Amber,Human review,78.5
+CLM-002066,Amber,Human review,50.8
+CLM-002067,Green,Auto-approved,2.7
+CLM-002068,Green,Auto-approved,3.8
+CLM-002069,Red,SIU referral,218.2
+CLM-002070,Amber,Human review,73.5
+CLM-002071,Amber,Human review,40.2
+CLM-002072,Amber,Human review,28.3
+CLM-002073,Amber,Human review,95.6
+CLM-002074,Green,Auto-approved,2.2
+CLM-002075,Amber,Human review,55.6
+CLM-002076,Green,Auto-approved,3.4
+CLM-002077,Green,Auto-approved,2.0
+CLM-002078,Amber,Human review,36.4
+CLM-002079,Green,Auto-approved,3.1
+CLM-002080,Green,Auto-approved,2.3
+CLM-002081,Green,Auto-approved,1.8
+CLM-002082,Green,Auto-approved,0.6
+CLM-002083,Amber,Human review,81.7
+CLM-002084,Green,Auto-approved,1.0
+CLM-002085,Green,Auto-approved,0.6
+CLM-002086,Green,Auto-approved,0.6
+CLM-002087,Green,Auto-approved,2.7
+CLM-002088,Amber,Human review,31.5
+CLM-002089,Green,Auto-approved,1.4
+CLM-002090,Amber,Human review,87.5
+CLM-002091,Green,Auto-approved,2.7
+CLM-002092,Amber,Human review,62.6
+CLM-002093,Amber,Human review,30.0
+CLM-002094,Green,Auto-approved,3.4
+CLM-002095,Green,Auto-approved,3.0
+CLM-002096,Green,Auto-approved,3.7
+CLM-002097,Amber,Human review,40.1
+CLM-002098,Amber,Human review,77.4
+CLM-002099,Amber,Human review,37.8
+CLM-002100,Red,SIU referral,234.9
+CLM-002101,Amber,Human review,36.2
+CLM-002102,Green,Auto-approved,0.5
+CLM-002103,Green,Auto-approved,1.0
+CLM-002104,Amber,Human review,82.9
+CLM-002105,Amber,Human review,81.5
+CLM-002106,Red,SIU referral,237.2
+CLM-002107,Green,Auto-approved,2.1
+CLM-002108,Green,Auto-approved,3.7
+CLM-002109,Green,Auto-approved,2.1
+CLM-002110,Green,Auto-approved,3.5
+CLM-002111,Amber,Human review,36.0
+CLM-002112,Green,Auto-approved,1.4
+CLM-002113,Amber,Human review,38.8
+CLM-002114,Amber,Human review,53.5
+CLM-002115,Green,Auto-approved,2.4
+CLM-002116,Red,SIU referral,312.1
+CLM-002117,Green,Auto-approved,3.0
+CLM-002118,Green,Auto-approved,1.8
+CLM-002119,Amber,Human review,69.4
+CLM-002120,Green,Auto-approved,3.6
+CLM-002121,Amber,Human review,85.3
+CLM-002122,Green,Auto-approved,2.3
+CLM-002123,Green,Auto-approved,3.2
+CLM-002124,Green,Auto-approved,3.4
+CLM-002125,Amber,Human review,27.7
+CLM-002126,Amber,Human review,76.2
+CLM-002127,Amber,Human review,89.4
+CLM-002128,Amber,Human review,47.2
+CLM-002129,Amber,Human review,76.9
+CLM-002130,Green,Auto-approved,1.4
+CLM-002131,Green,Auto-approved,2.7
+CLM-002132,Green,Auto-approved,3.9
+CLM-002133,Green,Auto-approved,1.8
+CLM-002134,Amber,Human review,25.1
+CLM-002135,Amber,Human review,48.6
+CLM-002136,Green,Auto-approved,3.8
+CLM-002137,Amber,Human review,76.6
+CLM-002138,Amber,Human review,40.0
+CLM-002139,Green,Auto-approved,2.2
+CLM-002140,Amber,Human review,45.4
+CLM-002141,Amber,Human review,28.0
+CLM-002142,Amber,Human review,68.8
+CLM-002143,Amber,Human review,78.4
+CLM-002144,Amber,Human review,95.2
+CLM-002145,Amber,Human review,29.9
+CLM-002146,Green,Auto-approved,1.8
+CLM-002147,Amber,Human review,48.0
+CLM-002148,Green,Auto-approved,3.3
+CLM-002149,Green,Auto-approved,3.3
+CLM-002150,Amber,Human review,38.1
+CLM-002151,Green,Auto-approved,2.3
+CLM-002152,Amber,Human review,74.8
+CLM-002153,Green,Auto-approved,1.6
+CLM-002154,Green,Auto-approved,2.2
+CLM-002155,Green,Auto-approved,1.7
+CLM-002156,Green,Auto-approved,3.0
+CLM-002157,Red,SIU referral,460.3
+CLM-002158,Green,Auto-approved,2.3
+CLM-002159,Green,Auto-approved,0.7
+CLM-002160,Green,Auto-approved,1.5
+CLM-002161,Amber,Human review,85.2
+CLM-002162,Red,SIU referral,251.2
+CLM-002163,Green,Auto-approved,1.8
+CLM-002164,Green,Auto-approved,2.3
+CLM-002165,Red,SIU referral,182.8
+CLM-002166,Amber,Human review,91.9
+CLM-002167,Green,Auto-approved,1.0
+CLM-002168,Red,SIU referral,266.0
+CLM-002169,Amber,Human review,45.0
+CLM-002170,Green,Auto-approved,3.2
+CLM-002171,Amber,Human review,69.9
+CLM-002172,Amber,Human review,61.2
+CLM-002173,Green,Auto-approved,2.3
+CLM-002174,Green,Auto-approved,2.8
+CLM-002175,Green,Auto-approved,0.7
+CLM-002176,Green,Auto-approved,3.2
+CLM-002177,Green,Auto-approved,1.6
+CLM-002178,Amber,Human review,63.8
+CLM-002179,Amber,Human review,73.8
+CLM-002180,Green,Auto-approved,0.9
+CLM-002181,Green,Auto-approved,0.9
+CLM-002182,Green,Auto-approved,2.3
+CLM-002183,Green,Auto-approved,0.9
+CLM-002184,Red,SIU referral,422.5
+CLM-002185,Amber,Human review,50.9
+CLM-002186,Green,Auto-approved,1.9
+CLM-002187,Green,Auto-approved,3.4
+CLM-002188,Green,Auto-approved,2.2
+CLM-002189,Amber,Human review,37.6
+CLM-002190,Green,Auto-approved,3.5
+CLM-002191,Amber,Human review,26.7
+CLM-002192,Amber,Human review,35.0
+CLM-002193,Green,Auto-approved,0.7
+CLM-002194,Amber,Human review,32.3
+CLM-002195,Amber,Human review,29.3
+CLM-002196,Green,Auto-approved,0.6
+CLM-002197,Green,Auto-approved,3.2
+CLM-002198,Amber,Human review,44.3
+CLM-002199,Amber,Human review,34.7
+CLM-002200,Green,Auto-approved,1.4
+CLM-002201,Amber,Human review,27.8
+CLM-002202,Amber,Human review,95.6
+CLM-002203,Red,SIU referral,255.3
+CLM-002204,Green,Auto-approved,3.4
+CLM-002205,Green,Auto-approved,0.9
+CLM-002206,Amber,Human review,94.1
+CLM-002207,Green,Auto-approved,2.1
+CLM-002208,Amber,Human review,95.8
+CLM-002209,Green,Auto-approved,3.9
+CLM-002210,Green,Auto-approved,2.8
+CLM-002211,Green,Auto-approved,2.0
+CLM-002212,Amber,Human review,74.2
+CLM-002213,Green,Auto-approved,2.0
+CLM-002214,Red,SIU referral,347.5
+CLM-002215,Green,Auto-approved,2.4
+CLM-002216,Green,Auto-approved,2.4
+CLM-002217,Amber,Human review,48.9
+CLM-002218,Amber,Human review,80.0
+CLM-002219,Green,Auto-approved,0.9
+CLM-002220,Green,Auto-approved,0.8
+CLM-002221,Green,Auto-approved,3.7
+CLM-002222,Green,Auto-approved,2.3
+CLM-002223,Green,Auto-approved,1.1
+CLM-002224,Green,Auto-approved,2.1
+CLM-002225,Green,Auto-approved,1.1
+CLM-002226,Amber,Human review,50.2
+CLM-002227,Green,Auto-approved,2.8
+CLM-002228,Amber,Human review,52.3
+CLM-002229,Green,Auto-approved,3.4
+CLM-002230,Green,Auto-approved,3.6
+CLM-002231,Green,Auto-approved,3.9
+CLM-002232,Green,Auto-approved,3.4
+CLM-002233,Green,Auto-approved,1.1
+CLM-002234,Red,SIU referral,326.3
+CLM-002235,Green,Auto-approved,3.9
+CLM-002236,Green,Auto-approved,2.8
+CLM-002237,Amber,Human review,30.1
+CLM-002238,Green,Auto-approved,3.2
+CLM-002239,Amber,Human review,77.2
+CLM-002240,Green,Auto-approved,4.0
+CLM-002241,Green,Auto-approved,0.6
+CLM-002242,Red,SIU referral,270.0
+CLM-002243,Green,Auto-approved,1.7
+CLM-002244,Green,Auto-approved,1.9
+CLM-002245,Amber,Human review,54.5
+CLM-002246,Red,SIU referral,407.0
+CLM-002247,Amber,Human review,73.0
+CLM-002248,Amber,Human review,91.9
+CLM-002249,Green,Auto-approved,1.1
+CLM-002250,Amber,Human review,36.2
+CLM-002251,Green,Auto-approved,3.0
+CLM-002252,Green,Auto-approved,2.3
+CLM-002253,Green,Auto-approved,2.3
+CLM-002254,Green,Auto-approved,2.0
+CLM-002255,Amber,Human review,80.8
+CLM-002256,Green,Auto-approved,2.8
+CLM-002257,Green,Auto-approved,1.2
+CLM-002258,Amber,Human review,90.4
+CLM-002259,Green,Auto-approved,2.4
+CLM-002260,Green,Auto-approved,2.9
+CLM-002261,Amber,Human review,58.4
+CLM-002262,Green,Auto-approved,2.3
+CLM-002263,Green,Auto-approved,2.6
+CLM-002264,Green,Auto-approved,1.9
+CLM-002265,Amber,Human review,49.9
+CLM-002266,Amber,Human review,76.4
+CLM-002267,Green,Auto-approved,1.7
+CLM-002268,Green,Auto-approved,3.2
+CLM-002269,Green,Auto-approved,2.6
+CLM-002270,Green,Auto-approved,0.6
+CLM-002271,Green,Auto-approved,1.3
+CLM-002272,Red,SIU referral,288.5
+CLM-002273,Green,Auto-approved,3.8
+CLM-002274,Amber,Human review,48.7
+CLM-002275,Green,Auto-approved,1.8
+CLM-002276,Green,Auto-approved,2.1
+CLM-002277,Red,SIU referral,410.1
+CLM-002278,Green,Auto-approved,1.9
+CLM-002279,Amber,Human review,64.7
+CLM-002280,Green,Auto-approved,3.8
+CLM-002281,Green,Auto-approved,0.7
+CLM-002282,Amber,Human review,49.8
+CLM-002283,Red,SIU referral,273.7
+CLM-002284,Green,Auto-approved,2.0
+CLM-002285,Amber,Human review,66.8
+CLM-002286,Green,Auto-approved,0.7
+CLM-002287,Amber,Human review,74.6
+CLM-002288,Amber,Human review,35.0
+CLM-002289,Green,Auto-approved,1.7
+CLM-002290,Green,Auto-approved,3.4
+CLM-002291,Green,Auto-approved,3.0
+CLM-002292,Green,Auto-approved,2.1
+CLM-002293,Green,Auto-approved,3.0
+CLM-002294,Amber,Human review,81.0
+CLM-002295,Green,Auto-approved,1.5
+CLM-002296,Green,Auto-approved,2.4
+CLM-002297,Green,Auto-approved,2.5
+CLM-002298,Green,Auto-approved,3.3
+CLM-002299,Amber,Human review,89.2
+CLM-002300,Red,SIU referral,367.4
+CLM-002301,Green,Auto-approved,2.8
+CLM-002302,Green,Auto-approved,0.8
+CLM-002303,Amber,Human review,61.9
+CLM-002304,Amber,Human review,64.7
+CLM-002305,Amber,Human review,82.9
+CLM-002306,Green,Auto-approved,1.1
+CLM-002307,Green,Auto-approved,2.5
+CLM-002308,Green,Auto-approved,2.1
+CLM-002309,Amber,Human review,66.7
+CLM-002310,Amber,Human review,88.8
+CLM-002311,Amber,Human review,31.0
+CLM-002312,Green,Auto-approved,2.1
+CLM-002313,Amber,Human review,79.2
+CLM-002314,Amber,Human review,92.8
+CLM-002315,Green,Auto-approved,2.8
+CLM-002316,Amber,Human review,91.2
+CLM-002317,Amber,Human review,45.0
+CLM-002318,Green,Auto-approved,2.8
+CLM-002319,Green,Auto-approved,3.5
+CLM-002320,Green,Auto-approved,3.3
+CLM-002321,Green,Auto-approved,2.3
+CLM-002322,Green,Auto-approved,4.0
+CLM-002323,Green,Auto-approved,3.8
+CLM-002324,Red,SIU referral,415.0
+CLM-002325,Green,Auto-approved,1.2
+CLM-002326,Green,Auto-approved,3.7
+CLM-002327,Amber,Human review,71.8
+CLM-002328,Green,Auto-approved,2.8
+CLM-002329,Green,Auto-approved,1.5
+CLM-002330,Green,Auto-approved,3.9
+CLM-002331,Green,Auto-approved,1.2
+CLM-002332,Amber,Human review,89.3
+CLM-002333,Amber,Human review,37.5
+CLM-002334,Green,Auto-approved,2.9
+CLM-002335,Green,Auto-approved,1.3
+CLM-002336,Amber,Human review,64.3
+CLM-002337,Green,Auto-approved,3.1
+CLM-002338,Amber,Human review,55.5
+CLM-002339,Amber,Human review,38.4
+CLM-002340,Green,Auto-approved,2.2
+CLM-002341,Amber,Human review,79.3
+CLM-002342,Green,Auto-approved,0.5
+CLM-002343,Green,Auto-approved,0.5
+CLM-002344,Green,Auto-approved,2.4
+CLM-002345,Amber,Human review,92.4
+CLM-002346,Green,Auto-approved,3.8
+CLM-002347,Green,Auto-approved,1.2
+CLM-002348,Red,SIU referral,479.4
+CLM-002349,Green,Auto-approved,2.3
+CLM-002350,Green,Auto-approved,3.8
+CLM-002351,Green,Auto-approved,0.7
+CLM-002352,Amber,Human review,76.3
+CLM-002353,Amber,Human review,64.7
+CLM-002354,Green,Auto-approved,1.7
+CLM-002355,Green,Auto-approved,3.5
+CLM-002356,Green,Auto-approved,1.5
+CLM-002357,Green,Auto-approved,1.9
+CLM-002358,Green,Auto-approved,0.9
+CLM-002359,Green,Auto-approved,2.0
+CLM-002360,Red,SIU referral,286.1
+CLM-002361,Amber,Human review,33.3
+CLM-002362,Amber,Human review,46.7
+CLM-002363,Green,Auto-approved,1.1
+CLM-002364,Amber,Human review,65.7
+CLM-002365,Amber,Human review,82.2
+CLM-002366,Amber,Human review,36.9
+CLM-002367,Green,Auto-approved,1.5
+CLM-002368,Green,Auto-approved,3.5
+CLM-002369,Amber,Human review,90.1
+CLM-002370,Green,Auto-approved,0.6
+CLM-002371,Green,Auto-approved,0.6
+CLM-002372,Amber,Human review,94.1
+CLM-002373,Green,Auto-approved,0.9
+CLM-002374,Green,Auto-approved,3.4
+CLM-002375,Green,Auto-approved,0.8
+CLM-002376,Green,Auto-approved,3.1
+CLM-002377,Green,Auto-approved,3.6
+CLM-002378,Green,Auto-approved,0.6
+CLM-002379,Green,Auto-approved,1.8
+CLM-002380,Amber,Human review,40.8
+CLM-002381,Red,SIU referral,473.0
+CLM-002382,Amber,Human review,75.5
+CLM-002383,Amber,Human review,79.4
+CLM-002384,Amber,Human review,75.1
+CLM-002385,Green,Auto-approved,1.1
+CLM-002386,Green,Auto-approved,0.9
+CLM-002387,Amber,Human review,63.8
+CLM-002388,Amber,Human review,60.3
+CLM-002389,Amber,Human review,54.1
+CLM-002390,Green,Auto-approved,0.8
+CLM-002391,Green,Auto-approved,0.8
+CLM-002392,Green,Auto-approved,2.9
+CLM-002393,Amber,Human review,86.2
+CLM-002394,Green,Auto-approved,1.7
+CLM-002395,Green,Auto-approved,0.9
+CLM-002396,Green,Auto-approved,1.5
+CLM-002397,Amber,Human review,88.4
+CLM-002398,Red,SIU referral,351.2
+CLM-002399,Amber,Human review,35.0
+CLM-002400,Green,Auto-approved,2.2
+CLM-002401,Green,Auto-approved,1.9
+CLM-002402,Amber,Human review,50.1
+CLM-002403,Green,Auto-approved,2.5
+CLM-002404,Green,Auto-approved,3.0
+CLM-002405,Green,Auto-approved,3.0
+CLM-002406,Green,Auto-approved,1.1
+CLM-002407,Amber,Human review,93.8
+CLM-002408,Green,Auto-approved,3.8
+CLM-002409,Green,Auto-approved,1.3
+CLM-002410,Green,Auto-approved,2.1
+CLM-002411,Red,SIU referral,433.3
+CLM-002412,Red,SIU referral,349.4
+CLM-002413,Green,Auto-approved,1.5
+CLM-002414,Green,Auto-approved,1.7
+CLM-002415,Amber,Human review,34.0
+CLM-002416,Amber,Human review,94.5
+CLM-002417,Amber,Human review,52.6
+CLM-002418,Red,SIU referral,214.6
+CLM-002419,Amber,Human review,40.8
+CLM-002420,Amber,Human review,49.3
+CLM-002421,Green,Auto-approved,2.7
+CLM-002422,Amber,Human review,42.0
+CLM-002423,Green,Auto-approved,3.0
+CLM-002424,Green,Auto-approved,0.5
+CLM-002425,Amber,Human review,92.8
+CLM-002426,Green,Auto-approved,3.0
+CLM-002427,Amber,Human review,55.9
+CLM-002428,Red,SIU referral,354.8
+CLM-002429,Amber,Human review,89.1
+CLM-002430,Amber,Human review,83.1
+CLM-002431,Amber,Human review,39.5
+CLM-002432,Green,Auto-approved,2.4
+CLM-002433,Green,Auto-approved,0.9
+CLM-002434,Green,Auto-approved,2.6
+CLM-002435,Green,Auto-approved,3.4
+CLM-002436,Green,Auto-approved,0.9
+CLM-002437,Green,Auto-approved,0.5
+CLM-002438,Green,Auto-approved,0.9
+CLM-002439,Green,Auto-approved,2.3
+CLM-002440,Green,Auto-approved,2.6
+CLM-002441,Amber,Human review,72.9
+CLM-002442,Red,SIU referral,158.6
+CLM-002443,Amber,Human review,74.9
+CLM-002444,Amber,Human review,26.5
+CLM-002445,Green,Auto-approved,2.5
+CLM-002446,Amber,Human review,67.9
+CLM-002447,Red,SIU referral,342.5
+CLM-002448,Amber,Human review,88.7
+CLM-002449,Green,Auto-approved,2.7
+CLM-002450,Amber,Human review,95.6
+CLM-002451,Green,Auto-approved,1.0
+CLM-002452,Green,Auto-approved,3.4
+CLM-002453,Green,Auto-approved,0.7
+CLM-002454,Red,SIU referral,395.1
+CLM-002455,Green,Auto-approved,3.8
+CLM-002456,Green,Auto-approved,1.4
+CLM-002457,Amber,Human review,71.5
+CLM-002458,Green,Auto-approved,2.8
+CLM-002459,Amber,Human review,44.8
+CLM-002460,Green,Auto-approved,3.3
+CLM-002461,Green,Auto-approved,0.6
+CLM-002462,Green,Auto-approved,4.0
+CLM-002463,Green,Auto-approved,3.5
+CLM-002464,Amber,Human review,64.8
+CLM-002465,Amber,Human review,93.6
+CLM-002466,Amber,Human review,88.3
+CLM-002467,Amber,Human review,87.3
+CLM-002468,Green,Auto-approved,3.8
+CLM-002469,Amber,Human review,95.0
+CLM-002470,Green,Auto-approved,2.2
+CLM-002471,Amber,Human review,92.9
+CLM-002472,Red,SIU referral,290.5
+CLM-002473,Green,Auto-approved,3.1
+CLM-002474,Amber,Human review,77.7
+CLM-002475,Amber,Human review,90.9
+CLM-002476,Green,Auto-approved,2.7
+CLM-002477,Amber,Human review,82.9
+CLM-002478,Red,SIU referral,229.0
+CLM-002479,Amber,Human review,93.3
+CLM-002480,Red,SIU referral,419.5
+CLM-002481,Green,Auto-approved,0.9
+CLM-002482,Green,Auto-approved,1.6
+CLM-002483,Amber,Human review,28.5
+CLM-002484,Amber,Human review,91.5
+CLM-002485,Green,Auto-approved,0.8
+CLM-002486,Green,Auto-approved,3.7
+CLM-002487,Amber,Human review,31.6
+CLM-002488,Red,SIU referral,191.7
+CLM-002489,Amber,Human review,91.0
+CLM-002490,Green,Auto-approved,3.3
+CLM-002491,Amber,Human review,63.7
+CLM-002492,Amber,Human review,75.5
+CLM-002493,Amber,Human review,67.2
+CLM-002494,Green,Auto-approved,3.4
+CLM-002495,Amber,Human review,25.1
+CLM-002496,Amber,Human review,79.2
+CLM-002497,Amber,Human review,28.1
+CLM-002498,Amber,Human review,31.2
+CLM-002499,Green,Auto-approved,0.7
+CLM-002500,Green,Auto-approved,0.5
+CLM-002501,Red,SIU referral,224.8
+CLM-002502,Green,Auto-approved,3.6
+CLM-002503,Green,Auto-approved,3.0
+CLM-002504,Green,Auto-approved,1.3
+CLM-002505,Amber,Human review,75.6
+CLM-002506,Amber,Human review,67.5
+CLM-002507,Green,Auto-approved,0.5
+CLM-002508,Green,Auto-approved,1.0
+CLM-002509,Green,Auto-approved,3.3
+CLM-002510,Green,Auto-approved,0.7
+CLM-002511,Amber,Human review,55.7
+CLM-002512,Amber,Human review,37.9
+CLM-002513,Amber,Human review,81.2
+CLM-002514,Green,Auto-approved,3.5
+CLM-002515,Green,Auto-approved,3.3
+CLM-002516,Red,SIU referral,191.7
+CLM-002517,Green,Auto-approved,4.0
+CLM-002518,Green,Auto-approved,1.8
+CLM-002519,Amber,Human review,62.9
+CLM-002520,Amber,Human review,91.0
+CLM-002521,Green,Auto-approved,4.0
+CLM-002522,Green,Auto-approved,1.8
+CLM-002523,Green,Auto-approved,3.1
+CLM-002524,Green,Auto-approved,3.3
+CLM-002525,Green,Auto-approved,2.0
+CLM-002526,Green,Auto-approved,3.8
+CLM-002527,Amber,Human review,52.8
+CLM-002528,Amber,Human review,32.7
+CLM-002529,Green,Auto-approved,0.6
+CLM-002530,Amber,Human review,24.2
+CLM-002531,Amber,Human review,36.2
+CLM-002532,Green,Auto-approved,2.2
+CLM-002533,Amber,Human review,83.1
+CLM-002534,Green,Auto-approved,0.9
+CLM-002535,Green,Auto-approved,3.7
+CLM-002536,Green,Auto-approved,2.3
+CLM-002537,Amber,Human review,31.2
+CLM-002538,Green,Auto-approved,2.2
+CLM-002539,Amber,Human review,47.6
+CLM-002540,Amber,Human review,31.4
+CLM-002541,Green,Auto-approved,3.5
+CLM-002542,Amber,Human review,35.4
+CLM-002543,Red,SIU referral,316.1
+CLM-002544,Green,Auto-approved,3.8
+CLM-002545,Green,Auto-approved,3.7
+CLM-002546,Green,Auto-approved,1.1
+CLM-002547,Amber,Human review,61.0
+CLM-002548,Red,SIU referral,155.5
+CLM-002549,Green,Auto-approved,0.7
+CLM-002550,Green,Auto-approved,1.4
+CLM-002551,Amber,Human review,44.8
+CLM-002552,Red,SIU referral,389.1
+CLM-002553,Green,Auto-approved,3.4
+CLM-002554,Green,Auto-approved,2.8
+CLM-002555,Amber,Human review,26.4
+CLM-002556,Green,Auto-approved,3.6
+CLM-002557,Green,Auto-approved,3.2
+CLM-002558,Amber,Human review,33.5
+CLM-002559,Green,Auto-approved,1.8
+CLM-002560,Green,Auto-approved,2.7
+CLM-002561,Green,Auto-approved,3.6
+CLM-002562,Green,Auto-approved,1.6
+CLM-002563,Green,Auto-approved,3.1
+CLM-002564,Amber,Human review,60.2
+CLM-002565,Green,Auto-approved,2.1
+CLM-002566,Green,Auto-approved,0.8
+CLM-002567,Amber,Human review,82.9
+CLM-002568,Red,SIU referral,372.4
+CLM-002569,Green,Auto-approved,1.1
+CLM-002570,Green,Auto-approved,1.3
+CLM-002571,Green,Auto-approved,3.6
+CLM-002572,Red,SIU referral,362.8
+CLM-002573,Amber,Human review,95.9
+CLM-002574,Green,Auto-approved,1.7
+CLM-002575,Green,Auto-approved,2.3
+CLM-002576,Green,Auto-approved,3.9
+CLM-002577,Green,Auto-approved,2.6
+CLM-002578,Green,Auto-approved,2.1
+CLM-002579,Green,Auto-approved,3.1
+CLM-002580,Green,Auto-approved,3.2
+CLM-002581,Amber,Human review,95.6
+CLM-002582,Green,Auto-approved,0.6
+CLM-002583,Green,Auto-approved,2.0
+CLM-002584,Amber,Human review,62.1
+CLM-002585,Green,Auto-approved,2.7
+CLM-002586,Amber,Human review,60.3
+CLM-002587,Green,Auto-approved,1.4
+CLM-002588,Green,Auto-approved,0.8
+CLM-002589,Amber,Human review,90.1
+CLM-002590,Amber,Human review,36.9
+CLM-002591,Green,Auto-approved,1.1
+CLM-002592,Green,Auto-approved,1.5
+CLM-002593,Green,Auto-approved,1.4
+CLM-002594,Amber,Human review,50.8
+CLM-002595,Green,Auto-approved,1.2
+CLM-002596,Red,SIU referral,247.5
+CLM-002597,Green,Auto-approved,1.5
+CLM-002598,Green,Auto-approved,0.9
+CLM-002599,Green,Auto-approved,3.0
+CLM-002600,Green,Auto-approved,3.0
+CLM-002601,Amber,Human review,64.1
+CLM-002602,Green,Auto-approved,2.7
+CLM-002603,Amber,Human review,43.4
+CLM-002604,Green,Auto-approved,3.7
+CLM-002605,Amber,Human review,34.2
+CLM-002606,Green,Auto-approved,1.8
+CLM-002607,Green,Auto-approved,1.0
+CLM-002608,Green,Auto-approved,1.7
+CLM-002609,Green,Auto-approved,0.5
+CLM-002610,Green,Auto-approved,2.4
+CLM-002611,Green,Auto-approved,3.5
+CLM-002612,Green,Auto-approved,3.2
+CLM-002613,Green,Auto-approved,0.9
+CLM-002614,Green,Auto-approved,1.6
+CLM-002615,Green,Auto-approved,1.2
+CLM-002616,Amber,Human review,44.2
+CLM-002617,Green,Auto-approved,3.6
+CLM-002618,Amber,Human review,26.2
+CLM-002619,Green,Auto-approved,2.9
+CLM-002620,Amber,Human review,75.4
+CLM-002621,Green,Auto-approved,3.3
+CLM-002622,Green,Auto-approved,1.5
+CLM-002623,Green,Auto-approved,3.7
+CLM-002624,Amber,Human review,70.5
+CLM-002625,Amber,Human review,67.7
+CLM-002626,Green,Auto-approved,2.1
+CLM-002627,Green,Auto-approved,1.3
+CLM-002628,Red,SIU referral,221.3
+CLM-002629,Amber,Human review,83.6
+CLM-002630,Green,Auto-approved,2.0
+CLM-002631,Amber,Human review,87.3
+CLM-002632,Green,Auto-approved,3.2
+CLM-002633,Green,Auto-approved,1.6
+CLM-002634,Amber,Human review,81.3
+CLM-002635,Amber,Human review,53.9
+CLM-002636,Green,Auto-approved,1.1
+CLM-002637,Green,Auto-approved,3.7
+CLM-002638,Green,Auto-approved,2.4
+CLM-002639,Amber,Human review,76.7
+CLM-002640,Green,Auto-approved,1.8
+CLM-002641,Green,Auto-approved,3.3
+CLM-002642,Amber,Human review,53.4
+CLM-002643,Amber,Human review,40.6
+CLM-002644,Red,SIU referral,466.6
+CLM-002645,Green,Auto-approved,3.8
+CLM-002646,Amber,Human review,95.1
+CLM-002647,Green,Auto-approved,1.5
+CLM-002648,Green,Auto-approved,3.8
+CLM-002649,Red,SIU referral,436.4
+CLM-002650,Green,Auto-approved,1.9
+CLM-002651,Green,Auto-approved,3.8
+CLM-002652,Green,Auto-approved,2.4
+CLM-002653,Green,Auto-approved,2.6
+CLM-002654,Green,Auto-approved,2.3
+CLM-002655,Amber,Human review,82.0
+CLM-002656,Green,Auto-approved,2.0
+CLM-002657,Amber,Human review,78.9
+CLM-002658,Green,Auto-approved,1.9
+CLM-002659,Green,Auto-approved,2.0
+CLM-002660,Green,Auto-approved,2.9
+CLM-002661,Green,Auto-approved,1.0
+CLM-002662,Green,Auto-approved,3.2
+CLM-002663,Amber,Human review,31.9
+CLM-002664,Amber,Human review,43.0
+CLM-002665,Amber,Human review,44.4
+CLM-002666,Amber,Human review,91.8
+CLM-002667,Green,Auto-approved,3.6
+CLM-002668,Amber,Human review,52.1
+CLM-002669,Red,SIU referral,440.9
+CLM-002670,Amber,Human review,31.7
+CLM-002671,Green,Auto-approved,2.7
+CLM-002672,Green,Auto-approved,1.6
+CLM-002673,Amber,Human review,38.9
+CLM-002674,Amber,Human review,59.4
+CLM-002675,Green,Auto-approved,0.8
+CLM-002676,Green,Auto-approved,3.1
+CLM-002677,Amber,Human review,67.5
+CLM-002678,Green,Auto-approved,1.4
+CLM-002679,Amber,Human review,92.6
+CLM-002680,Green,Auto-approved,1.7
+CLM-002681,Amber,Human review,73.4
+CLM-002682,Amber,Human review,50.1
+CLM-002683,Amber,Human review,34.2
+CLM-002684,Green,Auto-approved,0.8
+CLM-002685,Green,Auto-approved,3.4
+CLM-002686,Amber,Human review,83.6
+CLM-002687,Green,Auto-approved,3.3
+CLM-002688,Amber,Human review,47.1
+CLM-002689,Green,Auto-approved,1.5
+CLM-002690,Green,Auto-approved,1.3
+CLM-002691,Green,Auto-approved,3.9
+CLM-002692,Green,Auto-approved,3.9
+CLM-002693,Green,Auto-approved,3.0
+CLM-002694,Green,Auto-approved,2.7
+CLM-002695,Red,SIU referral,375.0
+CLM-002696,Green,Auto-approved,2.1
+CLM-002697,Amber,Human review,24.4
+CLM-002698,Amber,Human review,44.6
+CLM-002699,Red,SIU referral,143.6
+CLM-002700,Green,Auto-approved,2.6
+CLM-002701,Green,Auto-approved,0.8
+CLM-002702,Amber,Human review,39.6
+CLM-002703,Green,Auto-approved,2.5
+CLM-002704,Amber,Human review,46.3
+CLM-002705,Green,Auto-approved,2.6
+CLM-002706,Amber,Human review,61.0
+CLM-002707,Green,Auto-approved,1.1
+CLM-002708,Amber,Human review,90.8
+CLM-002709,Green,Auto-approved,2.7
+CLM-002710,Green,Auto-approved,2.0
+CLM-002711,Green,Auto-approved,0.9
+CLM-002712,Amber,Human review,64.5
+CLM-002713,Green,Auto-approved,0.6
+CLM-002714,Amber,Human review,51.2
+CLM-002715,Green,Auto-approved,3.2
+CLM-002716,Red,SIU referral,235.8
+CLM-002717,Amber,Human review,60.3
+CLM-002718,Amber,Human review,73.9
+CLM-002719,Amber,Human review,42.2
+CLM-002720,Green,Auto-approved,1.1
+CLM-002721,Amber,Human review,61.2
+CLM-002722,Green,Auto-approved,2.2
+CLM-002723,Amber,Human review,31.9
+CLM-002724,Green,Auto-approved,3.9
+CLM-002725,Amber,Human review,68.2
+CLM-002726,Green,Auto-approved,1.5
+CLM-002727,Amber,Human review,91.0
+CLM-002728,Green,Auto-approved,3.7
+CLM-002729,Amber,Human review,33.8
+CLM-002730,Amber,Human review,54.8
+CLM-002731,Amber,Human review,35.6
+CLM-002732,Green,Auto-approved,2.3
+CLM-002733,Green,Auto-approved,0.8
+CLM-002734,Amber,Human review,95.6
+CLM-002735,Green,Auto-approved,1.4
+CLM-002736,Green,Auto-approved,0.8
+CLM-002737,Green,Auto-approved,2.1
+CLM-002738,Green,Auto-approved,1.1
+CLM-002739,Green,Auto-approved,0.6
+CLM-002740,Amber,Human review,93.3
+CLM-002741,Green,Auto-approved,1.0
+CLM-002742,Red,SIU referral,329.8
+CLM-002743,Amber,Human review,71.1
+CLM-002744,Green,Auto-approved,1.8
+CLM-002745,Green,Auto-approved,1.1
+CLM-002746,Green,Auto-approved,3.5
+CLM-002747,Green,Auto-approved,3.6
+CLM-002748,Green,Auto-approved,1.4
+CLM-002749,Green,Auto-approved,3.9
+CLM-002750,Green,Auto-approved,1.9
+CLM-002751,Amber,Human review,56.5
+CLM-002752,Green,Auto-approved,0.8
+CLM-002753,Red,SIU referral,206.9
+CLM-002754,Green,Auto-approved,1.0
+CLM-002755,Amber,Human review,64.0
+CLM-002756,Green,Auto-approved,2.0
+CLM-002757,Amber,Human review,41.8
+CLM-002758,Amber,Human review,28.3
+CLM-002759,Green,Auto-approved,0.8
+CLM-002760,Green,Auto-approved,1.9
+CLM-002761,Green,Auto-approved,3.9
+CLM-002762,Green,Auto-approved,3.5
+CLM-002763,Green,Auto-approved,3.8
+CLM-002764,Green,Auto-approved,3.4
+CLM-002765,Amber,Human review,44.8
+CLM-002766,Green,Auto-approved,2.2
+CLM-002767,Green,Auto-approved,1.3
+CLM-002768,Green,Auto-approved,0.7
+CLM-002769,Green,Auto-approved,4.0
+CLM-002770,Amber,Human review,95.3
+CLM-002771,Green,Auto-approved,2.1
+CLM-002772,Amber,Human review,61.7
+CLM-002773,Amber,Human review,85.4
+CLM-002774,Amber,Human review,45.5
+CLM-002775,Green,Auto-approved,2.9
+CLM-002776,Red,SIU referral,466.9
+CLM-002777,Amber,Human review,64.3
+CLM-002778,Amber,Human review,26.9
+CLM-002779,Amber,Human review,88.1
+CLM-002780,Amber,Human review,51.6
+CLM-002781,Amber,Human review,66.1
+CLM-002782,Amber,Human review,52.9
+CLM-002783,Amber,Human review,35.4
+CLM-002784,Amber,Human review,33.0
+CLM-002785,Green,Auto-approved,0.9
+CLM-002786,Green,Auto-approved,1.6
+CLM-002787,Red,SIU referral,229.5
+CLM-002788,Green,Auto-approved,1.1
+CLM-002789,Green,Auto-approved,1.3
+CLM-002790,Green,Auto-approved,1.3
+CLM-002791,Red,SIU referral,472.7
+CLM-002792,Amber,Human review,93.3
+CLM-002793,Amber,Human review,78.5
+CLM-002794,Green,Auto-approved,1.8
+CLM-002795,Green,Auto-approved,1.7
+CLM-002796,Amber,Human review,73.9
+CLM-002797,Red,SIU referral,241.3
+CLM-002798,Green,Auto-approved,3.4
+CLM-002799,Green,Auto-approved,2.4
+CLM-002800,Amber,Human review,79.3
+CLM-002801,Green,Auto-approved,1.9
+CLM-002802,Amber,Human review,64.5
+CLM-002803,Green,Auto-approved,2.8
+CLM-002804,Green,Auto-approved,4.0
+CLM-002805,Red,SIU referral,310.7
+CLM-002806,Red,SIU referral,266.0
+CLM-002807,Green,Auto-approved,2.0
+CLM-002808,Green,Auto-approved,3.4
+CLM-002809,Green,Auto-approved,0.7
+CLM-002810,Green,Auto-approved,3.2
+CLM-002811,Amber,Human review,29.7
+CLM-002812,Green,Auto-approved,1.4
+CLM-002813,Green,Auto-approved,0.9
+CLM-002814,Green,Auto-approved,0.6
+CLM-002815,Amber,Human review,91.0
+CLM-002816,Green,Auto-approved,2.2
+CLM-002817,Green,Auto-approved,1.1
+CLM-002818,Amber,Human review,26.0
+CLM-002819,Amber,Human review,52.2
+CLM-002820,Green,Auto-approved,1.2
+CLM-002821,Green,Auto-approved,3.0
+CLM-002822,Green,Auto-approved,1.4
+CLM-002823,Amber,Human review,68.4
+CLM-002824,Green,Auto-approved,3.0
+CLM-002825,Green,Auto-approved,3.3
+CLM-002826,Green,Auto-approved,2.5
+CLM-002827,Amber,Human review,95.6
+CLM-002828,Green,Auto-approved,3.1
+CLM-002829,Green,Auto-approved,2.5
+CLM-002830,Green,Auto-approved,1.2
+CLM-002831,Amber,Human review,36.9
+CLM-002832,Green,Auto-approved,2.1
+CLM-002833,Green,Auto-approved,2.8
+CLM-002834,Green,Auto-approved,3.1
+CLM-002835,Amber,Human review,48.9
+CLM-002836,Amber,Human review,49.1
+CLM-002837,Green,Auto-approved,3.4
+CLM-002838,Green,Auto-approved,3.6
+CLM-002839,Red,SIU referral,221.0
+CLM-002840,Amber,Human review,77.6
+CLM-002841,Amber,Human review,82.5
+CLM-002842,Green,Auto-approved,1.0
+CLM-002843,Red,SIU referral,234.7
+CLM-002844,Green,Auto-approved,2.7
+CLM-002845,Amber,Human review,95.8
+CLM-002846,Green,Auto-approved,2.6
+CLM-002847,Green,Auto-approved,1.4
+CLM-002848,Green,Auto-approved,0.7
+CLM-002849,Green,Auto-approved,3.9
+CLM-002850,Green,Auto-approved,2.0
+CLM-002851,Amber,Human review,41.9
+CLM-002852,Amber,Human review,34.1
+CLM-002853,Green,Auto-approved,0.8
+CLM-002854,Green,Auto-approved,0.7
+CLM-002855,Amber,Human review,44.8
+CLM-002856,Red,SIU referral,355.6
+CLM-002857,Amber,Human review,64.2
+CLM-002858,Green,Auto-approved,1.0
+CLM-002859,Green,Auto-approved,2.4
+CLM-002860,Green,Auto-approved,1.5
+CLM-002861,Amber,Human review,64.3
+CLM-002862,Amber,Human review,56.7
+CLM-002863,Green,Auto-approved,2.6
+CLM-002864,Amber,Human review,85.8
+CLM-002865,Green,Auto-approved,3.1
+CLM-002866,Amber,Human review,80.4
+CLM-002867,Green,Auto-approved,2.3
+CLM-002868,Green,Auto-approved,3.1
+CLM-002869,Green,Auto-approved,2.0
+CLM-002870,Green,Auto-approved,2.1
+CLM-002871,Amber,Human review,82.2
+CLM-002872,Amber,Human review,63.2
+CLM-002873,Green,Auto-approved,2.4
+CLM-002874,Red,SIU referral,439.8
+CLM-002875,Amber,Human review,46.1
+CLM-002876,Amber,Human review,33.8
+CLM-002877,Green,Auto-approved,2.5
+CLM-002878,Amber,Human review,40.4
+CLM-002879,Green,Auto-approved,2.2
+CLM-002880,Green,Auto-approved,0.8
+CLM-002881,Green,Auto-approved,2.2
+CLM-002882,Green,Auto-approved,2.8
+CLM-002883,Green,Auto-approved,3.9
+CLM-002884,Red,SIU referral,348.0
+CLM-002885,Amber,Human review,42.8
+CLM-002886,Green,Auto-approved,3.3
+CLM-002887,Red,SIU referral,249.0
+CLM-002888,Green,Auto-approved,1.4
+CLM-002889,Green,Auto-approved,2.4
+CLM-002890,Amber,Human review,79.7
+CLM-002891,Green,Auto-approved,3.2
+CLM-002892,Green,Auto-approved,2.5
+CLM-002893,Green,Auto-approved,0.5
+CLM-002894,Green,Auto-approved,1.3
+CLM-002895,Green,Auto-approved,1.1
+CLM-002896,Amber,Human review,77.0
+CLM-002897,Amber,Human review,94.5
+CLM-002898,Green,Auto-approved,1.8
+CLM-002899,Amber,Human review,81.1
+CLM-002900,Green,Auto-approved,2.5
+CLM-002901,Green,Auto-approved,2.7
+CLM-002902,Green,Auto-approved,3.1
+CLM-002903,Amber,Human review,78.0
+CLM-002904,Green,Auto-approved,1.2
+CLM-002905,Amber,Human review,68.0
+CLM-002906,Red,SIU referral,338.8
+CLM-002907,Green,Auto-approved,1.9
+CLM-002908,Green,Auto-approved,1.6
+CLM-002909,Green,Auto-approved,1.4
+CLM-002910,Green,Auto-approved,3.8
+CLM-002911,Green,Auto-approved,2.8
+CLM-002912,Green,Auto-approved,1.1
+CLM-002913,Amber,Human review,27.3
+CLM-002914,Amber,Human review,52.5
+CLM-002915,Amber,Human review,53.8
+CLM-002916,Green,Auto-approved,2.5
+CLM-002917,Amber,Human review,83.7
+CLM-002918,Green,Auto-approved,1.6
+CLM-002919,Green,Auto-approved,2.7
+CLM-002920,Green,Auto-approved,1.5
+CLM-002921,Amber,Human review,84.3
+CLM-002922,Green,Auto-approved,0.6
+CLM-002923,Green,Auto-approved,1.8
+CLM-002924,Amber,Human review,63.0
+CLM-002925,Green,Auto-approved,3.3
+CLM-002926,Green,Auto-approved,1.8
+CLM-002927,Amber,Human review,75.9
+CLM-002928,Red,SIU referral,406.0
+CLM-002929,Green,Auto-approved,1.6
+CLM-002930,Amber,Human review,76.0
+CLM-002931,Green,Auto-approved,1.3
+CLM-002932,Green,Auto-approved,4.0
+CLM-002933,Green,Auto-approved,3.2
+CLM-002934,Red,SIU referral,390.9
+CLM-002935,Amber,Human review,40.6
+CLM-002936,Green,Auto-approved,3.5
+CLM-002937,Amber,Human review,78.7
+CLM-002938,Amber,Human review,26.4
+CLM-002939,Red,SIU referral,163.8
+CLM-002940,Green,Auto-approved,0.9
+CLM-002941,Green,Auto-approved,2.2
+CLM-002942,Green,Auto-approved,2.6
+CLM-002943,Green,Auto-approved,3.4
+CLM-002944,Green,Auto-approved,3.5
+CLM-002945,Green,Auto-approved,1.1
+CLM-002946,Green,Auto-approved,1.6
+CLM-002947,Amber,Human review,56.8
+CLM-002948,Amber,Human review,82.9
+CLM-002949,Green,Auto-approved,1.3
+CLM-002950,Amber,Human review,87.0
+CLM-002951,Green,Auto-approved,3.5
+CLM-002952,Green,Auto-approved,3.7
+CLM-002953,Green,Auto-approved,2.0
+CLM-002954,Green,Auto-approved,1.6
+CLM-002955,Red,SIU referral,456.3
+CLM-002956,Green,Auto-approved,1.9
+CLM-002957,Green,Auto-approved,1.9
+CLM-002958,Amber,Human review,59.4
+CLM-002959,Amber,Human review,27.8
+CLM-002960,Green,Auto-approved,3.8
+CLM-002961,Amber,Human review,39.6
+CLM-002962,Green,Auto-approved,2.0
+CLM-002963,Amber,Human review,45.8
+CLM-002964,Green,Auto-approved,2.1
+CLM-002965,Amber,Human review,73.7
+CLM-002966,Amber,Human review,85.0
+CLM-002967,Green,Auto-approved,1.8
+CLM-002968,Amber,Human review,95.8
+CLM-002969,Green,Auto-approved,1.0
+CLM-002970,Amber,Human review,46.1
+CLM-002971,Green,Auto-approved,1.7
+CLM-002972,Green,Auto-approved,1.6
+CLM-002973,Green,Auto-approved,2.7
+CLM-002974,Green,Auto-approved,0.9
+CLM-002975,Amber,Human review,60.5
+CLM-002976,Green,Auto-approved,2.4
+CLM-002977,Green,Auto-approved,1.8
+CLM-002978,Amber,Human review,37.3
+CLM-002979,Green,Auto-approved,1.8
+CLM-002980,Green,Auto-approved,2.3
+CLM-002981,Green,Auto-approved,2.4
+CLM-002982,Green,Auto-approved,1.5
+CLM-002983,Amber,Human review,25.2
+CLM-002984,Amber,Human review,58.0
+CLM-002985,Amber,Human review,58.5
+CLM-002986,Green,Auto-approved,0.9
+CLM-002987,Green,Auto-approved,1.8
+CLM-002988,Amber,Human review,32.2
+CLM-002989,Red,SIU referral,462.4
+CLM-002990,Green,Auto-approved,3.8
+CLM-002991,Green,Auto-approved,1.0
+CLM-002992,Green,Auto-approved,1.0
+CLM-002993,Green,Auto-approved,3.0
+CLM-002994,Green,Auto-approved,0.7
+CLM-002995,Green,Auto-approved,2.6
+CLM-002996,Amber,Human review,26.0
+CLM-002997,Green,Auto-approved,1.0
+CLM-002998,Green,Auto-approved,3.1
+CLM-002999,Amber,Human review,41.0
+CLM-003000,Amber,Human review,65.3
+CLM-003001,Amber,Human review,37.2
+CLM-003002,Amber,Human review,86.9
+CLM-003003,Green,Auto-approved,3.5
+CLM-003004,Amber,Human review,81.9
+CLM-003005,Green,Auto-approved,1.3
+CLM-003006,Green,Auto-approved,0.6
+CLM-003007,Amber,Human review,46.4
+CLM-003008,Amber,Human review,89.0
+CLM-003009,Green,Auto-approved,0.8
+CLM-003010,Green,Auto-approved,4.0
+CLM-003011,Green,Auto-approved,1.0
+CLM-003012,Green,Auto-approved,2.4
+CLM-003013,Green,Auto-approved,3.8
+CLM-003014,Amber,Human review,78.9
+CLM-003015,Green,Auto-approved,3.6
+CLM-003016,Amber,Human review,30.0
+CLM-003017,Amber,Human review,71.5
+CLM-003018,Red,SIU referral,380.5
+CLM-003019,Green,Auto-approved,3.9
+CLM-003020,Amber,Human review,68.0
+CLM-003021,Amber,Human review,91.9
+CLM-003022,Green,Auto-approved,2.3
+CLM-003023,Green,Auto-approved,1.1
+CLM-003024,Amber,Human review,26.2
+CLM-003025,Green,Auto-approved,2.7
+CLM-003026,Green,Auto-approved,3.3
+CLM-003027,Green,Auto-approved,3.5
+CLM-003028,Amber,Human review,48.5
+CLM-003029,Amber,Human review,24.3
+CLM-003030,Amber,Human review,54.9
+CLM-003031,Green,Auto-approved,1.9
+CLM-003032,Amber,Human review,83.9
+CLM-003033,Amber,Human review,73.9
+CLM-003034,Green,Auto-approved,1.6
+CLM-003035,Red,SIU referral,356.6
+CLM-003036,Green,Auto-approved,3.9
+CLM-003037,Green,Auto-approved,2.1
+CLM-003038,Amber,Human review,35.0
+CLM-003039,Green,Auto-approved,2.0
+CLM-003040,Green,Auto-approved,3.3
+CLM-003041,Green,Auto-approved,2.7
+CLM-003042,Green,Auto-approved,2.1
+CLM-003043,Green,Auto-approved,2.1
+CLM-003044,Amber,Human review,32.0
+CLM-003045,Amber,Human review,71.8
+CLM-003046,Green,Auto-approved,1.8
+CLM-003047,Amber,Human review,28.4
+CLM-003048,Green,Auto-approved,1.0
+CLM-003049,Red,SIU referral,129.6
+CLM-003050,Amber,Human review,32.6
+CLM-003051,Amber,Human review,48.7
+CLM-003052,Red,SIU referral,285.0
+CLM-003053,Amber,Human review,72.2
+CLM-003054,Green,Auto-approved,2.9
+CLM-003055,Red,SIU referral,281.9
+CLM-003056,Green,Auto-approved,2.7
+CLM-003057,Green,Auto-approved,1.5
+CLM-003058,Green,Auto-approved,4.0
+CLM-003059,Green,Auto-approved,1.7
+CLM-003060,Green,Auto-approved,1.8
+CLM-003061,Green,Auto-approved,1.1
+CLM-003062,Amber,Human review,93.8
+CLM-003063,Green,Auto-approved,2.9
+CLM-003064,Green,Auto-approved,3.9
+CLM-003065,Amber,Human review,86.4
+CLM-003066,Green,Auto-approved,2.3
+CLM-003067,Amber,Human review,85.1
+CLM-003068,Amber,Human review,29.0
+CLM-003069,Green,Auto-approved,3.1
+CLM-003070,Green,Auto-approved,3.6
+CLM-003071,Amber,Human review,91.7
+CLM-003072,Green,Auto-approved,1.1
+CLM-003073,Green,Auto-approved,2.7
+CLM-003074,Amber,Human review,42.6
+CLM-003075,Amber,Human review,59.7
+CLM-003076,Amber,Human review,47.2
+CLM-003077,Green,Auto-approved,2.6
+CLM-003078,Green,Auto-approved,3.3
+CLM-003079,Green,Auto-approved,2.5
+CLM-003080,Green,Auto-approved,2.3
+CLM-003081,Green,Auto-approved,0.6
+CLM-003082,Green,Auto-approved,0.7
+CLM-003083,Amber,Human review,63.6
+CLM-003084,Green,Auto-approved,1.8
+CLM-003085,Amber,Human review,65.0
+CLM-003086,Green,Auto-approved,1.3
+CLM-003087,Green,Auto-approved,3.0
+CLM-003088,Green,Auto-approved,0.6
+CLM-003089,Green,Auto-approved,1.2
+CLM-003090,Amber,Human review,82.8
+CLM-003091,Green,Auto-approved,3.1
+CLM-003092,Green,Auto-approved,2.8
+CLM-003093,Amber,Human review,63.3
+CLM-003094,Green,Auto-approved,3.1
+CLM-003095,Amber,Human review,87.7
+CLM-003096,Green,Auto-approved,3.3
+CLM-003097,Green,Auto-approved,0.5
+CLM-003098,Amber,Human review,34.6
+CLM-003099,Green,Auto-approved,1.1
+CLM-003100,Amber,Human review,28.2
+CLM-003101,Amber,Human review,82.3
+CLM-003102,Green,Auto-approved,3.0
+CLM-003103,Amber,Human review,41.5
+CLM-003104,Green,Auto-approved,0.8
+CLM-003105,Amber,Human review,27.9
+CLM-003106,Amber,Human review,32.1
+CLM-003107,Green,Auto-approved,2.0
+CLM-003108,Red,SIU referral,116.9
+CLM-003109,Green,Auto-approved,3.4
+CLM-003110,Green,Auto-approved,3.3
+CLM-003111,Amber,Human review,48.0
+CLM-003112,Green,Auto-approved,0.6
+CLM-003113,Green,Auto-approved,1.5
+CLM-003114,Green,Auto-approved,1.7
+CLM-003115,Amber,Human review,93.8
+CLM-003116,Amber,Human review,78.3
+CLM-003117,Green,Auto-approved,1.1
+CLM-003118,Green,Auto-approved,1.3
+CLM-003119,Amber,Human review,82.8
+CLM-003120,Amber,Human review,73.1
+CLM-003121,Green,Auto-approved,3.2
+CLM-003122,Amber,Human review,43.7
+CLM-003123,Green,Auto-approved,1.9
+CLM-003124,Green,Auto-approved,2.0
+CLM-003125,Amber,Human review,92.1
+CLM-003126,Green,Auto-approved,1.3
+CLM-003127,Amber,Human review,38.0
+CLM-003128,Green,Auto-approved,2.5
+CLM-003129,Amber,Human review,91.2
+CLM-003130,Amber,Human review,87.7
+CLM-003131,Green,Auto-approved,3.4
+CLM-003132,Amber,Human review,85.9
+CLM-003133,Green,Auto-approved,3.5
+CLM-003134,Amber,Human review,27.0
+CLM-003135,Amber,Human review,31.5
+CLM-003136,Amber,Human review,57.0
+CLM-003137,Green,Auto-approved,1.3
+CLM-003138,Green,Auto-approved,2.3
+CLM-003139,Green,Auto-approved,3.8
+CLM-003140,Red,SIU referral,333.8
+CLM-003141,Green,Auto-approved,1.1
+CLM-003142,Green,Auto-approved,3.6
+CLM-003143,Green,Auto-approved,1.8
+CLM-003144,Amber,Human review,53.1
+CLM-003145,Amber,Human review,94.0
+CLM-003146,Green,Auto-approved,3.0
+CLM-003147,Amber,Human review,37.4
+CLM-003148,Green,Auto-approved,2.3
+CLM-003149,Amber,Human review,39.7
+CLM-003150,Green,Auto-approved,1.0
+CLM-003151,Green,Auto-approved,3.5
+CLM-003152,Amber,Human review,56.3
+CLM-003153,Amber,Human review,94.1
+CLM-003154,Green,Auto-approved,2.2
+CLM-003155,Amber,Human review,87.9
+CLM-003156,Green,Auto-approved,2.4
+CLM-003157,Green,Auto-approved,3.1
+CLM-003158,Green,Auto-approved,1.4
+CLM-003159,Green,Auto-approved,3.4
+CLM-003160,Red,SIU referral,415.5
+CLM-003161,Green,Auto-approved,0.6
+CLM-003162,Green,Auto-approved,2.8
+CLM-003163,Amber,Human review,87.9
+CLM-003164,Green,Auto-approved,2.9
+CLM-003165,Amber,Human review,93.2
+CLM-003166,Red,SIU referral,169.9
+CLM-003167,Green,Auto-approved,0.6
+CLM-003168,Amber,Human review,42.8
+CLM-003169,Amber,Human review,55.4
+CLM-003170,Amber,Human review,88.1
+CLM-003171,Amber,Human review,49.9
+CLM-003172,Green,Auto-approved,2.3
+CLM-003173,Amber,Human review,54.1
+CLM-003174,Green,Auto-approved,1.8
+CLM-003175,Amber,Human review,68.6
+CLM-003176,Green,Auto-approved,1.5
+CLM-003177,Green,Auto-approved,1.9
+CLM-003178,Amber,Human review,50.9
+CLM-003179,Green,Auto-approved,2.2
+CLM-003180,Green,Auto-approved,3.8
+CLM-003181,Green,Auto-approved,1.5
+CLM-003182,Green,Auto-approved,2.7
+CLM-003183,Green,Auto-approved,3.3
+CLM-003184,Green,Auto-approved,2.1
+CLM-003185,Green,Auto-approved,3.7
+CLM-003186,Amber,Human review,73.7
+CLM-003187,Amber,Human review,55.0
+CLM-003188,Green,Auto-approved,1.7
+CLM-003189,Green,Auto-approved,2.5
+CLM-003190,Green,Auto-approved,3.6
+CLM-003191,Amber,Human review,41.9
+CLM-003192,Green,Auto-approved,1.8
+CLM-003193,Green,Auto-approved,1.5
+CLM-003194,Amber,Human review,73.6
+CLM-003195,Red,SIU referral,260.8
+CLM-003196,Green,Auto-approved,2.5
+CLM-003197,Amber,Human review,92.3
+CLM-003198,Green,Auto-approved,1.9
+CLM-003199,Green,Auto-approved,1.1
+CLM-003200,Green,Auto-approved,1.7
+CLM-003201,Green,Auto-approved,3.9
+CLM-003202,Green,Auto-approved,2.6
+CLM-003203,Amber,Human review,85.3
+CLM-003204,Amber,Human review,62.9
+CLM-003205,Green,Auto-approved,1.2
+CLM-003206,Amber,Human review,85.3
+CLM-003207,Green,Auto-approved,3.4
+CLM-003208,Green,Auto-approved,1.9
+CLM-003209,Green,Auto-approved,1.0
+CLM-003210,Green,Auto-approved,3.1
+CLM-003211,Amber,Human review,81.1
+CLM-003212,Green,Auto-approved,2.1
+CLM-003213,Green,Auto-approved,1.2
+CLM-003214,Green,Auto-approved,1.6
+CLM-003215,Red,SIU referral,161.3
+CLM-003216,Green,Auto-approved,1.2
+CLM-003217,Green,Auto-approved,3.9
+CLM-003218,Red,SIU referral,354.1
+CLM-003219,Green,Auto-approved,0.9
+CLM-003220,Green,Auto-approved,3.5
+CLM-003221,Amber,Human review,31.4
+CLM-003222,Amber,Human review,86.5
+CLM-003223,Amber,Human review,85.5
+CLM-003224,Green,Auto-approved,2.7
+CLM-003225,Amber,Human review,71.0
+CLM-003226,Green,Auto-approved,3.3
+CLM-003227,Green,Auto-approved,1.6
+CLM-003228,Amber,Human review,85.0
+CLM-003229,Green,Auto-approved,1.2
+CLM-003230,Green,Auto-approved,2.8
+CLM-003231,Green,Auto-approved,1.9
+CLM-003232,Green,Auto-approved,2.6
+CLM-003233,Amber,Human review,25.7
+CLM-003234,Amber,Human review,63.6
+CLM-003235,Amber,Human review,46.2
+CLM-003236,Green,Auto-approved,0.9
+CLM-003237,Amber,Human review,35.6
+CLM-003238,Amber,Human review,27.8
+CLM-003239,Green,Auto-approved,2.6
+CLM-003240,Green,Auto-approved,1.0
+CLM-003241,Amber,Human review,45.8
+CLM-003242,Green,Auto-approved,1.0
+CLM-003243,Amber,Human review,84.5
+CLM-003244,Amber,Human review,77.2
+CLM-003245,Green,Auto-approved,3.7
+CLM-003246,Green,Auto-approved,0.7
+CLM-003247,Amber,Human review,75.4
+CLM-003248,Amber,Human review,56.4
+CLM-003249,Green,Auto-approved,3.7
+CLM-003250,Green,Auto-approved,1.3
+CLM-003251,Green,Auto-approved,2.3
+CLM-003252,Green,Auto-approved,3.0
+CLM-003253,Green,Auto-approved,4.0
+CLM-003254,Green,Auto-approved,1.9
+CLM-003255,Green,Auto-approved,1.7
+CLM-003256,Red,SIU referral,471.1
+CLM-003257,Red,SIU referral,444.5
+CLM-003258,Amber,Human review,55.2
+CLM-003259,Green,Auto-approved,1.0
+CLM-003260,Amber,Human review,28.3
+CLM-003261,Green,Auto-approved,0.8
+CLM-003262,Amber,Human review,53.4
+CLM-003263,Amber,Human review,89.4
+CLM-003264,Amber,Human review,92.5
+CLM-003265,Green,Auto-approved,3.4
+CLM-003266,Amber,Human review,46.8
+CLM-003267,Red,SIU referral,386.9
+CLM-003268,Amber,Human review,25.3
+CLM-003269,Amber,Human review,73.1
+CLM-003270,Amber,Human review,29.2
+CLM-003271,Amber,Human review,26.9
+CLM-003272,Amber,Human review,50.6
+CLM-003273,Green,Auto-approved,0.9
+CLM-003274,Green,Auto-approved,3.0
+CLM-003275,Amber,Human review,33.2
+CLM-003276,Amber,Human review,29.7
+CLM-003277,Green,Auto-approved,3.3
+CLM-003278,Amber,Human review,76.9
+CLM-003279,Green,Auto-approved,3.8
+CLM-003280,Green,Auto-approved,2.7
+CLM-003281,Amber,Human review,43.8
+CLM-003282,Amber,Human review,35.6
+CLM-003283,Green,Auto-approved,0.5
+CLM-003284,Green,Auto-approved,3.5
+CLM-003285,Green,Auto-approved,1.1
+CLM-003286,Green,Auto-approved,3.1
+CLM-003287,Amber,Human review,80.4
+CLM-003288,Green,Auto-approved,3.0
+CLM-003289,Green,Auto-approved,1.8
+CLM-003290,Amber,Human review,45.6
+CLM-003291,Amber,Human review,67.4
+CLM-003292,Amber,Human review,40.8
+CLM-003293,Green,Auto-approved,2.3
+CLM-003294,Amber,Human review,69.5
+CLM-003295,Red,SIU referral,290.2
+CLM-003296,Green,Auto-approved,3.1
+CLM-003297,Green,Auto-approved,3.0
+CLM-003298,Amber,Human review,89.3
+CLM-003299,Green,Auto-approved,1.3
+CLM-003300,Amber,Human review,53.2
+CLM-003301,Amber,Human review,30.9
+CLM-003302,Green,Auto-approved,0.9
+CLM-003303,Amber,Human review,29.7
+CLM-003304,Amber,Human review,42.2
+CLM-003305,Amber,Human review,94.8
+CLM-003306,Amber,Human review,84.9
+CLM-003307,Amber,Human review,58.1
+CLM-003308,Green,Auto-approved,3.0
+CLM-003309,Amber,Human review,78.9
+CLM-003310,Amber,Human review,43.4
+CLM-003311,Amber,Human review,57.9
+CLM-003312,Red,SIU referral,259.8
+CLM-003313,Amber,Human review,46.7
+CLM-003314,Amber,Human review,68.3
+CLM-003315,Amber,Human review,73.9
+CLM-003316,Amber,Human review,39.2
+CLM-003317,Green,Auto-approved,3.0
+CLM-003318,Green,Auto-approved,2.3
+CLM-003319,Amber,Human review,65.3
+CLM-003320,Amber,Human review,91.3
+CLM-003321,Amber,Human review,52.0
+CLM-003322,Green,Auto-approved,3.7
+CLM-003323,Amber,Human review,66.1
+CLM-003324,Amber,Human review,86.1
+CLM-003325,Amber,Human review,81.5
+CLM-003326,Green,Auto-approved,1.5
+CLM-003327,Green,Auto-approved,1.3
+CLM-003328,Green,Auto-approved,2.3
+CLM-003329,Amber,Human review,91.4
+CLM-003330,Red,SIU referral,110.9
+CLM-003331,Amber,Human review,36.5
+CLM-003332,Amber,Human review,66.2
+CLM-003333,Red,SIU referral,133.4
+CLM-003334,Amber,Human review,84.7
+CLM-003335,Amber,Human review,58.0
+CLM-003336,Amber,Human review,91.1
+CLM-003337,Green,Auto-approved,1.1
+CLM-003338,Green,Auto-approved,1.6
+CLM-003339,Green,Auto-approved,1.6
+CLM-003340,Amber,Human review,42.5
+CLM-003341,Amber,Human review,50.1
+CLM-003342,Green,Auto-approved,2.9
+CLM-003343,Green,Auto-approved,3.1
+CLM-003344,Green,Auto-approved,3.2
+CLM-003345,Green,Auto-approved,3.1
+CLM-003346,Green,Auto-approved,0.6
+CLM-003347,Amber,Human review,73.7
+CLM-003348,Amber,Human review,94.5
+CLM-003349,Amber,Human review,38.3
+CLM-003350,Amber,Human review,87.0
+CLM-003351,Green,Auto-approved,3.8
+CLM-003352,Amber,Human review,71.0
+CLM-003353,Green,Auto-approved,1.2
+CLM-003354,Green,Auto-approved,1.2
+CLM-003355,Amber,Human review,81.4
+CLM-003356,Red,SIU referral,212.9
+CLM-003357,Red,SIU referral,101.0
+CLM-003358,Green,Auto-approved,2.7
+CLM-003359,Amber,Human review,71.6
+CLM-003360,Green,Auto-approved,3.0
+CLM-003361,Green,Auto-approved,3.6
+CLM-003362,Amber,Human review,39.5
+CLM-003363,Amber,Human review,71.0
+CLM-003364,Amber,Human review,73.1
+CLM-003365,Amber,Human review,40.4
+CLM-003366,Green,Auto-approved,2.9
+CLM-003367,Amber,Human review,62.3
+CLM-003368,Amber,Human review,92.7
+CLM-003369,Green,Auto-approved,3.3
+CLM-003370,Green,Auto-approved,2.1
+CLM-003371,Amber,Human review,35.8
+CLM-003372,Green,Auto-approved,1.4
+CLM-003373,Amber,Human review,58.3
+CLM-003374,Green,Auto-approved,1.9
+CLM-003375,Amber,Human review,60.4
+CLM-003376,Amber,Human review,45.7
+CLM-003377,Amber,Human review,84.4
+CLM-003378,Red,SIU referral,254.5
+CLM-003379,Green,Auto-approved,2.5
+CLM-003380,Amber,Human review,66.4
+CLM-003381,Amber,Human review,58.7
+CLM-003382,Green,Auto-approved,3.4
+CLM-003383,Amber,Human review,79.9
+CLM-003384,Green,Auto-approved,2.7
+CLM-003385,Green,Auto-approved,3.4
+CLM-003386,Green,Auto-approved,0.7
+CLM-003387,Green,Auto-approved,3.3
+CLM-003388,Red,SIU referral,124.1
+CLM-003389,Green,Auto-approved,1.8
+CLM-003390,Amber,Human review,42.7
+CLM-003391,Green,Auto-approved,3.8
+CLM-003392,Amber,Human review,90.4
+CLM-003393,Red,SIU referral,252.8
+CLM-003394,Green,Auto-approved,0.9
+CLM-003395,Amber,Human review,44.1
+CLM-003396,Amber,Human review,91.7
+CLM-003397,Amber,Human review,68.7
+CLM-003398,Amber,Human review,31.0
+CLM-003399,Amber,Human review,66.0
+CLM-003400,Amber,Human review,63.4
+CLM-003401,Green,Auto-approved,0.9
+CLM-003402,Amber,Human review,25.3
+CLM-003403,Green,Auto-approved,2.7
+CLM-003404,Red,SIU referral,284.5
+CLM-003405,Green,Auto-approved,1.5
+CLM-003406,Green,Auto-approved,2.6
+CLM-003407,Amber,Human review,70.2
+CLM-003408,Amber,Human review,64.5
+CLM-003409,Amber,Human review,57.7
+CLM-003410,Amber,Human review,29.4
+CLM-003411,Green,Auto-approved,1.8
+CLM-003412,Green,Auto-approved,1.9
+CLM-003413,Amber,Human review,35.7
+CLM-003414,Amber,Human review,41.4
+CLM-003415,Green,Auto-approved,2.0
+CLM-003416,Amber,Human review,77.4
+CLM-003417,Green,Auto-approved,1.2
+CLM-003418,Amber,Human review,63.5
+CLM-003419,Green,Auto-approved,3.1
+CLM-003420,Amber,Human review,83.1
+CLM-003421,Amber,Human review,76.8
+CLM-003422,Amber,Human review,91.4
+CLM-003423,Red,SIU referral,157.4
+CLM-003424,Amber,Human review,29.6
+CLM-003425,Amber,Human review,82.2
+CLM-003426,Green,Auto-approved,3.0
+CLM-003427,Green,Auto-approved,1.1
+CLM-003428,Red,SIU referral,309.3
+CLM-003429,Green,Auto-approved,2.8
+CLM-003430,Green,Auto-approved,0.8
+CLM-003431,Green,Auto-approved,1.2
+CLM-003432,Green,Auto-approved,1.6
+CLM-003433,Green,Auto-approved,2.7
+CLM-003434,Amber,Human review,36.7
+CLM-003435,Amber,Human review,91.8
+CLM-003436,Green,Auto-approved,2.7
+CLM-003437,Green,Auto-approved,3.4
+CLM-003438,Amber,Human review,82.2
+CLM-003439,Green,Auto-approved,0.6
+CLM-003440,Amber,Human review,42.4
+CLM-003441,Green,Auto-approved,2.7
+CLM-003442,Green,Auto-approved,3.0
+CLM-003443,Green,Auto-approved,3.4
+CLM-003444,Red,SIU referral,378.8
+CLM-003445,Amber,Human review,84.4
+CLM-003446,Amber,Human review,91.2
+CLM-003447,Green,Auto-approved,1.1
+CLM-003448,Amber,Human review,71.9
+CLM-003449,Green,Auto-approved,2.0
+CLM-003450,Green,Auto-approved,1.9
+CLM-003451,Amber,Human review,57.0
+CLM-003452,Green,Auto-approved,1.9
+CLM-003453,Green,Auto-approved,2.9
+CLM-003454,Green,Auto-approved,3.8
+CLM-003455,Green,Auto-approved,2.8
+CLM-003456,Amber,Human review,67.0
+CLM-003457,Green,Auto-approved,1.7
+CLM-003458,Green,Auto-approved,2.0
+CLM-003459,Amber,Human review,59.8
+CLM-003460,Green,Auto-approved,2.0
+CLM-003461,Green,Auto-approved,2.2
+CLM-003462,Green,Auto-approved,2.3
+CLM-003463,Green,Auto-approved,0.6
+CLM-003464,Amber,Human review,71.0
+CLM-003465,Amber,Human review,84.5
+CLM-003466,Green,Auto-approved,1.8
+CLM-003467,Green,Auto-approved,0.9
+CLM-003468,Amber,Human review,94.8
+CLM-003469,Green,Auto-approved,0.9
+CLM-003470,Green,Auto-approved,2.4
+CLM-003471,Amber,Human review,40.5
+CLM-003472,Amber,Human review,61.5
+CLM-003473,Amber,Human review,59.0
+CLM-003474,Red,SIU referral,348.5
+CLM-003475,Red,SIU referral,142.2
+CLM-003476,Green,Auto-approved,2.0
+CLM-003477,Amber,Human review,41.8
+CLM-003478,Amber,Human review,58.8
+CLM-003479,Green,Auto-approved,0.9
+CLM-003480,Green,Auto-approved,0.9
+CLM-003481,Green,Auto-approved,2.1
+CLM-003482,Green,Auto-approved,2.1
+CLM-003483,Green,Auto-approved,1.1
+CLM-003484,Green,Auto-approved,1.4
+CLM-003485,Red,SIU referral,331.7
+CLM-003486,Green,Auto-approved,2.0
+CLM-003487,Green,Auto-approved,2.5
+CLM-003488,Green,Auto-approved,2.3
+CLM-003489,Amber,Human review,27.5
+CLM-003490,Green,Auto-approved,1.7
+CLM-003491,Amber,Human review,94.4
+CLM-003492,Red,SIU referral,222.4
+CLM-003493,Amber,Human review,65.2
+CLM-003494,Green,Auto-approved,3.1
+CLM-003495,Amber,Human review,87.8
+CLM-003496,Amber,Human review,62.4
+CLM-003497,Amber,Human review,48.7
+CLM-003498,Green,Auto-approved,2.0
+CLM-003499,Red,SIU referral,369.5
+CLM-003500,Green,Auto-approved,3.4
+CLM-003501,Amber,Human review,89.7
+CLM-003502,Green,Auto-approved,0.9
+CLM-003503,Amber,Human review,90.7
+CLM-003504,Green,Auto-approved,0.9
+CLM-003505,Green,Auto-approved,2.4
+CLM-003506,Red,SIU referral,299.7
+CLM-003507,Green,Auto-approved,1.4
+CLM-003508,Green,Auto-approved,2.8
+CLM-003509,Amber,Human review,62.7
+CLM-003510,Green,Auto-approved,3.6
+CLM-003511,Green,Auto-approved,1.6
+CLM-003512,Amber,Human review,24.9
+CLM-003513,Amber,Human review,44.9
+CLM-003514,Green,Auto-approved,1.2
+CLM-003515,Amber,Human review,36.1
+CLM-003516,Red,SIU referral,236.2
+CLM-003517,Amber,Human review,40.5
+CLM-003518,Green,Auto-approved,2.2
+CLM-003519,Amber,Human review,78.2
+CLM-003520,Green,Auto-approved,3.0
+CLM-003521,Amber,Human review,66.3
+CLM-003522,Green,Auto-approved,0.5
+CLM-003523,Amber,Human review,69.1
+CLM-003524,Red,SIU referral,374.1
+CLM-003525,Amber,Human review,54.9
+CLM-003526,Amber,Human review,72.3
+CLM-003527,Amber,Human review,37.4
+CLM-003528,Green,Auto-approved,1.9
+CLM-003529,Green,Auto-approved,1.0
+CLM-003530,Amber,Human review,68.6
+CLM-003531,Green,Auto-approved,2.1
+CLM-003532,Amber,Human review,91.7
+CLM-003533,Amber,Human review,85.6
+CLM-003534,Green,Auto-approved,2.3
+CLM-003535,Amber,Human review,27.2
+CLM-003536,Green,Auto-approved,0.7
+CLM-003537,Green,Auto-approved,3.3
+CLM-003538,Green,Auto-approved,3.5
+CLM-003539,Green,Auto-approved,3.9
+CLM-003540,Green,Auto-approved,2.5
+CLM-003541,Green,Auto-approved,0.6
+CLM-003542,Green,Auto-approved,2.6
+CLM-003543,Green,Auto-approved,3.0
+CLM-003544,Green,Auto-approved,2.0
+CLM-003545,Amber,Human review,78.1
+CLM-003546,Green,Auto-approved,2.8
+CLM-003547,Amber,Human review,74.9
+CLM-003548,Green,Auto-approved,2.7
+CLM-003549,Green,Auto-approved,0.8
+CLM-003550,Green,Auto-approved,0.6
+CLM-003551,Green,Auto-approved,2.2
+CLM-003552,Green,Auto-approved,2.8
+CLM-003553,Green,Auto-approved,2.6
+CLM-003554,Red,SIU referral,220.3
+CLM-003555,Green,Auto-approved,3.3
+CLM-003556,Amber,Human review,24.3
+CLM-003557,Amber,Human review,45.9
+CLM-003558,Red,SIU referral,341.2
+CLM-003559,Green,Auto-approved,0.7
+CLM-003560,Amber,Human review,94.3
+CLM-003561,Amber,Human review,46.2
+CLM-003562,Green,Auto-approved,3.6
+CLM-003563,Green,Auto-approved,1.6
+CLM-003564,Amber,Human review,28.6
+CLM-003565,Green,Auto-approved,0.6
+CLM-003566,Green,Auto-approved,2.0
+CLM-003567,Green,Auto-approved,1.5
+CLM-003568,Amber,Human review,56.0
+CLM-003569,Amber,Human review,36.7
+CLM-003570,Green,Auto-approved,1.9
+CLM-003571,Green,Auto-approved,1.1
+CLM-003572,Amber,Human review,74.2
+CLM-003573,Green,Auto-approved,1.0
+CLM-003574,Green,Auto-approved,2.2
+CLM-003575,Green,Auto-approved,3.7
+CLM-003576,Amber,Human review,29.7
+CLM-003577,Amber,Human review,47.4
+CLM-003578,Amber,Human review,60.8
+CLM-003579,Green,Auto-approved,1.6
+CLM-003580,Amber,Human review,92.2
+CLM-003581,Green,Auto-approved,1.8
+CLM-003582,Green,Auto-approved,2.8
+CLM-003583,Green,Auto-approved,2.5
+CLM-003584,Red,SIU referral,469.9
+CLM-003585,Amber,Human review,45.9
+CLM-003586,Green,Auto-approved,1.0
+CLM-003587,Amber,Human review,65.5
+CLM-003588,Amber,Human review,57.8
+CLM-003589,Amber,Human review,70.9
+CLM-003590,Green,Auto-approved,1.4
+CLM-003591,Green,Auto-approved,1.2
+CLM-003592,Green,Auto-approved,3.1
+CLM-003593,Green,Auto-approved,3.7
+CLM-003594,Amber,Human review,40.8
+CLM-003595,Green,Auto-approved,2.7
+CLM-003596,Green,Auto-approved,2.4
+CLM-003597,Green,Auto-approved,0.8
+CLM-003598,Amber,Human review,92.4
+CLM-003599,Green,Auto-approved,1.1
+CLM-003600,Green,Auto-approved,3.2
+CLM-003601,Red,SIU referral,115.4
+CLM-003602,Amber,Human review,49.5
+CLM-003603,Amber,Human review,63.6
+CLM-003604,Green,Auto-approved,3.8
+CLM-003605,Amber,Human review,96.0
+CLM-003606,Amber,Human review,61.5
+CLM-003607,Amber,Human review,51.6
+CLM-003608,Green,Auto-approved,2.3
+CLM-003609,Amber,Human review,76.9
+CLM-003610,Green,Auto-approved,2.2
+CLM-003611,Amber,Human review,90.9
+CLM-003612,Green,Auto-approved,1.1
+CLM-003613,Amber,Human review,82.5
+CLM-003614,Amber,Human review,64.6
+CLM-003615,Red,SIU referral,470.2
+CLM-003616,Amber,Human review,48.4
+CLM-003617,Amber,Human review,86.2
+CLM-003618,Green,Auto-approved,3.4
+CLM-003619,Red,SIU referral,353.6
+CLM-003620,Green,Auto-approved,3.8
+CLM-003621,Green,Auto-approved,1.3
+CLM-003622,Green,Auto-approved,1.0
+CLM-003623,Green,Auto-approved,3.7
+CLM-003624,Green,Auto-approved,1.3
+CLM-003625,Green,Auto-approved,3.3
+CLM-003626,Green,Auto-approved,3.0
+CLM-003627,Amber,Human review,55.7
+CLM-003628,Amber,Human review,63.5
+CLM-003629,Green,Auto-approved,3.5
+CLM-003630,Amber,Human review,42.9
+CLM-003631,Amber,Human review,58.8
+CLM-003632,Green,Auto-approved,3.0
+CLM-003633,Amber,Human review,93.8
+CLM-003634,Green,Auto-approved,2.7
+CLM-003635,Green,Auto-approved,1.4
+CLM-003636,Green,Auto-approved,1.3
+CLM-003637,Amber,Human review,29.1
+CLM-003638,Amber,Human review,69.2
+CLM-003639,Red,SIU referral,359.5
+CLM-003640,Green,Auto-approved,2.1
+CLM-003641,Amber,Human review,90.1
+CLM-003642,Green,Auto-approved,3.3
+CLM-003643,Green,Auto-approved,0.7
+CLM-003644,Green,Auto-approved,3.6
+CLM-003645,Green,Auto-approved,1.4
+CLM-003646,Amber,Human review,25.5
+CLM-003647,Green,Auto-approved,2.9
+CLM-003648,Amber,Human review,64.5
+CLM-003649,Green,Auto-approved,2.3
+CLM-003650,Amber,Human review,83.2
+CLM-003651,Green,Auto-approved,2.1
+CLM-003652,Green,Auto-approved,1.7
+CLM-003653,Amber,Human review,30.5
+CLM-003654,Green,Auto-approved,2.6
+CLM-003655,Green,Auto-approved,1.7
+CLM-003656,Green,Auto-approved,0.9
+CLM-003657,Green,Auto-approved,2.6
+CLM-003658,Green,Auto-approved,1.9
+CLM-003659,Green,Auto-approved,3.2
+CLM-003660,Amber,Human review,85.0
+CLM-003661,Green,Auto-approved,1.2
+CLM-003662,Green,Auto-approved,0.8
+CLM-003663,Amber,Human review,65.1
+CLM-003664,Amber,Human review,31.2
+CLM-003665,Amber,Human review,68.0
+CLM-003666,Green,Auto-approved,3.0
+CLM-003667,Green,Auto-approved,3.9
+CLM-003668,Green,Auto-approved,3.8
+CLM-003669,Green,Auto-approved,1.7
+CLM-003670,Green,Auto-approved,3.9
+CLM-003671,Amber,Human review,86.7
+CLM-003672,Green,Auto-approved,2.2
+CLM-003673,Green,Auto-approved,0.6
+CLM-003674,Green,Auto-approved,3.0
+CLM-003675,Green,Auto-approved,2.2
+CLM-003676,Green,Auto-approved,2.6
+CLM-003677,Green,Auto-approved,2.9
+CLM-003678,Amber,Human review,32.8
+CLM-003679,Green,Auto-approved,1.9
+CLM-003680,Green,Auto-approved,1.9
+CLM-003681,Green,Auto-approved,2.6
+CLM-003682,Green,Auto-approved,3.9
+CLM-003683,Green,Auto-approved,3.5
+CLM-003684,Green,Auto-approved,3.1
+CLM-003685,Green,Auto-approved,1.0
+CLM-003686,Green,Auto-approved,3.8
+CLM-003687,Green,Auto-approved,2.7
+CLM-003688,Green,Auto-approved,2.7
+CLM-003689,Green,Auto-approved,3.3
+CLM-003690,Green,Auto-approved,1.1
+CLM-003691,Green,Auto-approved,0.5
+CLM-003692,Green,Auto-approved,2.3
+CLM-003693,Red,SIU referral,332.3
+CLM-003694,Green,Auto-approved,2.1
+CLM-003695,Amber,Human review,26.3
+CLM-003696,Green,Auto-approved,0.9
+CLM-003697,Amber,Human review,61.7
+CLM-003698,Green,Auto-approved,4.0
+CLM-003699,Amber,Human review,28.1
+CLM-003700,Amber,Human review,66.6
+CLM-003701,Amber,Human review,89.1
+CLM-003702,Amber,Human review,62.0
+CLM-003703,Green,Auto-approved,3.3
+CLM-003704,Green,Auto-approved,1.7
+CLM-003705,Green,Auto-approved,3.0
+CLM-003706,Green,Auto-approved,3.5
+CLM-003707,Amber,Human review,35.3
+CLM-003708,Amber,Human review,60.1
+CLM-003709,Red,SIU referral,295.5
+CLM-003710,Green,Auto-approved,1.4
+CLM-003711,Green,Auto-approved,3.8
+CLM-003712,Green,Auto-approved,3.7
+CLM-003713,Amber,Human review,29.2
+CLM-003714,Green,Auto-approved,1.5
+CLM-003715,Green,Auto-approved,1.1
+CLM-003716,Green,Auto-approved,1.0
+CLM-003717,Green,Auto-approved,3.9
+CLM-003718,Green,Auto-approved,3.2
+CLM-003719,Green,Auto-approved,2.5
+CLM-003720,Green,Auto-approved,3.4
+CLM-003721,Green,Auto-approved,1.3
+CLM-003722,Green,Auto-approved,3.4
+CLM-003723,Green,Auto-approved,1.3
+CLM-003724,Green,Auto-approved,3.5
+CLM-003725,Green,Auto-approved,0.6
+CLM-003726,Green,Auto-approved,1.4
+CLM-003727,Green,Auto-approved,0.5
+CLM-003728,Amber,Human review,55.8
+CLM-003729,Amber,Human review,34.0
+CLM-003730,Green,Auto-approved,2.7
+CLM-003731,Green,Auto-approved,2.6
+CLM-003732,Amber,Human review,31.5
+CLM-003733,Amber,Human review,89.7
+CLM-003734,Green,Auto-approved,1.3
+CLM-003735,Green,Auto-approved,1.6
+CLM-003736,Amber,Human review,34.3
+CLM-003737,Green,Auto-approved,2.6
+CLM-003738,Amber,Human review,40.5
+CLM-003739,Amber,Human review,44.4
+CLM-003740,Amber,Human review,69.6
+CLM-003741,Green,Auto-approved,1.8
+CLM-003742,Green,Auto-approved,3.8
+CLM-003743,Red,SIU referral,247.1
+CLM-003744,Green,Auto-approved,2.3
+CLM-003745,Amber,Human review,30.1
+CLM-003746,Green,Auto-approved,1.5
+CLM-003747,Green,Auto-approved,2.7
+CLM-003748,Green,Auto-approved,1.1
+CLM-003749,Green,Auto-approved,0.6
+CLM-003750,Green,Auto-approved,3.9
+CLM-003751,Amber,Human review,31.3
+CLM-003752,Green,Auto-approved,0.7
+CLM-003753,Amber,Human review,84.7
+CLM-003754,Green,Auto-approved,2.2
+CLM-003755,Green,Auto-approved,2.5
+CLM-003756,Green,Auto-approved,3.1
+CLM-003757,Amber,Human review,58.4
+CLM-003758,Red,SIU referral,452.1
+CLM-003759,Green,Auto-approved,1.0
+CLM-003760,Amber,Human review,45.0
+CLM-003761,Amber,Human review,46.0
+CLM-003762,Green,Auto-approved,3.1
+CLM-003763,Green,Auto-approved,1.6
+CLM-003764,Green,Auto-approved,3.1
+CLM-003765,Green,Auto-approved,1.5
+CLM-003766,Red,SIU referral,112.2
+CLM-003767,Green,Auto-approved,1.0
+CLM-003768,Green,Auto-approved,2.1
+CLM-003769,Amber,Human review,40.0
+CLM-003770,Green,Auto-approved,1.5
+CLM-003771,Green,Auto-approved,0.9
+CLM-003772,Green,Auto-approved,2.2
+CLM-003773,Green,Auto-approved,1.5
+CLM-003774,Amber,Human review,83.9
+CLM-003775,Green,Auto-approved,2.3
+CLM-003776,Amber,Human review,51.5
+CLM-003777,Green,Auto-approved,1.7
+CLM-003778,Amber,Human review,87.8
+CLM-003779,Amber,Human review,54.1
+CLM-003780,Green,Auto-approved,3.6
+CLM-003781,Amber,Human review,88.8
+CLM-003782,Amber,Human review,46.6
+CLM-003783,Green,Auto-approved,3.3
+CLM-003784,Green,Auto-approved,2.9
+CLM-003785,Green,Auto-approved,3.1
+CLM-003786,Green,Auto-approved,4.0
+CLM-003787,Green,Auto-approved,3.9
+CLM-003788,Green,Auto-approved,3.8
+CLM-003789,Amber,Human review,91.9
+CLM-003790,Red,SIU referral,444.5
+CLM-003791,Amber,Human review,89.3
+CLM-003792,Amber,Human review,83.6
+CLM-003793,Green,Auto-approved,3.4
+CLM-003794,Amber,Human review,91.0
+CLM-003795,Green,Auto-approved,2.8
+CLM-003796,Red,SIU referral,393.3
+CLM-003797,Green,Auto-approved,2.9
+CLM-003798,Green,Auto-approved,2.0
+CLM-003799,Green,Auto-approved,2.0
+CLM-003800,Green,Auto-approved,3.1
+CLM-003801,Green,Auto-approved,1.2
+CLM-003802,Green,Auto-approved,1.2
+CLM-003803,Green,Auto-approved,2.2
+CLM-003804,Amber,Human review,68.6
+CLM-003805,Green,Auto-approved,1.8
+CLM-003806,Amber,Human review,40.9
+CLM-003807,Green,Auto-approved,1.3
+CLM-003808,Green,Auto-approved,1.9
+CLM-003809,Amber,Human review,26.7
+CLM-003810,Red,SIU referral,230.8
+CLM-003811,Green,Auto-approved,2.9
+CLM-003812,Green,Auto-approved,1.6
+CLM-003813,Green,Auto-approved,0.6
+CLM-003814,Amber,Human review,94.7
+CLM-003815,Green,Auto-approved,3.2
+CLM-003816,Amber,Human review,89.5
+CLM-003817,Green,Auto-approved,1.7
+CLM-003818,Green,Auto-approved,2.3
+CLM-003819,Amber,Human review,32.6
+CLM-003820,Green,Auto-approved,3.7
+CLM-003821,Green,Auto-approved,1.7
+CLM-003822,Red,SIU referral,100.8
+CLM-003823,Green,Auto-approved,3.4
+CLM-003824,Green,Auto-approved,3.2
+CLM-003825,Red,SIU referral,152.7
+CLM-003826,Green,Auto-approved,1.7
+CLM-003827,Amber,Human review,88.6
+CLM-003828,Green,Auto-approved,1.8
+CLM-003829,Green,Auto-approved,3.6
+CLM-003830,Green,Auto-approved,2.4
+CLM-003831,Green,Auto-approved,3.1
+CLM-003832,Amber,Human review,76.7
+CLM-003833,Green,Auto-approved,3.0
+CLM-003834,Amber,Human review,44.0
+CLM-003835,Green,Auto-approved,3.6
+CLM-003836,Green,Auto-approved,0.9
+CLM-003837,Amber,Human review,24.8
+CLM-003838,Green,Auto-approved,4.0
+CLM-003839,Green,Auto-approved,1.7
+CLM-003840,Green,Auto-approved,2.0
+CLM-003841,Amber,Human review,87.5
+CLM-003842,Green,Auto-approved,2.7
+CLM-003843,Green,Auto-approved,1.9
+CLM-003844,Green,Auto-approved,3.6
+CLM-003845,Green,Auto-approved,1.4
+CLM-003846,Green,Auto-approved,1.9
+CLM-003847,Amber,Human review,36.5
+CLM-003848,Amber,Human review,69.7
+CLM-003849,Green,Auto-approved,1.7
+CLM-003850,Amber,Human review,52.1
+CLM-003851,Green,Auto-approved,1.4
+CLM-003852,Amber,Human review,85.9
+CLM-003853,Amber,Human review,37.0
+CLM-003854,Green,Auto-approved,1.5
+CLM-003855,Green,Auto-approved,1.4
+CLM-003856,Red,SIU referral,304.7
+CLM-003857,Amber,Human review,25.9
+CLM-003858,Amber,Human review,57.1
+CLM-003859,Green,Auto-approved,1.6
+CLM-003860,Green,Auto-approved,2.2
+CLM-003861,Green,Auto-approved,2.0
+CLM-003862,Red,SIU referral,158.4
+CLM-003863,Amber,Human review,31.3
+CLM-003864,Amber,Human review,92.5
+CLM-003865,Green,Auto-approved,2.2
+CLM-003866,Red,SIU referral,358.3
+CLM-003867,Amber,Human review,78.9
+CLM-003868,Amber,Human review,27.4
+CLM-003869,Green,Auto-approved,2.9
+CLM-003870,Amber,Human review,64.7
+CLM-003871,Green,Auto-approved,1.1
+CLM-003872,Red,SIU referral,187.6
+CLM-003873,Amber,Human review,58.4
+CLM-003874,Red,SIU referral,346.9
+CLM-003875,Green,Auto-approved,2.8
+CLM-003876,Green,Auto-approved,2.6
+CLM-003877,Amber,Human review,38.2
+CLM-003878,Amber,Human review,61.2
+CLM-003879,Green,Auto-approved,1.5
+CLM-003880,Green,Auto-approved,3.0
+CLM-003881,Amber,Human review,60.0
+CLM-003882,Amber,Human review,31.9
+CLM-003883,Amber,Human review,86.2
+CLM-003884,Green,Auto-approved,2.9
+CLM-003885,Green,Auto-approved,3.7
+CLM-003886,Green,Auto-approved,2.5
+CLM-003887,Green,Auto-approved,2.2
+CLM-003888,Amber,Human review,76.6
+CLM-003889,Green,Auto-approved,3.7
+CLM-003890,Amber,Human review,94.7
+CLM-003891,Green,Auto-approved,2.5
+CLM-003892,Green,Auto-approved,2.3
+CLM-003893,Amber,Human review,80.3
+CLM-003894,Green,Auto-approved,1.2
+CLM-003895,Green,Auto-approved,2.2
+CLM-003896,Amber,Human review,77.9
+CLM-003897,Amber,Human review,47.4
+CLM-003898,Amber,Human review,42.0
+CLM-003899,Amber,Human review,34.3
+CLM-003900,Green,Auto-approved,2.1
+CLM-003901,Green,Auto-approved,2.0
+CLM-003902,Red,SIU referral,300.0
+CLM-003903,Amber,Human review,49.9
+CLM-003904,Amber,Human review,88.2
+CLM-003905,Amber,Human review,88.4
+CLM-003906,Amber,Human review,95.0
+CLM-003907,Amber,Human review,88.8
+CLM-003908,Amber,Human review,32.1
+CLM-003909,Amber,Human review,30.2
+CLM-003910,Green,Auto-approved,1.4
+CLM-003911,Green,Auto-approved,1.8
+CLM-003912,Green,Auto-approved,1.2
+CLM-003913,Green,Auto-approved,3.5
+CLM-003914,Amber,Human review,61.5
+CLM-003915,Amber,Human review,35.5
+CLM-003916,Green,Auto-approved,2.7
+CLM-003917,Amber,Human review,25.6
+CLM-003918,Red,SIU referral,304.9
+CLM-003919,Amber,Human review,77.0
+CLM-003920,Amber,Human review,24.5
+CLM-003921,Green,Auto-approved,3.6
+CLM-003922,Amber,Human review,50.1
+CLM-003923,Green,Auto-approved,2.5
+CLM-003924,Amber,Human review,66.5
+CLM-003925,Amber,Human review,72.9
+CLM-003926,Green,Auto-approved,2.8
+CLM-003927,Green,Auto-approved,2.9
+CLM-003928,Green,Auto-approved,1.6
+CLM-003929,Green,Auto-approved,3.5
+CLM-003930,Green,Auto-approved,3.4
+CLM-003931,Green,Auto-approved,2.6
+CLM-003932,Green,Auto-approved,1.4
+CLM-003933,Green,Auto-approved,1.6
+CLM-003934,Amber,Human review,85.6
+CLM-003935,Amber,Human review,80.4
+CLM-003936,Amber,Human review,78.1
+CLM-003937,Green,Auto-approved,2.8
+CLM-003938,Green,Auto-approved,3.2
+CLM-003939,Amber,Human review,47.0
+CLM-003940,Amber,Human review,50.5
+CLM-003941,Green,Auto-approved,1.0
+CLM-003942,Red,SIU referral,163.6
+CLM-003943,Green,Auto-approved,1.3
+CLM-003944,Green,Auto-approved,4.0
+CLM-003945,Amber,Human review,81.0
+CLM-003946,Green,Auto-approved,3.3
+CLM-003947,Green,Auto-approved,2.9
+CLM-003948,Amber,Human review,44.5
+CLM-003949,Amber,Human review,30.5
+CLM-003950,Amber,Human review,39.1
+CLM-003951,Green,Auto-approved,2.2
+CLM-003952,Green,Auto-approved,2.0
+CLM-003953,Green,Auto-approved,2.2
+CLM-003954,Green,Auto-approved,0.9
+CLM-003955,Amber,Human review,24.4
+CLM-003956,Green,Auto-approved,0.9
+CLM-003957,Red,SIU referral,186.6
+CLM-003958,Green,Auto-approved,1.9
+CLM-003959,Amber,Human review,57.4
+CLM-003960,Amber,Human review,31.9
+CLM-003961,Amber,Human review,38.6
+CLM-003962,Amber,Human review,65.0
+CLM-003963,Amber,Human review,72.9
+CLM-003964,Amber,Human review,67.1
+CLM-003965,Green,Auto-approved,2.9
+CLM-003966,Amber,Human review,45.0
+CLM-003967,Green,Auto-approved,2.5
+CLM-003968,Green,Auto-approved,3.0
+CLM-003969,Green,Auto-approved,2.8
+CLM-003970,Green,Auto-approved,0.7
+CLM-003971,Amber,Human review,37.1
+CLM-003972,Green,Auto-approved,1.6
+CLM-003973,Amber,Human review,89.7
+CLM-003974,Green,Auto-approved,1.9
+CLM-003975,Green,Auto-approved,3.6
+CLM-003976,Green,Auto-approved,3.0
+CLM-003977,Green,Auto-approved,2.4
+CLM-003978,Amber,Human review,71.5
+CLM-003979,Amber,Human review,75.5
+CLM-003980,Green,Auto-approved,3.3
+CLM-003981,Amber,Human review,45.2
+CLM-003982,Amber,Human review,87.9
+CLM-003983,Green,Auto-approved,2.5
+CLM-003984,Green,Auto-approved,1.7
+CLM-003985,Amber,Human review,63.6
+CLM-003986,Amber,Human review,91.8
+CLM-003987,Red,SIU referral,390.4
+CLM-003988,Green,Auto-approved,0.7
+CLM-003989,Green,Auto-approved,3.4
+CLM-003990,Green,Auto-approved,3.5
+CLM-003991,Amber,Human review,81.3
+CLM-003992,Amber,Human review,25.1
+CLM-003993,Green,Auto-approved,1.4
+CLM-003994,Amber,Human review,78.6
+CLM-003995,Green,Auto-approved,2.6
+CLM-003996,Red,SIU referral,175.7
+CLM-003997,Green,Auto-approved,3.6
+CLM-003998,Red,SIU referral,121.4
+CLM-003999,Green,Auto-approved,1.5
+CLM-004000,Green,Auto-approved,1.3
+CLM-004001,Green,Auto-approved,3.6
+CLM-004002,Amber,Human review,51.3
+CLM-004003,Green,Auto-approved,3.4
+CLM-004004,Amber,Human review,83.3
+CLM-004005,Green,Auto-approved,0.8
+CLM-004006,Amber,Human review,24.8
+CLM-004007,Amber,Human review,52.8
+CLM-004008,Green,Auto-approved,3.0
+CLM-004009,Green,Auto-approved,3.8
+CLM-004010,Green,Auto-approved,3.6
+CLM-004011,Green,Auto-approved,2.4
+CLM-004012,Green,Auto-approved,1.8
+CLM-004013,Red,SIU referral,223.7
+CLM-004014,Amber,Human review,39.9
+CLM-004015,Green,Auto-approved,1.5
+CLM-004016,Green,Auto-approved,2.0
+CLM-004017,Amber,Human review,64.7
+CLM-004018,Green,Auto-approved,1.2
+CLM-004019,Amber,Human review,41.8
+CLM-004020,Green,Auto-approved,2.0
+CLM-004021,Green,Auto-approved,3.8
+CLM-004022,Green,Auto-approved,3.4
+CLM-004023,Green,Auto-approved,1.6
+CLM-004024,Amber,Human review,49.4
+CLM-004025,Amber,Human review,45.8
+CLM-004026,Amber,Human review,43.8
+CLM-004027,Amber,Human review,90.4
+CLM-004028,Red,SIU referral,318.8
+CLM-004029,Red,SIU referral,222.6
+CLM-004030,Green,Auto-approved,0.6
+CLM-004031,Green,Auto-approved,1.2
+CLM-004032,Green,Auto-approved,2.4
+CLM-004033,Green,Auto-approved,2.4
+CLM-004034,Green,Auto-approved,3.8
+CLM-004035,Green,Auto-approved,2.1
+CLM-004036,Green,Auto-approved,1.6
+CLM-004037,Green,Auto-approved,1.3
+CLM-004038,Red,SIU referral,198.1
+CLM-004039,Amber,Human review,30.9
+CLM-004040,Green,Auto-approved,3.3
+CLM-004041,Green,Auto-approved,3.4
+CLM-004042,Green,Auto-approved,2.4
+CLM-004043,Amber,Human review,39.7
+CLM-004044,Amber,Human review,29.3
+CLM-004045,Amber,Human review,24.7
+CLM-004046,Green,Auto-approved,3.1
+CLM-004047,Amber,Human review,25.0
+CLM-004048,Green,Auto-approved,1.7
+CLM-004049,Red,SIU referral,370.6
+CLM-004050,Green,Auto-approved,2.4
+CLM-004051,Green,Auto-approved,1.9
+CLM-004052,Amber,Human review,50.6
+CLM-004053,Amber,Human review,64.3
+CLM-004054,Amber,Human review,85.0
+CLM-004055,Green,Auto-approved,3.1
+CLM-004056,Red,SIU referral,218.2
+CLM-004057,Amber,Human review,51.6
+CLM-004058,Amber,Human review,48.2
+CLM-004059,Amber,Human review,39.6
+CLM-004060,Green,Auto-approved,2.7
+CLM-004061,Green,Auto-approved,3.3
+CLM-004062,Green,Auto-approved,1.3
+CLM-004063,Amber,Human review,59.8
+CLM-004064,Green,Auto-approved,3.9
+CLM-004065,Green,Auto-approved,3.5
+CLM-004066,Amber,Human review,84.9
+CLM-004067,Green,Auto-approved,2.4
+CLM-004068,Green,Auto-approved,3.0
+CLM-004069,Green,Auto-approved,3.6
+CLM-004070,Amber,Human review,93.3
+CLM-004071,Red,SIU referral,193.9
+CLM-004072,Amber,Human review,61.4
+CLM-004073,Green,Auto-approved,0.7
+CLM-004074,Amber,Human review,65.8
+CLM-004075,Amber,Human review,42.4
+CLM-004076,Amber,Human review,33.1
+CLM-004077,Amber,Human review,77.3
+CLM-004078,Green,Auto-approved,3.1
+CLM-004079,Amber,Human review,39.1
+CLM-004080,Amber,Human review,85.8
+CLM-004081,Amber,Human review,59.4
+CLM-004082,Green,Auto-approved,0.7
+CLM-004083,Red,SIU referral,330.1
+CLM-004084,Amber,Human review,67.9
+CLM-004085,Amber,Human review,69.8
+CLM-004086,Amber,Human review,68.4
+CLM-004087,Amber,Human review,82.1
+CLM-004088,Amber,Human review,37.2
+CLM-004089,Green,Auto-approved,3.8
+CLM-004090,Green,Auto-approved,2.8
+CLM-004091,Amber,Human review,56.0
+CLM-004092,Green,Auto-approved,3.8
+CLM-004093,Amber,Human review,29.8
+CLM-004094,Amber,Human review,79.9
+CLM-004095,Green,Auto-approved,3.0
+CLM-004096,Amber,Human review,47.7
+CLM-004097,Amber,Human review,81.6
+CLM-004098,Amber,Human review,29.5
+CLM-004099,Green,Auto-approved,2.0
+CLM-004100,Green,Auto-approved,2.6
+CLM-004101,Amber,Human review,52.0
+CLM-004102,Amber,Human review,58.3
+CLM-004103,Red,SIU referral,99.2
+CLM-004104,Green,Auto-approved,3.0
+CLM-004105,Green,Auto-approved,3.6
+CLM-004106,Amber,Human review,39.2
+CLM-004107,Amber,Human review,90.3
+CLM-004108,Green,Auto-approved,3.3
+CLM-004109,Amber,Human review,50.4
+CLM-004110,Amber,Human review,94.4
+CLM-004111,Amber,Human review,42.5
+CLM-004112,Amber,Human review,94.4
+CLM-004113,Green,Auto-approved,3.1
+CLM-004114,Green,Auto-approved,1.1
+CLM-004115,Green,Auto-approved,3.7
+CLM-004116,Green,Auto-approved,0.9
+CLM-004117,Green,Auto-approved,3.7
+CLM-004118,Green,Auto-approved,3.8
+CLM-004119,Green,Auto-approved,0.8
+CLM-004120,Green,Auto-approved,2.2
+CLM-004121,Amber,Human review,73.9
+CLM-004122,Green,Auto-approved,1.6
+CLM-004123,Red,SIU referral,162.3
+CLM-004124,Red,SIU referral,308.3
+CLM-004125,Amber,Human review,80.4
+CLM-004126,Amber,Human review,72.7
+CLM-004127,Amber,Human review,56.5
+CLM-004128,Green,Auto-approved,3.8
+CLM-004129,Amber,Human review,42.7
+CLM-004130,Green,Auto-approved,2.2
+CLM-004131,Green,Auto-approved,3.4
+CLM-004132,Green,Auto-approved,1.4
+CLM-004133,Green,Auto-approved,3.4
+CLM-004134,Amber,Human review,48.7
+CLM-004135,Green,Auto-approved,0.7
+CLM-004136,Green,Auto-approved,0.6
+CLM-004137,Green,Auto-approved,3.8
+CLM-004138,Green,Auto-approved,2.1
+CLM-004139,Green,Auto-approved,3.3
+CLM-004140,Amber,Human review,50.8
+CLM-004141,Amber,Human review,61.7
+CLM-004142,Red,SIU referral,400.8
+CLM-004143,Amber,Human review,72.3
+CLM-004144,Amber,Human review,62.7
+CLM-004145,Red,SIU referral,345.0
+CLM-004146,Amber,Human review,45.6
+CLM-004147,Green,Auto-approved,1.6
+CLM-004148,Green,Auto-approved,0.7
+CLM-004149,Green,Auto-approved,1.7
+CLM-004150,Green,Auto-approved,1.7
+CLM-004151,Red,SIU referral,198.9
+CLM-004152,Green,Auto-approved,2.1
+CLM-004153,Amber,Human review,87.0
+CLM-004154,Green,Auto-approved,3.4
+CLM-004155,Green,Auto-approved,2.7
+CLM-004156,Green,Auto-approved,0.8
+CLM-004157,Amber,Human review,37.3
+CLM-004158,Amber,Human review,50.2
+CLM-004159,Amber,Human review,83.9
+CLM-004160,Green,Auto-approved,2.2
+CLM-004161,Green,Auto-approved,1.7
+CLM-004162,Green,Auto-approved,1.4
+CLM-004163,Amber,Human review,87.5
+CLM-004164,Red,SIU referral,157.7
+CLM-004165,Green,Auto-approved,2.7
+CLM-004166,Amber,Human review,42.8
+CLM-004167,Green,Auto-approved,1.7
+CLM-004168,Amber,Human review,59.7
+CLM-004169,Green,Auto-approved,2.1
+CLM-004170,Green,Auto-approved,3.6
+CLM-004171,Amber,Human review,63.0
+CLM-004172,Green,Auto-approved,3.5
+CLM-004173,Red,SIU referral,142.4
+CLM-004174,Amber,Human review,39.5
+CLM-004175,Green,Auto-approved,1.4
+CLM-004176,Green,Auto-approved,3.3
+CLM-004177,Green,Auto-approved,0.7
+CLM-004178,Green,Auto-approved,3.5
+CLM-004179,Amber,Human review,38.0
+CLM-004180,Amber,Human review,65.8
+CLM-004181,Green,Auto-approved,1.0
+CLM-004182,Green,Auto-approved,2.2
+CLM-004183,Green,Auto-approved,2.8
+CLM-004184,Amber,Human review,94.3
+CLM-004185,Green,Auto-approved,3.6
+CLM-004186,Amber,Human review,92.2
+CLM-004187,Green,Auto-approved,2.9
+CLM-004188,Amber,Human review,70.3
+CLM-004189,Amber,Human review,71.3
+CLM-004190,Amber,Human review,83.5
+CLM-004191,Green,Auto-approved,1.0
+CLM-004192,Red,SIU referral,162.2
+CLM-004193,Amber,Human review,45.4
+CLM-004194,Green,Auto-approved,1.9
+CLM-004195,Green,Auto-approved,1.1
+CLM-004196,Green,Auto-approved,1.6
+CLM-004197,Green,Auto-approved,1.9
+CLM-004198,Amber,Human review,69.1
+CLM-004199,Green,Auto-approved,1.7
+CLM-004200,Amber,Human review,37.2
+CLM-004201,Green,Auto-approved,0.8
+CLM-004202,Amber,Human review,32.4
+CLM-004203,Green,Auto-approved,1.8
+CLM-004204,Green,Auto-approved,0.9
+CLM-004205,Red,SIU referral,218.1
+CLM-004206,Green,Auto-approved,3.2
+CLM-004207,Amber,Human review,32.1
+CLM-004208,Amber,Human review,41.5
+CLM-004209,Green,Auto-approved,2.6
+CLM-004210,Amber,Human review,94.0
+CLM-004211,Green,Auto-approved,2.4
+CLM-004212,Amber,Human review,31.5
+CLM-004213,Green,Auto-approved,3.6
+CLM-004214,Amber,Human review,31.9
+CLM-004215,Green,Auto-approved,2.6
+CLM-004216,Green,Auto-approved,3.5
+CLM-004217,Amber,Human review,48.0
+CLM-004218,Green,Auto-approved,1.5
+CLM-004219,Amber,Human review,77.7
+CLM-004220,Amber,Human review,86.1
+CLM-004221,Red,SIU referral,282.1
+CLM-004222,Green,Auto-approved,1.8
+CLM-004223,Amber,Human review,50.0
+CLM-004224,Green,Auto-approved,3.1
+CLM-004225,Red,SIU referral,215.5
+CLM-004226,Amber,Human review,63.4
+CLM-004227,Amber,Human review,48.7
+CLM-004228,Green,Auto-approved,2.3
+CLM-004229,Green,Auto-approved,1.0
+CLM-004230,Amber,Human review,55.3
+CLM-004231,Amber,Human review,57.1
+CLM-004232,Green,Auto-approved,3.5
+CLM-004233,Green,Auto-approved,2.9
+CLM-004234,Amber,Human review,66.7
+CLM-004235,Red,SIU referral,188.3
+CLM-004236,Amber,Human review,26.8
+CLM-004237,Amber,Human review,24.7
+CLM-004238,Red,SIU referral,196.6
+CLM-004239,Green,Auto-approved,1.7
+CLM-004240,Amber,Human review,43.1
+CLM-004241,Green,Auto-approved,1.4
+CLM-004242,Amber,Human review,57.5
+CLM-004243,Amber,Human review,85.7
+CLM-004244,Green,Auto-approved,2.3
+CLM-004245,Green,Auto-approved,2.2
+CLM-004246,Amber,Human review,54.8
+CLM-004247,Green,Auto-approved,3.9
+CLM-004248,Amber,Human review,47.3
+CLM-004249,Green,Auto-approved,1.6
+CLM-004250,Green,Auto-approved,3.9
+CLM-004251,Amber,Human review,76.7
+CLM-004252,Green,Auto-approved,3.5
+CLM-004253,Amber,Human review,76.4
+CLM-004254,Green,Auto-approved,3.7
+CLM-004255,Green,Auto-approved,2.5
+CLM-004256,Green,Auto-approved,0.6
+CLM-004257,Green,Auto-approved,0.6
+CLM-004258,Green,Auto-approved,1.0
+CLM-004259,Green,Auto-approved,1.9
+CLM-004260,Amber,Human review,40.0
+CLM-004261,Green,Auto-approved,2.8
+CLM-004262,Green,Auto-approved,3.1
+CLM-004263,Amber,Human review,39.9
+CLM-004264,Green,Auto-approved,2.6
+CLM-004265,Amber,Human review,90.9
+CLM-004266,Amber,Human review,26.6
+CLM-004267,Amber,Human review,53.5
+CLM-004268,Green,Auto-approved,2.6
+CLM-004269,Green,Auto-approved,3.5
+CLM-004270,Amber,Human review,45.5
+CLM-004271,Green,Auto-approved,2.4
+CLM-004272,Red,SIU referral,288.0
+CLM-004273,Amber,Human review,35.0
+CLM-004274,Amber,Human review,29.4
+CLM-004275,Amber,Human review,67.3
+CLM-004276,Amber,Human review,49.8
+CLM-004277,Red,SIU referral,476.4
+CLM-004278,Amber,Human review,25.5
+CLM-004279,Amber,Human review,44.4
+CLM-004280,Green,Auto-approved,2.8
+CLM-004281,Green,Auto-approved,3.7
+CLM-004282,Green,Auto-approved,1.9
+CLM-004283,Amber,Human review,49.9
+CLM-004284,Green,Auto-approved,2.5
+CLM-004285,Amber,Human review,84.6
+CLM-004286,Green,Auto-approved,3.4
+CLM-004287,Green,Auto-approved,2.9
+CLM-004288,Green,Auto-approved,0.8
+CLM-004289,Green,Auto-approved,2.8
+CLM-004290,Green,Auto-approved,0.6
+CLM-004291,Red,SIU referral,420.6
+CLM-004292,Green,Auto-approved,2.7
+CLM-004293,Amber,Human review,89.6
+CLM-004294,Green,Auto-approved,0.7
+CLM-004295,Amber,Human review,78.7
+CLM-004296,Amber,Human review,74.7
+CLM-004297,Green,Auto-approved,2.5
+CLM-004298,Amber,Human review,47.1
+CLM-004299,Red,SIU referral,224.0
+CLM-004300,Amber,Human review,88.4
+CLM-004301,Green,Auto-approved,0.6
+CLM-004302,Green,Auto-approved,0.7
+CLM-004303,Amber,Human review,71.3
+CLM-004304,Amber,Human review,73.4
+CLM-004305,Green,Auto-approved,3.4
+CLM-004306,Green,Auto-approved,1.8
+CLM-004307,Green,Auto-approved,2.3
+CLM-004308,Red,SIU referral,457.4
+CLM-004309,Green,Auto-approved,3.4
+CLM-004310,Red,SIU referral,449.3
+CLM-004311,Green,Auto-approved,3.9
+CLM-004312,Amber,Human review,88.0
+CLM-004313,Green,Auto-approved,3.7
+CLM-004314,Green,Auto-approved,1.8
+CLM-004315,Amber,Human review,56.6
+CLM-004316,Green,Auto-approved,2.0
+CLM-004317,Amber,Human review,57.0
+CLM-004318,Green,Auto-approved,3.3
+CLM-004319,Green,Auto-approved,3.8
+CLM-004320,Amber,Human review,26.3
+CLM-004321,Amber,Human review,60.2
+CLM-004322,Green,Auto-approved,3.2
+CLM-004323,Amber,Human review,77.5
+CLM-004324,Green,Auto-approved,2.7
+CLM-004325,Amber,Human review,77.2
+CLM-004326,Amber,Human review,95.0
+CLM-004327,Green,Auto-approved,2.5
+CLM-004328,Green,Auto-approved,2.3
+CLM-004329,Green,Auto-approved,3.7
+CLM-004330,Green,Auto-approved,2.3
+CLM-004331,Amber,Human review,81.8
+CLM-004332,Green,Auto-approved,3.0
+CLM-004333,Green,Auto-approved,3.2
+CLM-004334,Green,Auto-approved,1.8
+CLM-004335,Red,SIU referral,452.7
+CLM-004336,Green,Auto-approved,3.4
+CLM-004337,Green,Auto-approved,3.0
+CLM-004338,Green,Auto-approved,1.2
+CLM-004339,Red,SIU referral,272.9
+CLM-004340,Green,Auto-approved,0.7
+CLM-004341,Green,Auto-approved,3.2
+CLM-004342,Green,Auto-approved,0.7
+CLM-004343,Amber,Human review,90.0
+CLM-004344,Amber,Human review,72.1
+CLM-004345,Green,Auto-approved,1.7
+CLM-004346,Green,Auto-approved,0.8
+CLM-004347,Amber,Human review,77.3
+CLM-004348,Amber,Human review,93.0
+CLM-004349,Green,Auto-approved,1.4
+CLM-004350,Green,Auto-approved,1.5
+CLM-004351,Green,Auto-approved,2.6
+CLM-004352,Green,Auto-approved,1.8
+CLM-004353,Amber,Human review,37.4
+CLM-004354,Green,Auto-approved,1.5
+CLM-004355,Green,Auto-approved,0.9
+CLM-004356,Green,Auto-approved,1.5
+CLM-004357,Amber,Human review,49.7
+CLM-004358,Red,SIU referral,96.5
+CLM-004359,Green,Auto-approved,0.6
+CLM-004360,Green,Auto-approved,3.0
+CLM-004361,Amber,Human review,61.7
+CLM-004362,Amber,Human review,75.1
+CLM-004363,Green,Auto-approved,0.7
+CLM-004364,Amber,Human review,86.8
+CLM-004365,Amber,Human review,45.0
+CLM-004366,Amber,Human review,72.4
+CLM-004367,Green,Auto-approved,1.2
+CLM-004368,Red,SIU referral,171.5
+CLM-004369,Green,Auto-approved,2.1
+CLM-004370,Red,SIU referral,200.8
+CLM-004371,Green,Auto-approved,0.6
+CLM-004372,Green,Auto-approved,0.6
+CLM-004373,Red,SIU referral,242.0
+CLM-004374,Amber,Human review,54.6
+CLM-004375,Green,Auto-approved,2.6
+CLM-004376,Amber,Human review,65.7
+CLM-004377,Amber,Human review,74.1
+CLM-004378,Green,Auto-approved,3.8
+CLM-004379,Amber,Human review,33.7
+CLM-004380,Green,Auto-approved,1.2
+CLM-004381,Green,Auto-approved,3.8
+CLM-004382,Green,Auto-approved,3.9
+CLM-004383,Amber,Human review,42.8
+CLM-004384,Green,Auto-approved,3.3
+CLM-004385,Amber,Human review,43.3
+CLM-004386,Green,Auto-approved,2.7
+CLM-004387,Green,Auto-approved,3.4
+CLM-004388,Red,SIU referral,389.7
+CLM-004389,Amber,Human review,25.9
+CLM-004390,Green,Auto-approved,0.5
+CLM-004391,Green,Auto-approved,2.0
+CLM-004392,Green,Auto-approved,2.6
+CLM-004393,Amber,Human review,68.8
+CLM-004394,Amber,Human review,63.2
+CLM-004395,Amber,Human review,52.6
+CLM-004396,Green,Auto-approved,3.8
+CLM-004397,Green,Auto-approved,1.0
+CLM-004398,Green,Auto-approved,0.7
+CLM-004399,Green,Auto-approved,3.3
+CLM-004400,Amber,Human review,83.9
+CLM-004401,Amber,Human review,84.1
+CLM-004402,Green,Auto-approved,1.7
+CLM-004403,Green,Auto-approved,2.2
+CLM-004404,Green,Auto-approved,3.3
+CLM-004405,Green,Auto-approved,2.5
+CLM-004406,Amber,Human review,58.3
+CLM-004407,Red,SIU referral,301.5
+CLM-004408,Green,Auto-approved,3.1
+CLM-004409,Red,SIU referral,203.9
+CLM-004410,Green,Auto-approved,3.1
+CLM-004411,Amber,Human review,74.2
+CLM-004412,Amber,Human review,26.2
+CLM-004413,Green,Auto-approved,0.7
+CLM-004414,Green,Auto-approved,3.4
+CLM-004415,Green,Auto-approved,1.3
+CLM-004416,Green,Auto-approved,0.6
+CLM-004417,Green,Auto-approved,1.6
+CLM-004418,Green,Auto-approved,2.3
+CLM-004419,Green,Auto-approved,1.2
+CLM-004420,Amber,Human review,55.6
+CLM-004421,Amber,Human review,75.2
+CLM-004422,Red,SIU referral,153.7
+CLM-004423,Amber,Human review,67.6
+CLM-004424,Amber,Human review,60.2
+CLM-004425,Red,SIU referral,318.1
+CLM-004426,Red,SIU referral,317.4
+CLM-004427,Green,Auto-approved,1.6
+CLM-004428,Green,Auto-approved,3.3
+CLM-004429,Green,Auto-approved,1.4
+CLM-004430,Green,Auto-approved,1.9
+CLM-004431,Green,Auto-approved,1.9
+CLM-004432,Green,Auto-approved,3.5
+CLM-004433,Green,Auto-approved,3.2
+CLM-004434,Amber,Human review,85.9
+CLM-004435,Green,Auto-approved,2.0
+CLM-004436,Red,SIU referral,456.1
+CLM-004437,Amber,Human review,95.8
+CLM-004438,Amber,Human review,50.2
+CLM-004439,Green,Auto-approved,2.0
+CLM-004440,Amber,Human review,70.5
+CLM-004441,Green,Auto-approved,0.9
+CLM-004442,Green,Auto-approved,2.2
+CLM-004443,Green,Auto-approved,0.9
+CLM-004444,Green,Auto-approved,1.2
+CLM-004445,Amber,Human review,77.6
+CLM-004446,Amber,Human review,68.9
+CLM-004447,Amber,Human review,75.8
+CLM-004448,Green,Auto-approved,0.8
+CLM-004449,Green,Auto-approved,0.7
+CLM-004450,Amber,Human review,85.1
+CLM-004451,Green,Auto-approved,3.1
+CLM-004452,Green,Auto-approved,1.4
+CLM-004453,Amber,Human review,68.8
+CLM-004454,Amber,Human review,72.3
+CLM-004455,Green,Auto-approved,3.6
+CLM-004456,Amber,Human review,84.8
+CLM-004457,Amber,Human review,88.2
+CLM-004458,Green,Auto-approved,0.7
+CLM-004459,Amber,Human review,30.7
+CLM-004460,Amber,Human review,77.4
+CLM-004461,Amber,Human review,53.2
+CLM-004462,Red,SIU referral,326.9
+CLM-004463,Green,Auto-approved,3.4
+CLM-004464,Green,Auto-approved,0.7
+CLM-004465,Green,Auto-approved,2.9
+CLM-004466,Amber,Human review,34.9
+CLM-004467,Red,SIU referral,122.6
+CLM-004468,Green,Auto-approved,2.9
+CLM-004469,Green,Auto-approved,1.4
+CLM-004470,Amber,Human review,29.8
+CLM-004471,Green,Auto-approved,3.5
+CLM-004472,Green,Auto-approved,2.8
+CLM-004473,Green,Auto-approved,2.7
+CLM-004474,Amber,Human review,68.3
+CLM-004475,Green,Auto-approved,3.4
+CLM-004476,Amber,Human review,39.9
+CLM-004477,Green,Auto-approved,1.9
+CLM-004478,Amber,Human review,49.7
+CLM-004479,Green,Auto-approved,3.2
+CLM-004480,Amber,Human review,35.8
+CLM-004481,Green,Auto-approved,1.7
+CLM-004482,Amber,Human review,89.6
+CLM-004483,Green,Auto-approved,1.9
+CLM-004484,Amber,Human review,58.5
+CLM-004485,Green,Auto-approved,2.6
+CLM-004486,Green,Auto-approved,3.2
+CLM-004487,Green,Auto-approved,2.6
+CLM-004488,Amber,Human review,44.0
+CLM-004489,Amber,Human review,42.5
+CLM-004490,Green,Auto-approved,2.8
+CLM-004491,Amber,Human review,59.9
+CLM-004492,Amber,Human review,34.1
+CLM-004493,Green,Auto-approved,2.9
+CLM-004494,Amber,Human review,74.6
+CLM-004495,Green,Auto-approved,0.5
+CLM-004496,Amber,Human review,79.5
+CLM-004497,Red,SIU referral,118.4
+CLM-004498,Green,Auto-approved,1.9
+CLM-004499,Green,Auto-approved,0.8
+CLM-004500,Green,Auto-approved,3.3
+CLM-004501,Amber,Human review,85.1
+CLM-004502,Green,Auto-approved,3.8
+CLM-004503,Amber,Human review,64.8
+CLM-004504,Green,Auto-approved,3.9
+CLM-004505,Amber,Human review,66.2
+CLM-004506,Amber,Human review,57.3
+CLM-004507,Amber,Human review,92.1
+CLM-004508,Green,Auto-approved,3.9
+CLM-004509,Green,Auto-approved,1.9
+CLM-004510,Green,Auto-approved,1.6
+CLM-004511,Green,Auto-approved,1.9
+CLM-004512,Red,SIU referral,457.5
+CLM-004513,Amber,Human review,57.9
+CLM-004514,Green,Auto-approved,0.7
+CLM-004515,Amber,Human review,43.9
+CLM-004516,Green,Auto-approved,0.9
+CLM-004517,Green,Auto-approved,1.5
+CLM-004518,Green,Auto-approved,1.8
+CLM-004519,Green,Auto-approved,3.5
+CLM-004520,Green,Auto-approved,3.9
+CLM-004521,Amber,Human review,90.4
+CLM-004522,Green,Auto-approved,3.8
+CLM-004523,Amber,Human review,80.2
+CLM-004524,Green,Auto-approved,1.8
+CLM-004525,Green,Auto-approved,0.6
+CLM-004526,Green,Auto-approved,1.3
+CLM-004527,Amber,Human review,26.4
+CLM-004528,Green,Auto-approved,3.4
+CLM-004529,Amber,Human review,57.1
+CLM-004530,Green,Auto-approved,3.6
+CLM-004531,Amber,Human review,62.8
+CLM-004532,Green,Auto-approved,1.9
+CLM-004533,Amber,Human review,95.2
+CLM-004534,Red,SIU referral,156.7
+CLM-004535,Green,Auto-approved,1.2
+CLM-004536,Amber,Human review,83.7
+CLM-004537,Amber,Human review,44.0
+CLM-004538,Green,Auto-approved,2.2
+CLM-004539,Amber,Human review,92.8
+CLM-004540,Green,Auto-approved,2.2
+CLM-004541,Amber,Human review,62.9
+CLM-004542,Green,Auto-approved,0.8
+CLM-004543,Green,Auto-approved,2.2
+CLM-004544,Amber,Human review,91.5
+CLM-004545,Green,Auto-approved,2.4
+CLM-004546,Amber,Human review,48.4
+CLM-004547,Amber,Human review,72.1
+CLM-004548,Amber,Human review,71.5
+CLM-004549,Green,Auto-approved,0.6
+CLM-004550,Green,Auto-approved,1.5
+CLM-004551,Amber,Human review,44.0
+CLM-004552,Green,Auto-approved,1.4
+CLM-004553,Amber,Human review,85.1
+CLM-004554,Green,Auto-approved,3.8
+CLM-004555,Green,Auto-approved,2.4
+CLM-004556,Amber,Human review,35.9
+CLM-004557,Amber,Human review,28.8
+CLM-004558,Amber,Human review,74.0
+CLM-004559,Green,Auto-approved,0.7
+CLM-004560,Green,Auto-approved,2.7
+CLM-004561,Green,Auto-approved,1.8
+CLM-004562,Green,Auto-approved,3.0
+CLM-004563,Amber,Human review,43.0
+CLM-004564,Green,Auto-approved,3.8
+CLM-004565,Amber,Human review,60.5
+CLM-004566,Amber,Human review,73.6
+CLM-004567,Amber,Human review,91.2
+CLM-004568,Amber,Human review,40.7
+CLM-004569,Amber,Human review,70.9
+CLM-004570,Red,SIU referral,200.7
+CLM-004571,Green,Auto-approved,3.4
+CLM-004572,Green,Auto-approved,0.9
+CLM-004573,Amber,Human review,75.0
+CLM-004574,Amber,Human review,80.2
+CLM-004575,Amber,Human review,43.3
+CLM-004576,Green,Auto-approved,2.9
+CLM-004577,Amber,Human review,47.8
+CLM-004578,Green,Auto-approved,1.3
+CLM-004579,Green,Auto-approved,3.5
+CLM-004580,Green,Auto-approved,3.9
+CLM-004581,Amber,Human review,40.4
+CLM-004582,Green,Auto-approved,2.3
+CLM-004583,Green,Auto-approved,2.9
+CLM-004584,Green,Auto-approved,0.6
+CLM-004585,Amber,Human review,79.4
+CLM-004586,Amber,Human review,60.0
+CLM-004587,Green,Auto-approved,1.6
+CLM-004588,Amber,Human review,33.6
+CLM-004589,Amber,Human review,52.3
+CLM-004590,Amber,Human review,67.9
+CLM-004591,Amber,Human review,35.9
+CLM-004592,Green,Auto-approved,0.6
+CLM-004593,Amber,Human review,43.2
+CLM-004594,Amber,Human review,74.0
+CLM-004595,Green,Auto-approved,2.0
+CLM-004596,Amber,Human review,84.3
+CLM-004597,Green,Auto-approved,4.0
+CLM-004598,Amber,Human review,62.9
+CLM-004599,Green,Auto-approved,3.7
+CLM-004600,Amber,Human review,54.9
+CLM-004601,Amber,Human review,91.8
+CLM-004602,Amber,Human review,30.7
+CLM-004603,Green,Auto-approved,2.7
+CLM-004604,Amber,Human review,78.5
+CLM-004605,Amber,Human review,45.7
+CLM-004606,Amber,Human review,81.2
+CLM-004607,Green,Auto-approved,1.2
+CLM-004608,Amber,Human review,56.5
+CLM-004609,Green,Auto-approved,0.6
+CLM-004610,Amber,Human review,48.9
+CLM-004611,Green,Auto-approved,1.1
+CLM-004612,Amber,Human review,88.2
+CLM-004613,Green,Auto-approved,3.5
+CLM-004614,Green,Auto-approved,1.8
+CLM-004615,Amber,Human review,66.2
+CLM-004616,Amber,Human review,71.4
+CLM-004617,Amber,Human review,44.5
+CLM-004618,Green,Auto-approved,2.6
+CLM-004619,Green,Auto-approved,3.9
+CLM-004620,Green,Auto-approved,3.0
+CLM-004621,Green,Auto-approved,1.4
+CLM-004622,Green,Auto-approved,2.8
+CLM-004623,Green,Auto-approved,1.6
+CLM-004624,Green,Auto-approved,2.2
+CLM-004625,Amber,Human review,67.6
+CLM-004626,Amber,Human review,61.3
+CLM-004627,Green,Auto-approved,1.0
+CLM-004628,Amber,Human review,46.0
+CLM-004629,Green,Auto-approved,0.5
+CLM-004630,Green,Auto-approved,0.5
+CLM-004631,Green,Auto-approved,3.2
+CLM-004632,Amber,Human review,53.2
+CLM-004633,Amber,Human review,61.8
+CLM-004634,Amber,Human review,42.0
+CLM-004635,Amber,Human review,95.4
+CLM-004636,Red,SIU referral,221.1
+CLM-004637,Green,Auto-approved,2.9
+CLM-004638,Green,Auto-approved,1.2
+CLM-004639,Green,Auto-approved,2.4
+CLM-004640,Green,Auto-approved,0.8
+CLM-004641,Green,Auto-approved,4.0
+CLM-004642,Amber,Human review,47.1
+CLM-004643,Green,Auto-approved,2.6
+CLM-004644,Green,Auto-approved,1.8
+CLM-004645,Red,SIU referral,374.6
+CLM-004646,Green,Auto-approved,2.3
+CLM-004647,Green,Auto-approved,3.9
+CLM-004648,Amber,Human review,82.6
+CLM-004649,Green,Auto-approved,3.6
+CLM-004650,Green,Auto-approved,0.8
+CLM-004651,Amber,Human review,94.0
+CLM-004652,Green,Auto-approved,1.5
+CLM-004653,Amber,Human review,39.9
+CLM-004654,Green,Auto-approved,3.0
+CLM-004655,Amber,Human review,65.8
+CLM-004656,Amber,Human review,91.0
+CLM-004657,Green,Auto-approved,2.6
+CLM-004658,Amber,Human review,84.7
+CLM-004659,Green,Auto-approved,3.6
+CLM-004660,Amber,Human review,57.6
+CLM-004661,Amber,Human review,43.4
+CLM-004662,Amber,Human review,38.7
+CLM-004663,Green,Auto-approved,3.7
+CLM-004664,Green,Auto-approved,1.3
+CLM-004665,Amber,Human review,55.0
+CLM-004666,Red,SIU referral,313.3
+CLM-004667,Green,Auto-approved,3.3
+CLM-004668,Green,Auto-approved,1.5
+CLM-004669,Green,Auto-approved,3.7
+CLM-004670,Green,Auto-approved,1.4
+CLM-004671,Green,Auto-approved,1.1
+CLM-004672,Green,Auto-approved,1.8
+CLM-004673,Amber,Human review,72.7
+CLM-004674,Amber,Human review,61.0
+CLM-004675,Amber,Human review,65.2
+CLM-004676,Green,Auto-approved,3.0
+CLM-004677,Green,Auto-approved,3.7
+CLM-004678,Green,Auto-approved,2.2
+CLM-004679,Green,Auto-approved,2.8
+CLM-004680,Amber,Human review,55.1
+CLM-004681,Green,Auto-approved,2.8
+CLM-004682,Amber,Human review,48.0
+CLM-004683,Amber,Human review,52.0
+CLM-004684,Green,Auto-approved,3.8
+CLM-004685,Green,Auto-approved,1.5
+CLM-004686,Green,Auto-approved,3.3
+CLM-004687,Green,Auto-approved,1.6
+CLM-004688,Green,Auto-approved,3.6
+CLM-004689,Amber,Human review,49.7
+CLM-004690,Green,Auto-approved,4.0
+CLM-004691,Amber,Human review,92.6
+CLM-004692,Amber,Human review,82.4
+CLM-004693,Green,Auto-approved,0.9
+CLM-004694,Amber,Human review,49.9
+CLM-004695,Green,Auto-approved,2.5
+CLM-004696,Green,Auto-approved,3.9
+CLM-004697,Green,Auto-approved,3.3
+CLM-004698,Green,Auto-approved,2.4
+CLM-004699,Green,Auto-approved,1.3
+CLM-004700,Green,Auto-approved,1.9
+CLM-004701,Green,Auto-approved,3.4
+CLM-004702,Amber,Human review,26.6
+CLM-004703,Amber,Human review,90.8
+CLM-004704,Green,Auto-approved,3.4
+CLM-004705,Amber,Human review,88.3
+CLM-004706,Amber,Human review,60.2
+CLM-004707,Red,SIU referral,464.8
+CLM-004708,Green,Auto-approved,3.3
+CLM-004709,Green,Auto-approved,2.8
+CLM-004710,Green,Auto-approved,3.3
+CLM-004711,Amber,Human review,90.4
+CLM-004712,Green,Auto-approved,0.9
+CLM-004713,Green,Auto-approved,2.8
+CLM-004714,Green,Auto-approved,3.7
+CLM-004715,Green,Auto-approved,0.6
+CLM-004716,Amber,Human review,26.9
+CLM-004717,Amber,Human review,28.4
+CLM-004718,Green,Auto-approved,2.2
+CLM-004719,Amber,Human review,37.8
+CLM-004720,Amber,Human review,55.5
+CLM-004721,Amber,Human review,80.1
+CLM-004722,Green,Auto-approved,3.6
+CLM-004723,Amber,Human review,63.0
+CLM-004724,Green,Auto-approved,2.2
+CLM-004725,Green,Auto-approved,2.4
+CLM-004726,Amber,Human review,55.9
+CLM-004727,Green,Auto-approved,3.4
+CLM-004728,Green,Auto-approved,2.2
+CLM-004729,Amber,Human review,40.3
+CLM-004730,Green,Auto-approved,1.3
+CLM-004731,Green,Auto-approved,4.0
+CLM-004732,Green,Auto-approved,2.1
+CLM-004733,Amber,Human review,44.5
+CLM-004734,Green,Auto-approved,2.8
+CLM-004735,Green,Auto-approved,2.8
+CLM-004736,Red,SIU referral,153.5
+CLM-004737,Red,SIU referral,210.6
+CLM-004738,Green,Auto-approved,3.9
+CLM-004739,Amber,Human review,29.5
+CLM-004740,Amber,Human review,65.8
+CLM-004741,Amber,Human review,69.3
+CLM-004742,Amber,Human review,35.5
+CLM-004743,Green,Auto-approved,0.9
+CLM-004744,Amber,Human review,38.1
+CLM-004745,Green,Auto-approved,0.9
+CLM-004746,Green,Auto-approved,3.3
+CLM-004747,Amber,Human review,90.4
+CLM-004748,Green,Auto-approved,3.0
+CLM-004749,Amber,Human review,77.6
+CLM-004750,Green,Auto-approved,0.8
+CLM-004751,Green,Auto-approved,1.4
+CLM-004752,Green,Auto-approved,1.8
+CLM-004753,Amber,Human review,34.5
+CLM-004754,Green,Auto-approved,3.6
+CLM-004755,Green,Auto-approved,1.4
+CLM-004756,Green,Auto-approved,1.8
+CLM-004757,Green,Auto-approved,0.7
+CLM-004758,Green,Auto-approved,3.5
+CLM-004759,Amber,Human review,26.3
+CLM-004760,Green,Auto-approved,2.7
+CLM-004761,Red,SIU referral,354.5
+CLM-004762,Green,Auto-approved,2.1
+CLM-004763,Green,Auto-approved,1.3
+CLM-004764,Red,SIU referral,177.8
+CLM-004765,Red,SIU referral,204.1
+CLM-004766,Amber,Human review,55.1
+CLM-004767,Amber,Human review,86.3
+CLM-004768,Red,SIU referral,139.0
+CLM-004769,Green,Auto-approved,3.5
+CLM-004770,Green,Auto-approved,0.7
+CLM-004771,Green,Auto-approved,1.3
+CLM-004772,Amber,Human review,72.2
+CLM-004773,Amber,Human review,50.8
+CLM-004774,Green,Auto-approved,3.6
+CLM-004775,Green,Auto-approved,3.4
+CLM-004776,Green,Auto-approved,1.3
+CLM-004777,Amber,Human review,53.1
+CLM-004778,Green,Auto-approved,3.8
+CLM-004779,Green,Auto-approved,2.9
+CLM-004780,Amber,Human review,59.2
+CLM-004781,Green,Auto-approved,3.9
+CLM-004782,Green,Auto-approved,2.6
+CLM-004783,Amber,Human review,91.5
+CLM-004784,Green,Auto-approved,1.4
+CLM-004785,Amber,Human review,46.9
+CLM-004786,Amber,Human review,34.9
+CLM-004787,Amber,Human review,49.0
+CLM-004788,Amber,Human review,37.1
+CLM-004789,Green,Auto-approved,3.7
+CLM-004790,Green,Auto-approved,2.9
+CLM-004791,Green,Auto-approved,1.8
+CLM-004792,Amber,Human review,92.7
+CLM-004793,Green,Auto-approved,3.4
+CLM-004794,Green,Auto-approved,3.2
+CLM-004795,Green,Auto-approved,1.6
+CLM-004796,Green,Auto-approved,0.7
+CLM-004797,Green,Auto-approved,3.9
+CLM-004798,Amber,Human review,57.3
+CLM-004799,Amber,Human review,95.0
+CLM-004800,Amber,Human review,57.3
+CLM-004801,Green,Auto-approved,3.2
+CLM-004802,Amber,Human review,64.1
+CLM-004803,Amber,Human review,40.6
+CLM-004804,Green,Auto-approved,3.4
+CLM-004805,Green,Auto-approved,2.1
+CLM-004806,Red,SIU referral,194.9
+CLM-004807,Red,SIU referral,469.9
+CLM-004808,Green,Auto-approved,3.3
+CLM-004809,Amber,Human review,31.0
+CLM-004810,Green,Auto-approved,2.4
+CLM-004811,Red,SIU referral,430.2
+CLM-004812,Green,Auto-approved,2.7
+CLM-004813,Green,Auto-approved,1.7
+CLM-004814,Green,Auto-approved,3.9
+CLM-004815,Green,Auto-approved,1.9
+CLM-004816,Red,SIU referral,186.9
+CLM-004817,Green,Auto-approved,1.0
+CLM-004818,Green,Auto-approved,1.8
+CLM-004819,Green,Auto-approved,2.5
+CLM-004820,Green,Auto-approved,2.5
+CLM-004821,Amber,Human review,89.5
+CLM-004822,Green,Auto-approved,0.6
+CLM-004823,Amber,Human review,84.8
+CLM-004824,Amber,Human review,49.1
+CLM-004825,Amber,Human review,94.8
+CLM-004826,Amber,Human review,27.4
+CLM-004827,Green,Auto-approved,2.3
+CLM-004828,Green,Auto-approved,3.2
+CLM-004829,Amber,Human review,87.7
+CLM-004830,Green,Auto-approved,2.7
+CLM-004831,Amber,Human review,93.4
+CLM-004832,Green,Auto-approved,3.1
+CLM-004833,Green,Auto-approved,3.5
+CLM-004834,Green,Auto-approved,1.1
+CLM-004835,Green,Auto-approved,0.7
+CLM-004836,Green,Auto-approved,1.7
+CLM-004837,Green,Auto-approved,2.4
+CLM-004838,Green,Auto-approved,0.6
+CLM-004839,Amber,Human review,32.4
+CLM-004840,Green,Auto-approved,0.7
+CLM-004841,Red,SIU referral,120.7
+CLM-004842,Green,Auto-approved,1.0
+CLM-004843,Amber,Human review,44.6
+CLM-004844,Green,Auto-approved,2.1
+CLM-004845,Green,Auto-approved,3.5
+CLM-004846,Green,Auto-approved,3.9
+CLM-004847,Green,Auto-approved,3.0
+CLM-004848,Amber,Human review,89.3
+CLM-004849,Green,Auto-approved,0.9
+CLM-004850,Green,Auto-approved,1.1
+CLM-004851,Green,Auto-approved,0.6
+CLM-004852,Green,Auto-approved,2.6
+CLM-004853,Green,Auto-approved,1.7
+CLM-004854,Green,Auto-approved,2.5
+CLM-004855,Amber,Human review,44.2
+CLM-004856,Green,Auto-approved,1.6
+CLM-004857,Green,Auto-approved,2.9
+CLM-004858,Red,SIU referral,226.1
+CLM-004859,Amber,Human review,74.8
+CLM-004860,Green,Auto-approved,1.8
+CLM-004861,Green,Auto-approved,2.0
+CLM-004862,Green,Auto-approved,1.5
+CLM-004863,Amber,Human review,34.1
+CLM-004864,Green,Auto-approved,2.0
+CLM-004865,Green,Auto-approved,1.6
+CLM-004866,Amber,Human review,53.8
+CLM-004867,Green,Auto-approved,3.7
+CLM-004868,Amber,Human review,77.0
+CLM-004869,Green,Auto-approved,2.7
+CLM-004870,Amber,Human review,76.6
+CLM-004871,Green,Auto-approved,1.3
+CLM-004872,Amber,Human review,46.8
+CLM-004873,Green,Auto-approved,2.8
+CLM-004874,Amber,Human review,59.5
+CLM-004875,Amber,Human review,26.7
+CLM-004876,Amber,Human review,62.0
+CLM-004877,Green,Auto-approved,1.1
+CLM-004878,Amber,Human review,91.4
+CLM-004879,Amber,Human review,71.9
+CLM-004880,Amber,Human review,63.3
+CLM-004881,Amber,Human review,58.0
+CLM-004882,Amber,Human review,81.4
+CLM-004883,Amber,Human review,40.8
+CLM-004884,Green,Auto-approved,2.2
+CLM-004885,Green,Auto-approved,1.2
+CLM-004886,Green,Auto-approved,2.5
+CLM-004887,Amber,Human review,50.6
+CLM-004888,Green,Auto-approved,1.9
+CLM-004889,Amber,Human review,73.7
+CLM-004890,Amber,Human review,79.7
+CLM-004891,Green,Auto-approved,0.8
+CLM-004892,Amber,Human review,38.3
+CLM-004893,Green,Auto-approved,2.2
+CLM-004894,Amber,Human review,60.8
+CLM-004895,Green,Auto-approved,2.0
+CLM-004896,Green,Auto-approved,2.3
+CLM-004897,Amber,Human review,68.8
+CLM-004898,Green,Auto-approved,1.0
+CLM-004899,Amber,Human review,84.6
+CLM-004900,Green,Auto-approved,2.9
+CLM-004901,Amber,Human review,40.8
+CLM-004902,Green,Auto-approved,1.2
+CLM-004903,Green,Auto-approved,3.2
+CLM-004904,Green,Auto-approved,1.5
+CLM-004905,Green,Auto-approved,3.9
+CLM-004906,Amber,Human review,24.1
+CLM-004907,Green,Auto-approved,2.1
+CLM-004908,Amber,Human review,40.3
+CLM-004909,Green,Auto-approved,2.6
+CLM-004910,Red,SIU referral,205.5
+CLM-004911,Amber,Human review,35.2
+CLM-004912,Amber,Human review,94.0
+CLM-004913,Green,Auto-approved,2.9
+CLM-004914,Amber,Human review,68.4
+CLM-004915,Green,Auto-approved,1.4
+CLM-004916,Amber,Human review,58.1
+CLM-004917,Green,Auto-approved,2.4
+CLM-004918,Green,Auto-approved,3.0
+CLM-004919,Amber,Human review,60.1
+CLM-004920,Amber,Human review,90.9
+CLM-004921,Green,Auto-approved,2.4
+CLM-004922,Green,Auto-approved,2.2
+CLM-004923,Green,Auto-approved,0.9
+CLM-004924,Amber,Human review,93.7
+CLM-004925,Green,Auto-approved,3.1
+CLM-004926,Green,Auto-approved,0.7
+CLM-004927,Amber,Human review,74.2
+CLM-004928,Green,Auto-approved,0.8
+CLM-004929,Amber,Human review,35.4
+CLM-004930,Amber,Human review,60.4
+CLM-004931,Green,Auto-approved,2.3
+CLM-004932,Green,Auto-approved,1.8
+CLM-004933,Amber,Human review,84.8
+CLM-004934,Amber,Human review,73.2
+CLM-004935,Amber,Human review,54.0
+CLM-004936,Red,SIU referral,275.8
+CLM-004937,Amber,Human review,78.1
+CLM-004938,Green,Auto-approved,3.2
+CLM-004939,Green,Auto-approved,2.0
+CLM-004940,Green,Auto-approved,1.5
+CLM-004941,Green,Auto-approved,2.7
+CLM-004942,Green,Auto-approved,2.6
+CLM-004943,Amber,Human review,41.9
+CLM-004944,Amber,Human review,79.1
+CLM-004945,Red,SIU referral,447.2
+CLM-004946,Amber,Human review,37.4
+CLM-004947,Amber,Human review,59.6
+CLM-004948,Amber,Human review,84.9
+CLM-004949,Green,Auto-approved,0.9
+CLM-004950,Amber,Human review,25.1
+CLM-004951,Green,Auto-approved,2.8
+CLM-004952,Green,Auto-approved,2.5
+CLM-004953,Green,Auto-approved,1.4
+CLM-004954,Amber,Human review,29.8
+CLM-004955,Amber,Human review,26.1
+CLM-004956,Green,Auto-approved,4.0
+CLM-004957,Amber,Human review,60.7
+CLM-004958,Green,Auto-approved,3.8
+CLM-004959,Green,Auto-approved,1.9
+CLM-004960,Green,Auto-approved,2.8
+CLM-004961,Green,Auto-approved,2.8
+CLM-004962,Amber,Human review,67.7
+CLM-004963,Green,Auto-approved,2.2
+CLM-004964,Amber,Human review,80.0
+CLM-004965,Amber,Human review,89.3
+CLM-004966,Amber,Human review,37.5
+CLM-004967,Green,Auto-approved,2.9
+CLM-004968,Amber,Human review,82.8
+CLM-004969,Green,Auto-approved,1.3
+CLM-004970,Green,Auto-approved,1.6
+CLM-004971,Amber,Human review,88.9
+CLM-004972,Amber,Human review,72.6
+CLM-004973,Green,Auto-approved,2.1
+CLM-004974,Green,Auto-approved,1.7
+CLM-004975,Green,Auto-approved,2.0
+CLM-004976,Green,Auto-approved,2.4
+CLM-004977,Green,Auto-approved,3.2
+CLM-004978,Amber,Human review,85.7
+CLM-004979,Green,Auto-approved,3.6
+CLM-004980,Amber,Human review,32.0
+CLM-004981,Amber,Human review,28.2
+CLM-004982,Red,SIU referral,430.6
+CLM-004983,Amber,Human review,95.4
+CLM-004984,Green,Auto-approved,0.7
+CLM-004985,Amber,Human review,48.9
+CLM-004986,Red,SIU referral,392.9
+CLM-004987,Green,Auto-approved,3.0
+CLM-004988,Amber,Human review,30.4
+CLM-004989,Amber,Human review,88.0
+CLM-004990,Green,Auto-approved,1.2
+CLM-004991,Red,SIU referral,405.8
+CLM-004992,Green,Auto-approved,2.6
+CLM-004993,Green,Auto-approved,3.7
+CLM-004994,Red,SIU referral,98.7
+CLM-004995,Amber,Human review,40.1
+CLM-004996,Green,Auto-approved,2.3
+CLM-004997,Amber,Human review,70.4
+CLM-004998,Green,Auto-approved,2.4
+CLM-004999,Red,SIU referral,466.7
+CLM-005000,Green,Auto-approved,2.7
+CLM-005001,Green,Auto-approved,2.7
+CLM-005002,Amber,Human review,26.4
+CLM-005003,Amber,Human review,79.8
+CLM-005004,Amber,Human review,60.4
+CLM-005005,Green,Auto-approved,3.5
+CLM-005006,Amber,Human review,90.9
+CLM-005007,Green,Auto-approved,1.9
+CLM-005008,Amber,Human review,58.8
+CLM-005009,Green,Auto-approved,2.8
+CLM-005010,Amber,Human review,92.5
+CLM-005011,Green,Auto-approved,3.4
+CLM-005012,Green,Auto-approved,1.1
+CLM-005013,Green,Auto-approved,1.2
+CLM-005014,Green,Auto-approved,1.7
+CLM-005015,Green,Auto-approved,2.4
+CLM-005016,Red,SIU referral,415.1
+CLM-005017,Amber,Human review,31.1
+CLM-005018,Green,Auto-approved,3.3
+CLM-005019,Red,SIU referral,333.7
+CLM-005020,Amber,Human review,52.8
+CLM-005021,Green,Auto-approved,3.7
+CLM-005022,Red,SIU referral,293.7
+CLM-005023,Green,Auto-approved,1.8
+CLM-005024,Red,SIU referral,360.3
+CLM-005025,Green,Auto-approved,1.6
+CLM-005026,Green,Auto-approved,0.6
+CLM-005027,Green,Auto-approved,3.6
+CLM-005028,Green,Auto-approved,3.5
+CLM-005029,Green,Auto-approved,2.2
+CLM-005030,Green,Auto-approved,2.1
+CLM-005031,Amber,Human review,95.9
+CLM-005032,Amber,Human review,87.1
+CLM-005033,Green,Auto-approved,2.9
+CLM-005034,Red,SIU referral,321.5
+CLM-005035,Green,Auto-approved,3.5
+CLM-005036,Red,SIU referral,214.4
+CLM-005037,Amber,Human review,54.5
+CLM-005038,Green,Auto-approved,1.2
+CLM-005039,Amber,Human review,58.4
+CLM-005040,Green,Auto-approved,0.5
+CLM-005041,Green,Auto-approved,3.4
+CLM-005042,Green,Auto-approved,1.8
+CLM-005043,Amber,Human review,45.1
+CLM-005044,Amber,Human review,54.4
+CLM-005045,Red,SIU referral,143.1
+CLM-005046,Green,Auto-approved,0.9
+CLM-005047,Green,Auto-approved,1.8
+CLM-005048,Amber,Human review,89.8
+CLM-005049,Green,Auto-approved,3.0
+CLM-005050,Green,Auto-approved,3.6
+CLM-005051,Green,Auto-approved,3.1
+CLM-005052,Green,Auto-approved,2.2
+CLM-005053,Green,Auto-approved,3.8
+CLM-005054,Amber,Human review,41.8
+CLM-005055,Green,Auto-approved,2.3
+CLM-005056,Amber,Human review,36.1
+CLM-005057,Green,Auto-approved,0.6
+CLM-005058,Amber,Human review,86.0
+CLM-005059,Green,Auto-approved,1.2
+CLM-005060,Amber,Human review,40.0
+CLM-005061,Green,Auto-approved,1.1
+CLM-005062,Amber,Human review,84.5
+CLM-005063,Amber,Human review,87.6
+CLM-005064,Green,Auto-approved,1.8
+CLM-005065,Amber,Human review,51.7
+CLM-005066,Red,SIU referral,254.8
+CLM-005067,Green,Auto-approved,3.7
+CLM-005068,Green,Auto-approved,2.6
+CLM-005069,Red,SIU referral,394.6
+CLM-005070,Green,Auto-approved,2.5
+CLM-005071,Green,Auto-approved,3.4
+CLM-005072,Amber,Human review,36.3
+CLM-005073,Amber,Human review,88.3
+CLM-005074,Amber,Human review,81.5
+CLM-005075,Green,Auto-approved,3.1
+CLM-005076,Red,SIU referral,170.0
+CLM-005077,Red,SIU referral,279.3
+CLM-005078,Red,SIU referral,197.7
+CLM-005079,Amber,Human review,81.0
+CLM-005080,Red,SIU referral,400.1
+CLM-005081,Green,Auto-approved,2.4
+CLM-005082,Amber,Human review,49.4
+CLM-005083,Red,SIU referral,243.5
+CLM-005084,Green,Auto-approved,0.5
+CLM-005085,Amber,Human review,32.3
+CLM-005086,Amber,Human review,29.4
+CLM-005087,Red,SIU referral,284.4
+CLM-005088,Red,SIU referral,296.2
+CLM-005089,Green,Auto-approved,2.0
+CLM-005090,Green,Auto-approved,0.7
+CLM-005091,Green,Auto-approved,2.9
+CLM-005092,Green,Auto-approved,0.8
+CLM-005093,Green,Auto-approved,0.9
+CLM-005094,Green,Auto-approved,3.0
+CLM-005095,Green,Auto-approved,2.8
+CLM-005096,Amber,Human review,91.8
+CLM-005097,Amber,Human review,51.6
+CLM-005098,Green,Auto-approved,1.1
+CLM-005099,Green,Auto-approved,1.9
+CLM-005100,Green,Auto-approved,1.4
+CLM-005101,Green,Auto-approved,2.5
+CLM-005102,Amber,Human review,43.3
+CLM-005103,Green,Auto-approved,0.9
+CLM-005104,Amber,Human review,30.3
+CLM-005105,Amber,Human review,44.4
+CLM-005106,Amber,Human review,91.1
+CLM-005107,Green,Auto-approved,1.8
+CLM-005108,Green,Auto-approved,2.9
+CLM-005109,Green,Auto-approved,3.5
+CLM-005110,Green,Auto-approved,2.8
+CLM-005111,Green,Auto-approved,1.7
+CLM-005112,Amber,Human review,46.7
+CLM-005113,Green,Auto-approved,4.0
+CLM-005114,Amber,Human review,72.0
+CLM-005115,Green,Auto-approved,2.1
+CLM-005116,Green,Auto-approved,1.8
+CLM-005117,Amber,Human review,87.8
+CLM-005118,Green,Auto-approved,1.8
+CLM-005119,Green,Auto-approved,3.2
+CLM-005120,Green,Auto-approved,3.6
+CLM-005121,Green,Auto-approved,3.8
+CLM-005122,Green,Auto-approved,3.0
+CLM-005123,Amber,Human review,26.3
+CLM-005124,Green,Auto-approved,1.1
+CLM-005125,Green,Auto-approved,1.3
+CLM-005126,Green,Auto-approved,3.7
+CLM-005127,Green,Auto-approved,2.2
+CLM-005128,Amber,Human review,85.7
+CLM-005129,Red,SIU referral,452.9
+CLM-005130,Amber,Human review,90.9
+CLM-005131,Red,SIU referral,345.6
+CLM-005132,Green,Auto-approved,3.3
+CLM-005133,Green,Auto-approved,2.4
+CLM-005134,Green,Auto-approved,0.9
+CLM-005135,Green,Auto-approved,2.3
+CLM-005136,Red,SIU referral,214.7
+CLM-005137,Amber,Human review,39.0
+CLM-005138,Red,SIU referral,297.5
+CLM-005139,Amber,Human review,87.0
+CLM-005140,Amber,Human review,76.9
+CLM-005141,Amber,Human review,30.4
+CLM-005142,Amber,Human review,57.8
+CLM-005143,Amber,Human review,74.1
+CLM-005144,Red,SIU referral,208.5
+CLM-005145,Green,Auto-approved,2.9
+CLM-005146,Green,Auto-approved,1.6
+CLM-005147,Amber,Human review,35.8
+CLM-005148,Red,SIU referral,220.6
+CLM-005149,Green,Auto-approved,1.0
+CLM-005150,Green,Auto-approved,1.0
+CLM-005151,Green,Auto-approved,0.9
+CLM-005152,Amber,Human review,29.8
+CLM-005153,Green,Auto-approved,2.5
+CLM-005154,Amber,Human review,50.2
+CLM-005155,Amber,Human review,62.7
+CLM-005156,Green,Auto-approved,2.3
+CLM-005157,Green,Auto-approved,3.0
+CLM-005158,Amber,Human review,70.4
+CLM-005159,Green,Auto-approved,2.7
+CLM-005160,Red,SIU referral,366.9
+CLM-005161,Green,Auto-approved,3.1
+CLM-005162,Amber,Human review,71.4
+CLM-005163,Green,Auto-approved,3.6
+CLM-005164,Amber,Human review,38.5
+CLM-005165,Green,Auto-approved,3.1
+CLM-005166,Amber,Human review,29.5
+CLM-005167,Green,Auto-approved,3.7
+CLM-005168,Green,Auto-approved,2.6
+CLM-005169,Amber,Human review,81.9
+CLM-005170,Amber,Human review,69.5
+CLM-005171,Red,SIU referral,119.3
+CLM-005172,Amber,Human review,33.7
+CLM-005173,Amber,Human review,79.7
+CLM-005174,Red,SIU referral,242.2
+CLM-005175,Green,Auto-approved,3.3
+CLM-005176,Amber,Human review,45.5
+CLM-005177,Green,Auto-approved,3.1
+CLM-005178,Green,Auto-approved,1.5
+CLM-005179,Amber,Human review,35.5
+CLM-005180,Green,Auto-approved,2.7
+CLM-005181,Amber,Human review,38.6
+CLM-005182,Amber,Human review,82.8
+CLM-005183,Red,SIU referral,331.6
+CLM-005184,Green,Auto-approved,1.2
+CLM-005185,Green,Auto-approved,1.2
+CLM-005186,Amber,Human review,28.4
+CLM-005187,Green,Auto-approved,3.0
+CLM-005188,Green,Auto-approved,3.6
+CLM-005189,Green,Auto-approved,2.0
+CLM-005190,Amber,Human review,51.0
+CLM-005191,Green,Auto-approved,3.2
+CLM-005192,Green,Auto-approved,1.8
+CLM-005193,Amber,Human review,69.3
+CLM-005194,Green,Auto-approved,2.9
+CLM-005195,Red,SIU referral,340.7
+CLM-005196,Green,Auto-approved,0.7
+CLM-005197,Green,Auto-approved,1.1
+CLM-005198,Green,Auto-approved,0.9
+CLM-005199,Green,Auto-approved,3.3
+CLM-005200,Green,Auto-approved,0.8

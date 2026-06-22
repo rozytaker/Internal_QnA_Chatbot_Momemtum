@@ -1,0 +1,1459 @@
+policy_id,market,product_type,channel,lapse_date,lapse_flag,reason
+POL-000004,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-000020,South Africa,Life,Tied Advisor,2024-10-30,1,Other
+POL-000025,Botswana,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-000032,South Africa,Funeral,Bancassurance,2024-12-23,1,Affordability
+POL-000034,South Africa,Investment,Tied Advisor,2025-07-28,1,Affordability
+POL-000040,South Africa,Investment,Direct Digital,2025-08-08,1,Dissatisfaction
+POL-000043,Namibia,Funeral,Independent Broker,2022-02-28,1,Affordability
+POL-000047,Namibia,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-000050,South Africa,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-000055,South Africa,Investment,Tied Advisor,2025-01-12,1,Affordability
+POL-000061,Namibia,Funeral,Bancassurance,2021-10-31,1,Non-payment
+POL-000067,Botswana,Life,Independent Broker,2025-09-19,1,Non-payment
+POL-000069,Lesotho,Funeral,Direct Digital,2023-04-26,1,Affordability
+POL-000074,South Africa,Life,Tied Advisor,2026-06-20,1,Switched provider
+POL-000075,Botswana,Life,Bancassurance,2026-05-07,1,Affordability
+POL-000078,South Africa,Investment,Bancassurance,2023-04-13,1,Affordability
+POL-000079,South Africa,Health,Tied Advisor,2022-09-17,1,Non-payment
+POL-000094,South Africa,Funeral,Independent Broker,2023-02-28,1,Switched provider
+POL-000095,South Africa,Health,Tied Advisor,2026-06-05,1,Non-payment
+POL-000096,Namibia,Life,Tied Advisor,2025-07-28,1,Switched provider
+POL-000110,Namibia,Funeral,Tied Advisor,2024-09-23,1,Affordability
+POL-000125,South Africa,Funeral,Tied Advisor,2024-07-19,1,Affordability
+POL-000129,South Africa,Health,Independent Broker,2025-10-04,1,Dissatisfaction
+POL-000130,South Africa,Life,Tied Advisor,2025-02-05,1,Dissatisfaction
+POL-000132,South Africa,Health,Bancassurance,2026-06-20,1,Affordability
+POL-000133,South Africa,Investment,Tied Advisor,2025-06-10,1,Non-payment
+POL-000134,South Africa,Funeral,Tied Advisor,2023-10-25,1,Dissatisfaction
+POL-000135,Lesotho,Health,Independent Broker,2026-06-20,1,Affordability
+POL-000136,South Africa,Funeral,Tied Advisor,2024-11-16,1,Affordability
+POL-000139,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000148,South Africa,Health,Tied Advisor,2024-11-05,1,Non-payment
+POL-000154,South Africa,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-000155,South Africa,Funeral,Bancassurance,2025-05-26,1,Switched provider
+POL-000156,Namibia,Funeral,Bancassurance,2022-04-28,1,Affordability
+POL-000160,South Africa,Funeral,Bancassurance,2023-02-21,1,Dissatisfaction
+POL-000162,Namibia,Life,Independent Broker,2023-08-21,1,Switched provider
+POL-000165,Lesotho,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000169,Namibia,Life,Tied Advisor,2023-05-30,1,Dissatisfaction
+POL-000170,South Africa,Health,Independent Broker,2024-06-06,1,Non-payment
+POL-000177,South Africa,Life,Tied Advisor,2026-02-24,1,Affordability
+POL-000178,South Africa,Funeral,Independent Broker,2025-06-18,1,Non-payment
+POL-000179,South Africa,Life,Independent Broker,2024-08-25,1,Affordability
+POL-000182,South Africa,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-000188,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-000196,Lesotho,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-000202,South Africa,Funeral,Tied Advisor,2024-06-22,1,Non-payment
+POL-000205,South Africa,Funeral,Bancassurance,2026-01-25,1,Non-payment
+POL-000211,Botswana,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-000212,South Africa,Life,Direct Digital,2025-10-09,1,Non-payment
+POL-000214,Namibia,Funeral,Tied Advisor,2022-02-19,1,Switched provider
+POL-000218,Lesotho,Funeral,Independent Broker,2025-03-16,1,Non-payment
+POL-000226,South Africa,Investment,Independent Broker,2023-07-24,1,Dissatisfaction
+POL-000232,Namibia,Life,Direct Digital,2023-12-22,1,Affordability
+POL-000233,South Africa,Life,Tied Advisor,2024-07-15,1,Switched provider
+POL-000234,South Africa,Health,Tied Advisor,2023-09-05,1,Affordability
+POL-000235,Namibia,Health,Direct Digital,2025-06-16,1,Non-payment
+POL-000239,South Africa,Investment,Tied Advisor,2023-12-04,1,Other
+POL-000240,Lesotho,Life,Tied Advisor,2025-08-14,1,Dissatisfaction
+POL-000242,South Africa,Life,Independent Broker,2022-07-29,1,Non-payment
+POL-000244,South Africa,Health,Bancassurance,2022-11-04,1,Non-payment
+POL-000245,South Africa,Life,Direct Digital,2023-11-29,1,Affordability
+POL-000250,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-000253,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000258,Namibia,Life,Direct Digital,2023-12-11,1,Non-payment
+POL-000260,Namibia,Life,Independent Broker,2026-06-20,1,Affordability
+POL-000263,Namibia,Funeral,Bancassurance,2024-11-22,1,Dissatisfaction
+POL-000269,South Africa,Funeral,Independent Broker,2022-09-06,1,Affordability
+POL-000270,Botswana,Funeral,Independent Broker,2025-05-24,1,Non-payment
+POL-000272,South Africa,Funeral,Tied Advisor,2024-12-31,1,Affordability
+POL-000273,South Africa,Life,Tied Advisor,2022-12-28,1,Dissatisfaction
+POL-000277,South Africa,Life,Bancassurance,2026-06-20,1,Affordability
+POL-000284,Lesotho,Funeral,Tied Advisor,2025-07-19,1,Non-payment
+POL-000285,Namibia,Health,Tied Advisor,2024-06-20,1,Switched provider
+POL-000286,Namibia,Health,Independent Broker,2026-06-20,1,Non-payment
+POL-000290,Botswana,Life,Independent Broker,2024-08-16,1,Non-payment
+POL-000293,South Africa,Funeral,Tied Advisor,2025-08-13,1,Switched provider
+POL-000295,South Africa,Funeral,Tied Advisor,2022-09-02,1,Other
+POL-000300,Botswana,Life,Independent Broker,2026-06-20,1,Affordability
+POL-000306,Botswana,Funeral,Tied Advisor,2025-09-26,1,Non-payment
+POL-000308,Lesotho,Funeral,Direct Digital,2022-09-14,1,Non-payment
+POL-000313,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-000316,South Africa,Investment,Independent Broker,2026-06-20,1,Non-payment
+POL-000326,South Africa,Life,Bancassurance,2023-06-29,1,Dissatisfaction
+POL-000331,Lesotho,Funeral,Bancassurance,2025-09-17,1,Switched provider
+POL-000337,South Africa,Health,Direct Digital,2026-01-04,1,Switched provider
+POL-000340,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-000350,Botswana,Funeral,Independent Broker,2023-09-14,1,Non-payment
+POL-000355,South Africa,Funeral,Independent Broker,2024-05-14,1,Other
+POL-000359,South Africa,Life,Bancassurance,2024-09-25,1,Non-payment
+POL-000361,South Africa,Life,Direct Digital,2025-06-20,1,Other
+POL-000363,South Africa,Life,Direct Digital,2023-12-26,1,Non-payment
+POL-000366,South Africa,Funeral,Independent Broker,2024-04-08,1,Non-payment
+POL-000376,Lesotho,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-000381,South Africa,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-000385,Namibia,Life,Tied Advisor,2023-05-28,1,Affordability
+POL-000386,Botswana,Life,Independent Broker,2024-12-02,1,Non-payment
+POL-000389,South Africa,Life,Bancassurance,2025-10-29,1,Dissatisfaction
+POL-000398,South Africa,Funeral,Tied Advisor,2024-07-14,1,Affordability
+POL-000412,South Africa,Funeral,Tied Advisor,2023-05-09,1,Non-payment
+POL-000421,South Africa,Health,Direct Digital,2024-01-03,1,Switched provider
+POL-000425,South Africa,Life,Independent Broker,2026-04-30,1,Non-payment
+POL-000428,South Africa,Funeral,Bancassurance,2023-03-16,1,Non-payment
+POL-000440,South Africa,Health,Tied Advisor,2026-01-15,1,Affordability
+POL-000443,Lesotho,Health,Tied Advisor,2026-06-17,1,Other
+POL-000444,Namibia,Funeral,Independent Broker,2024-06-23,1,Dissatisfaction
+POL-000454,Namibia,Health,Direct Digital,2023-08-14,1,Other
+POL-000455,South Africa,Investment,Independent Broker,2026-06-20,1,Switched provider
+POL-000458,South Africa,Funeral,Tied Advisor,2023-10-30,1,Dissatisfaction
+POL-000460,Botswana,Funeral,Direct Digital,2023-05-08,1,Affordability
+POL-000465,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000469,South Africa,Funeral,Tied Advisor,2025-02-18,1,Affordability
+POL-000472,South Africa,Funeral,Independent Broker,2025-02-10,1,Non-payment
+POL-000475,Lesotho,Funeral,Direct Digital,2026-02-19,1,Other
+POL-000484,South Africa,Health,Independent Broker,2026-06-20,1,Non-payment
+POL-000496,South Africa,Funeral,Tied Advisor,2025-10-29,1,Non-payment
+POL-000500,Lesotho,Life,Bancassurance,2025-02-24,1,Affordability
+POL-000520,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000531,South Africa,Funeral,Direct Digital,2024-08-15,1,Switched provider
+POL-000535,Lesotho,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-000539,Namibia,Health,Tied Advisor,2025-09-14,1,Dissatisfaction
+POL-000540,Botswana,Funeral,Independent Broker,2024-07-06,1,Non-payment
+POL-000541,South Africa,Life,Tied Advisor,2023-05-11,1,Non-payment
+POL-000548,Botswana,Investment,Tied Advisor,2024-07-10,1,Affordability
+POL-000553,Lesotho,Investment,Bancassurance,2022-11-23,1,Affordability
+POL-000557,South Africa,Life,Independent Broker,2023-12-16,1,Switched provider
+POL-000559,Lesotho,Funeral,Tied Advisor,2022-10-21,1,Dissatisfaction
+POL-000564,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-000570,South Africa,Health,Independent Broker,2026-02-07,1,Non-payment
+POL-000575,Namibia,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-000579,South Africa,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-000583,South Africa,Funeral,Tied Advisor,2024-03-24,1,Affordability
+POL-000586,South Africa,Funeral,Tied Advisor,2023-12-21,1,Affordability
+POL-000589,Namibia,Life,Bancassurance,2025-08-06,1,Affordability
+POL-000591,South Africa,Life,Bancassurance,2022-12-08,1,Affordability
+POL-000596,Lesotho,Funeral,Direct Digital,2023-04-15,1,Affordability
+POL-000604,Lesotho,Investment,Bancassurance,2026-06-20,1,Switched provider
+POL-000607,South Africa,Health,Tied Advisor,2024-09-04,1,Other
+POL-000609,South Africa,Funeral,Tied Advisor,2023-09-22,1,Dissatisfaction
+POL-000613,Botswana,Life,Bancassurance,2024-07-13,1,Dissatisfaction
+POL-000624,Lesotho,Life,Bancassurance,2026-06-20,1,Non-payment
+POL-000639,South Africa,Funeral,Tied Advisor,2026-05-01,1,Non-payment
+POL-000645,South Africa,Life,Bancassurance,2024-02-02,1,Switched provider
+POL-000649,Namibia,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-000651,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-000654,South Africa,Funeral,Direct Digital,2023-11-29,1,Dissatisfaction
+POL-000662,Namibia,Life,Tied Advisor,2024-12-12,1,Affordability
+POL-000670,South Africa,Health,Bancassurance,2024-08-28,1,Affordability
+POL-000674,South Africa,Life,Independent Broker,2024-06-25,1,Affordability
+POL-000683,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-000688,South Africa,Life,Bancassurance,2025-10-08,1,Affordability
+POL-000689,Namibia,Health,Independent Broker,2026-06-20,1,Switched provider
+POL-000702,South Africa,Investment,Bancassurance,2023-12-19,1,Non-payment
+POL-000717,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000721,South Africa,Life,Tied Advisor,2025-08-16,1,Dissatisfaction
+POL-000726,South Africa,Investment,Tied Advisor,2024-01-15,1,Dissatisfaction
+POL-000730,South Africa,Funeral,Tied Advisor,2023-05-15,1,Dissatisfaction
+POL-000737,South Africa,Investment,Bancassurance,2025-01-25,1,Affordability
+POL-000739,South Africa,Life,Direct Digital,2026-03-12,1,Affordability
+POL-000741,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-000742,South Africa,Funeral,Tied Advisor,2024-11-17,1,Dissatisfaction
+POL-000760,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000774,Namibia,Investment,Bancassurance,2024-05-02,1,Affordability
+POL-000779,South Africa,Life,Bancassurance,2023-06-04,1,Non-payment
+POL-000782,South Africa,Funeral,Independent Broker,2025-05-23,1,Affordability
+POL-000808,South Africa,Investment,Independent Broker,2025-06-29,1,Non-payment
+POL-000810,South Africa,Funeral,Independent Broker,2025-05-10,1,Non-payment
+POL-000812,South Africa,Funeral,Bancassurance,2022-12-05,1,Affordability
+POL-000815,South Africa,Investment,Direct Digital,2025-07-24,1,Other
+POL-000829,South Africa,Investment,Tied Advisor,2025-04-15,1,Non-payment
+POL-000831,Botswana,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-000832,Botswana,Life,Direct Digital,2025-03-25,1,Dissatisfaction
+POL-000833,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-000834,South Africa,Funeral,Independent Broker,2024-12-08,1,Affordability
+POL-000846,South Africa,Funeral,Direct Digital,2026-06-20,1,Non-payment
+POL-000853,Lesotho,Life,Tied Advisor,2024-01-29,1,Switched provider
+POL-000862,South Africa,Funeral,Direct Digital,2023-01-11,1,Switched provider
+POL-000871,South Africa,Life,Tied Advisor,2025-01-01,1,Affordability
+POL-000875,Lesotho,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-000880,Botswana,Life,Bancassurance,2026-06-20,1,Affordability
+POL-000890,Namibia,Funeral,Bancassurance,2025-09-06,1,Switched provider
+POL-000894,South Africa,Health,Tied Advisor,2024-04-18,1,Other
+POL-000895,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-000897,South Africa,Life,Independent Broker,2025-01-29,1,Dissatisfaction
+POL-000910,Botswana,Life,Direct Digital,2026-06-20,1,Affordability
+POL-000911,South Africa,Funeral,Bancassurance,2024-06-09,1,Dissatisfaction
+POL-000925,Namibia,Funeral,Direct Digital,2024-12-25,1,Affordability
+POL-000936,South Africa,Health,Tied Advisor,2025-11-16,1,Affordability
+POL-000941,South Africa,Funeral,Tied Advisor,2025-09-18,1,Non-payment
+POL-000944,Botswana,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-000946,South Africa,Funeral,Tied Advisor,2025-05-05,1,Affordability
+POL-000949,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-000950,South Africa,Health,Independent Broker,2023-02-07,1,Non-payment
+POL-000955,Namibia,Health,Tied Advisor,2023-06-22,1,Affordability
+POL-000956,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-000959,South Africa,Life,Tied Advisor,2026-03-13,1,Non-payment
+POL-000965,South Africa,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-000966,Botswana,Life,Bancassurance,2024-09-04,1,Affordability
+POL-000967,Botswana,Funeral,Independent Broker,2022-07-27,1,Switched provider
+POL-000970,South Africa,Investment,Independent Broker,2023-11-15,1,Non-payment
+POL-000971,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-000973,Namibia,Funeral,Direct Digital,2023-05-06,1,Affordability
+POL-000974,South Africa,Funeral,Direct Digital,2022-09-28,1,Dissatisfaction
+POL-000975,Botswana,Funeral,Tied Advisor,2025-10-02,1,Affordability
+POL-000988,South Africa,Health,Bancassurance,2024-08-19,1,Switched provider
+POL-000999,South Africa,Life,Independent Broker,2025-09-21,1,Dissatisfaction
+POL-001003,South Africa,Life,Tied Advisor,2023-04-11,1,Dissatisfaction
+POL-001014,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-001015,South Africa,Life,Tied Advisor,2023-05-27,1,Non-payment
+POL-001018,South Africa,Funeral,Tied Advisor,2022-12-30,1,Affordability
+POL-001023,South Africa,Funeral,Tied Advisor,2024-08-09,1,Non-payment
+POL-001025,South Africa,Investment,Direct Digital,2025-11-16,1,Affordability
+POL-001030,Botswana,Funeral,Independent Broker,2023-09-19,1,Affordability
+POL-001037,South Africa,Funeral,Tied Advisor,2024-05-02,1,Affordability
+POL-001043,Lesotho,Life,Bancassurance,2025-12-15,1,Dissatisfaction
+POL-001054,South Africa,Health,Independent Broker,2023-07-01,1,Affordability
+POL-001055,Lesotho,Life,Independent Broker,2025-06-27,1,Switched provider
+POL-001059,Lesotho,Funeral,Tied Advisor,2024-04-15,1,Non-payment
+POL-001063,South Africa,Investment,Tied Advisor,2024-08-23,1,Non-payment
+POL-001067,Lesotho,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-001075,South Africa,Life,Tied Advisor,2026-01-13,1,Non-payment
+POL-001077,Namibia,Life,Independent Broker,2025-04-26,1,Affordability
+POL-001080,Botswana,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-001085,Botswana,Health,Tied Advisor,2024-05-24,1,Affordability
+POL-001093,Lesotho,Health,Tied Advisor,2023-07-19,1,Non-payment
+POL-001097,Namibia,Funeral,Independent Broker,2026-02-20,1,Non-payment
+POL-001109,South Africa,Health,Bancassurance,2026-04-08,1,Affordability
+POL-001115,Lesotho,Health,Direct Digital,2024-08-01,1,Non-payment
+POL-001117,South Africa,Funeral,Tied Advisor,2024-02-06,1,Dissatisfaction
+POL-001125,South Africa,Investment,Independent Broker,2025-03-16,1,Affordability
+POL-001127,Botswana,Health,Tied Advisor,2024-12-14,1,Non-payment
+POL-001136,Lesotho,Life,Bancassurance,2026-04-19,1,Switched provider
+POL-001138,Botswana,Life,Bancassurance,2024-06-01,1,Switched provider
+POL-001141,South Africa,Life,Tied Advisor,2023-10-11,1,Affordability
+POL-001144,South Africa,Health,Tied Advisor,2026-03-19,1,Affordability
+POL-001151,Namibia,Life,Tied Advisor,2022-11-05,1,Affordability
+POL-001157,Namibia,Investment,Bancassurance,2024-09-10,1,Non-payment
+POL-001163,South Africa,Health,Bancassurance,2026-06-20,1,Switched provider
+POL-001174,South Africa,Life,Direct Digital,2024-05-23,1,Affordability
+POL-001176,Namibia,Funeral,Bancassurance,2025-11-26,1,Dissatisfaction
+POL-001178,Lesotho,Health,Tied Advisor,2025-08-08,1,Dissatisfaction
+POL-001186,South Africa,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-001189,Botswana,Health,Direct Digital,2025-12-18,1,Affordability
+POL-001192,South Africa,Funeral,Bancassurance,2023-09-21,1,Affordability
+POL-001194,Namibia,Funeral,Tied Advisor,2025-03-27,1,Non-payment
+POL-001201,Botswana,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-001206,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-001209,South Africa,Life,Bancassurance,2023-12-12,1,Other
+POL-001213,Namibia,Investment,Independent Broker,2022-10-12,1,Affordability
+POL-001214,Botswana,Funeral,Direct Digital,2023-05-13,1,Affordability
+POL-001221,Botswana,Health,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-001225,Botswana,Funeral,Direct Digital,2025-11-20,1,Other
+POL-001227,Lesotho,Life,Independent Broker,2025-10-14,1,Dissatisfaction
+POL-001228,South Africa,Funeral,Tied Advisor,2023-10-05,1,Dissatisfaction
+POL-001234,Namibia,Health,Independent Broker,2026-03-04,1,Affordability
+POL-001236,Namibia,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-001247,South Africa,Funeral,Tied Advisor,2026-02-12,1,Other
+POL-001252,South Africa,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-001259,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-001261,South Africa,Funeral,Independent Broker,2022-06-26,1,Switched provider
+POL-001262,Namibia,Life,Tied Advisor,2023-08-09,1,Affordability
+POL-001273,South Africa,Life,Tied Advisor,2022-03-13,1,Affordability
+POL-001275,South Africa,Health,Tied Advisor,2024-02-14,1,Dissatisfaction
+POL-001291,Botswana,Health,Bancassurance,2022-02-03,1,Non-payment
+POL-001292,Botswana,Health,Tied Advisor,2023-08-09,1,Affordability
+POL-001293,South Africa,Health,Independent Broker,2026-01-06,1,Non-payment
+POL-001304,Lesotho,Funeral,Independent Broker,2026-03-02,1,Non-payment
+POL-001323,Botswana,Funeral,Tied Advisor,2025-09-02,1,Non-payment
+POL-001338,South Africa,Funeral,Bancassurance,2026-05-19,1,Affordability
+POL-001340,South Africa,Funeral,Tied Advisor,2024-12-08,1,Other
+POL-001362,South Africa,Life,Tied Advisor,2024-09-17,1,Other
+POL-001374,South Africa,Life,Tied Advisor,2026-06-20,1,Switched provider
+POL-001380,South Africa,Health,Direct Digital,2024-11-15,1,Dissatisfaction
+POL-001381,South Africa,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-001393,South Africa,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-001408,Lesotho,Funeral,Bancassurance,2022-12-27,1,Non-payment
+POL-001409,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-001412,South Africa,Funeral,Direct Digital,2023-02-12,1,Non-payment
+POL-001423,Botswana,Funeral,Independent Broker,2025-02-13,1,Affordability
+POL-001424,South Africa,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-001428,Botswana,Health,Direct Digital,2023-06-13,1,Other
+POL-001437,South Africa,Life,Bancassurance,2026-06-20,1,Non-payment
+POL-001457,South Africa,Funeral,Independent Broker,2024-08-15,1,Affordability
+POL-001465,Botswana,Life,Independent Broker,2026-06-20,1,Other
+POL-001479,South Africa,Health,Tied Advisor,2023-10-03,1,Switched provider
+POL-001480,Lesotho,Life,Direct Digital,2021-11-24,1,Dissatisfaction
+POL-001503,Lesotho,Funeral,Tied Advisor,2026-01-30,1,Other
+POL-001507,Lesotho,Funeral,Tied Advisor,2024-08-17,1,Switched provider
+POL-001511,Botswana,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-001512,Botswana,Funeral,Tied Advisor,2023-05-08,1,Dissatisfaction
+POL-001520,Namibia,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-001542,South Africa,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-001548,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-001553,Botswana,Life,Independent Broker,2024-02-19,1,Non-payment
+POL-001554,South Africa,Life,Tied Advisor,2024-08-24,1,Switched provider
+POL-001555,South Africa,Health,Direct Digital,2024-06-14,1,Affordability
+POL-001576,South Africa,Life,Independent Broker,2026-05-20,1,Other
+POL-001586,Botswana,Health,Independent Broker,2025-02-05,1,Affordability
+POL-001588,South Africa,Health,Bancassurance,2024-03-13,1,Affordability
+POL-001608,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-001617,South Africa,Funeral,Tied Advisor,2025-08-11,1,Switched provider
+POL-001623,Botswana,Funeral,Tied Advisor,2023-04-12,1,Non-payment
+POL-001627,South Africa,Health,Tied Advisor,2024-05-25,1,Non-payment
+POL-001628,South Africa,Funeral,Tied Advisor,2026-05-07,1,Switched provider
+POL-001638,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-001646,Lesotho,Funeral,Bancassurance,2026-06-20,1,Other
+POL-001647,Botswana,Investment,Tied Advisor,2025-03-17,1,Affordability
+POL-001661,Botswana,Funeral,Tied Advisor,2025-08-23,1,Affordability
+POL-001677,Botswana,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-001695,South Africa,Life,Independent Broker,2023-03-28,1,Switched provider
+POL-001701,South Africa,Funeral,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-001707,South Africa,Life,Independent Broker,2026-01-10,1,Affordability
+POL-001709,South Africa,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-001710,Botswana,Health,Tied Advisor,2022-12-15,1,Affordability
+POL-001712,Botswana,Funeral,Direct Digital,2026-06-20,1,Non-payment
+POL-001721,South Africa,Funeral,Tied Advisor,2022-11-29,1,Dissatisfaction
+POL-001750,South Africa,Funeral,Tied Advisor,2023-06-24,1,Non-payment
+POL-001751,Botswana,Health,Independent Broker,2026-01-25,1,Switched provider
+POL-001755,Namibia,Funeral,Independent Broker,2025-05-28,1,Non-payment
+POL-001765,South Africa,Funeral,Direct Digital,2023-10-02,1,Switched provider
+POL-001779,Botswana,Health,Direct Digital,2026-06-20,1,Affordability
+POL-001787,South Africa,Investment,Tied Advisor,2023-11-17,1,Non-payment
+POL-001788,Namibia,Funeral,Independent Broker,2025-08-30,1,Dissatisfaction
+POL-001802,South Africa,Funeral,Tied Advisor,2024-04-21,1,Non-payment
+POL-001811,South Africa,Life,Bancassurance,2023-07-01,1,Non-payment
+POL-001819,South Africa,Life,Bancassurance,2023-06-12,1,Switched provider
+POL-001823,Namibia,Funeral,Bancassurance,2025-05-25,1,Affordability
+POL-001837,South Africa,Life,Tied Advisor,2024-10-11,1,Affordability
+POL-001848,Botswana,Life,Direct Digital,2026-06-20,1,Non-payment
+POL-001857,South Africa,Funeral,Direct Digital,2023-11-22,1,Switched provider
+POL-001866,South Africa,Health,Tied Advisor,2026-04-27,1,Other
+POL-001877,South Africa,Investment,Tied Advisor,2025-07-02,1,Switched provider
+POL-001883,Lesotho,Health,Independent Broker,2025-12-14,1,Dissatisfaction
+POL-001895,Lesotho,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-001905,South Africa,Life,Tied Advisor,2026-06-13,1,Non-payment
+POL-001913,South Africa,Health,Bancassurance,2024-05-07,1,Dissatisfaction
+POL-001917,South Africa,Life,Direct Digital,2026-04-03,1,Non-payment
+POL-001925,South Africa,Life,Tied Advisor,2024-08-20,1,Switched provider
+POL-001933,South Africa,Investment,Tied Advisor,2026-06-09,1,Other
+POL-001941,South Africa,Funeral,Tied Advisor,2024-01-11,1,Other
+POL-001942,Namibia,Investment,Tied Advisor,2026-04-21,1,Affordability
+POL-001943,Botswana,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-001947,Botswana,Life,Bancassurance,2023-05-25,1,Affordability
+POL-001951,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-001971,South Africa,Funeral,Tied Advisor,2024-01-10,1,Dissatisfaction
+POL-001977,Botswana,Funeral,Independent Broker,2025-08-26,1,Non-payment
+POL-001978,South Africa,Health,Bancassurance,2023-08-12,1,Non-payment
+POL-001979,South Africa,Funeral,Bancassurance,2024-02-02,1,Dissatisfaction
+POL-001993,Botswana,Health,Independent Broker,2024-11-19,1,Affordability
+POL-002007,Namibia,Investment,Bancassurance,2026-04-05,1,Other
+POL-002009,Lesotho,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-002012,South Africa,Life,Bancassurance,2026-06-20,1,Non-payment
+POL-002014,Botswana,Funeral,Bancassurance,2026-06-20,1,Switched provider
+POL-002021,Namibia,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-002022,South Africa,Life,Tied Advisor,2026-04-26,1,Affordability
+POL-002024,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-002029,South Africa,Life,Tied Advisor,2026-01-20,1,Dissatisfaction
+POL-002031,South Africa,Investment,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-002049,Botswana,Health,Bancassurance,2026-02-25,1,Switched provider
+POL-002051,Namibia,Life,Tied Advisor,2022-05-30,1,Affordability
+POL-002061,South Africa,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-002063,South Africa,Life,Independent Broker,2023-05-15,1,Affordability
+POL-002071,Botswana,Funeral,Independent Broker,2025-12-28,1,Non-payment
+POL-002072,South Africa,Investment,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-002082,Lesotho,Funeral,Tied Advisor,2025-06-29,1,Switched provider
+POL-002083,Botswana,Life,Bancassurance,2024-02-01,1,Non-payment
+POL-002086,South Africa,Life,Direct Digital,2023-11-22,1,Affordability
+POL-002094,Botswana,Life,Direct Digital,2023-04-02,1,Dissatisfaction
+POL-002099,South Africa,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-002100,South Africa,Life,Independent Broker,2026-06-20,1,Other
+POL-002103,South Africa,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-002105,Botswana,Life,Tied Advisor,2023-05-17,1,Non-payment
+POL-002108,South Africa,Life,Tied Advisor,2023-06-29,1,Switched provider
+POL-002112,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-002113,South Africa,Life,Tied Advisor,2023-06-05,1,Affordability
+POL-002117,South Africa,Investment,Independent Broker,2025-02-08,1,Dissatisfaction
+POL-002119,South Africa,Funeral,Tied Advisor,2023-11-14,1,Dissatisfaction
+POL-002120,South Africa,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-002123,South Africa,Funeral,Tied Advisor,2023-08-18,1,Affordability
+POL-002127,Lesotho,Life,Independent Broker,2024-02-08,1,Non-payment
+POL-002150,South Africa,Funeral,Direct Digital,2023-08-31,1,Affordability
+POL-002164,Botswana,Life,Tied Advisor,2025-05-20,1,Dissatisfaction
+POL-002165,South Africa,Funeral,Bancassurance,2023-03-28,1,Affordability
+POL-002176,South Africa,Funeral,Tied Advisor,2024-05-04,1,Non-payment
+POL-002180,South Africa,Health,Direct Digital,2022-09-02,1,Non-payment
+POL-002188,Namibia,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-002198,South Africa,Funeral,Direct Digital,2023-02-08,1,Affordability
+POL-002222,South Africa,Funeral,Tied Advisor,2024-11-12,1,Non-payment
+POL-002224,South Africa,Health,Independent Broker,2025-04-21,1,Non-payment
+POL-002240,South Africa,Life,Tied Advisor,2025-01-18,1,Affordability
+POL-002243,South Africa,Health,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-002248,South Africa,Life,Independent Broker,2023-05-25,1,Other
+POL-002256,South Africa,Funeral,Tied Advisor,2025-11-12,1,Other
+POL-002264,Lesotho,Life,Bancassurance,2026-06-20,1,Switched provider
+POL-002267,Botswana,Funeral,Tied Advisor,2024-06-04,1,Dissatisfaction
+POL-002270,South Africa,Health,Tied Advisor,2023-10-05,1,Switched provider
+POL-002273,South Africa,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-002291,South Africa,Health,Bancassurance,2026-06-20,1,Non-payment
+POL-002292,South Africa,Health,Bancassurance,2026-06-20,1,Affordability
+POL-002296,Lesotho,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-002304,South Africa,Investment,Tied Advisor,2025-04-23,1,Non-payment
+POL-002305,Namibia,Health,Tied Advisor,2023-12-23,1,Switched provider
+POL-002317,Lesotho,Life,Independent Broker,2026-03-20,1,Other
+POL-002326,Lesotho,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-002329,Lesotho,Health,Tied Advisor,2024-11-12,1,Switched provider
+POL-002330,Botswana,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-002344,South Africa,Funeral,Independent Broker,2025-06-26,1,Affordability
+POL-002364,South Africa,Investment,Bancassurance,2026-06-20,1,Non-payment
+POL-002365,South Africa,Life,Tied Advisor,2024-10-26,1,Other
+POL-002374,South Africa,Life,Independent Broker,2022-11-09,1,Other
+POL-002377,South Africa,Health,Tied Advisor,2023-12-09,1,Non-payment
+POL-002392,South Africa,Life,Bancassurance,2026-05-28,1,Non-payment
+POL-002397,Namibia,Funeral,Tied Advisor,2023-06-18,1,Non-payment
+POL-002408,Botswana,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-002420,Lesotho,Health,Tied Advisor,2024-08-23,1,Switched provider
+POL-002422,Botswana,Health,Tied Advisor,2023-01-04,1,Affordability
+POL-002423,South Africa,Funeral,Independent Broker,2022-08-08,1,Affordability
+POL-002453,South Africa,Life,Independent Broker,2024-02-03,1,Affordability
+POL-002462,South Africa,Life,Tied Advisor,2026-06-20,1,Switched provider
+POL-002468,South Africa,Funeral,Direct Digital,2023-11-29,1,Dissatisfaction
+POL-002481,Namibia,Funeral,Tied Advisor,2024-06-14,1,Affordability
+POL-002483,South Africa,Health,Independent Broker,2024-08-02,1,Dissatisfaction
+POL-002488,South Africa,Life,Bancassurance,2026-05-15,1,Non-payment
+POL-002490,South Africa,Life,Tied Advisor,2025-05-01,1,Non-payment
+POL-002491,South Africa,Funeral,Direct Digital,2025-01-13,1,Non-payment
+POL-002493,Namibia,Funeral,Tied Advisor,2026-03-02,1,Dissatisfaction
+POL-002501,Botswana,Life,Direct Digital,2023-12-28,1,Affordability
+POL-002510,South Africa,Health,Independent Broker,2023-10-17,1,Other
+POL-002517,South Africa,Funeral,Bancassurance,2024-10-08,1,Switched provider
+POL-002518,South Africa,Life,Tied Advisor,2025-02-21,1,Affordability
+POL-002519,South Africa,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-002520,Lesotho,Investment,Bancassurance,2026-06-20,1,Non-payment
+POL-002526,South Africa,Investment,Independent Broker,2024-01-06,1,Non-payment
+POL-002528,South Africa,Investment,Bancassurance,2022-12-15,1,Affordability
+POL-002535,South Africa,Funeral,Tied Advisor,2023-03-10,1,Non-payment
+POL-002541,Lesotho,Investment,Tied Advisor,2024-10-25,1,Dissatisfaction
+POL-002546,Namibia,Life,Direct Digital,2025-05-20,1,Affordability
+POL-002575,Botswana,Life,Tied Advisor,2026-03-27,1,Non-payment
+POL-002587,Botswana,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-002599,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-002616,Namibia,Funeral,Tied Advisor,2025-08-03,1,Other
+POL-002621,South Africa,Funeral,Tied Advisor,2024-01-24,1,Dissatisfaction
+POL-002624,Namibia,Funeral,Direct Digital,2026-01-09,1,Dissatisfaction
+POL-002626,Namibia,Health,Tied Advisor,2024-11-12,1,Non-payment
+POL-002628,South Africa,Funeral,Independent Broker,2022-12-27,1,Affordability
+POL-002642,Botswana,Funeral,Tied Advisor,2025-09-25,1,Switched provider
+POL-002649,Botswana,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-002650,Lesotho,Funeral,Tied Advisor,2024-10-21,1,Dissatisfaction
+POL-002651,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-002657,Namibia,Funeral,Tied Advisor,2024-02-20,1,Dissatisfaction
+POL-002664,Botswana,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-002666,South Africa,Funeral,Independent Broker,2025-05-16,1,Non-payment
+POL-002668,South Africa,Health,Independent Broker,2026-02-12,1,Other
+POL-002671,South Africa,Health,Tied Advisor,2024-06-11,1,Other
+POL-002693,Lesotho,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-002694,South Africa,Health,Bancassurance,2024-01-13,1,Switched provider
+POL-002695,Botswana,Life,Bancassurance,2026-02-19,1,Affordability
+POL-002698,Namibia,Funeral,Bancassurance,2023-04-04,1,Non-payment
+POL-002704,Namibia,Health,Independent Broker,2026-06-20,1,Switched provider
+POL-002715,Botswana,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-002716,South Africa,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-002730,Namibia,Investment,Tied Advisor,2025-04-08,1,Non-payment
+POL-002732,South Africa,Health,Independent Broker,2026-06-20,1,Non-payment
+POL-002735,Lesotho,Investment,Tied Advisor,2026-06-20,1,Switched provider
+POL-002738,Lesotho,Life,Tied Advisor,2024-12-17,1,Dissatisfaction
+POL-002739,South Africa,Funeral,Independent Broker,2023-09-04,1,Dissatisfaction
+POL-002740,Botswana,Investment,Direct Digital,2026-06-20,1,Affordability
+POL-002746,Namibia,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-002751,South Africa,Funeral,Direct Digital,2025-06-29,1,Non-payment
+POL-002764,South Africa,Funeral,Direct Digital,2023-09-11,1,Switched provider
+POL-002765,Lesotho,Investment,Independent Broker,2025-01-29,1,Dissatisfaction
+POL-002771,Namibia,Investment,Direct Digital,2023-06-05,1,Non-payment
+POL-002774,South Africa,Life,Independent Broker,2024-08-31,1,Switched provider
+POL-002777,South Africa,Funeral,Bancassurance,2024-01-05,1,Switched provider
+POL-002790,South Africa,Life,Bancassurance,2026-04-06,1,Non-payment
+POL-002795,Lesotho,Life,Bancassurance,2025-06-16,1,Affordability
+POL-002802,Lesotho,Health,Independent Broker,2023-07-15,1,Non-payment
+POL-002808,Botswana,Life,Bancassurance,2024-11-10,1,Affordability
+POL-002811,South Africa,Health,Direct Digital,2026-03-05,1,Non-payment
+POL-002814,Lesotho,Investment,Tied Advisor,2023-10-02,1,Switched provider
+POL-002822,South Africa,Life,Direct Digital,2025-04-09,1,Other
+POL-002823,South Africa,Funeral,Bancassurance,2022-05-24,1,Dissatisfaction
+POL-002824,Namibia,Life,Tied Advisor,2025-12-02,1,Affordability
+POL-002837,Lesotho,Funeral,Tied Advisor,2025-05-24,1,Affordability
+POL-002839,South Africa,Life,Direct Digital,2024-06-11,1,Affordability
+POL-002846,South Africa,Funeral,Tied Advisor,2025-08-01,1,Affordability
+POL-002853,Namibia,Funeral,Bancassurance,2025-06-10,1,Affordability
+POL-002862,Botswana,Funeral,Independent Broker,2026-02-23,1,Dissatisfaction
+POL-002867,South Africa,Funeral,Direct Digital,2026-04-11,1,Affordability
+POL-002871,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-002876,South Africa,Health,Independent Broker,2025-06-29,1,Other
+POL-002883,Namibia,Health,Tied Advisor,2023-02-05,1,Dissatisfaction
+POL-002903,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-002909,Lesotho,Health,Bancassurance,2023-05-08,1,Non-payment
+POL-002910,South Africa,Life,Direct Digital,2025-08-15,1,Other
+POL-002911,Botswana,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-002912,Botswana,Health,Direct Digital,2024-05-01,1,Affordability
+POL-002913,South Africa,Life,Direct Digital,2025-11-11,1,Non-payment
+POL-002914,Lesotho,Investment,Bancassurance,2026-06-20,1,Non-payment
+POL-002920,South Africa,Funeral,Independent Broker,2026-06-20,1,Other
+POL-002927,Namibia,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-002930,Namibia,Funeral,Tied Advisor,2023-11-16,1,Dissatisfaction
+POL-002935,South Africa,Funeral,Bancassurance,2026-06-20,1,Switched provider
+POL-002936,South Africa,Health,Direct Digital,2026-03-27,1,Affordability
+POL-002951,South Africa,Health,Tied Advisor,2026-05-07,1,Other
+POL-002963,South Africa,Funeral,Tied Advisor,2022-10-27,1,Non-payment
+POL-002964,Namibia,Funeral,Direct Digital,2023-12-09,1,Switched provider
+POL-002975,South Africa,Life,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-002979,South Africa,Health,Tied Advisor,2022-12-05,1,Non-payment
+POL-002980,Namibia,Funeral,Independent Broker,2024-08-31,1,Affordability
+POL-002984,Botswana,Funeral,Tied Advisor,2022-08-26,1,Affordability
+POL-002989,South Africa,Life,Tied Advisor,2022-10-18,1,Dissatisfaction
+POL-002992,Namibia,Funeral,Bancassurance,2026-04-11,1,Affordability
+POL-002997,South Africa,Health,Tied Advisor,2026-04-29,1,Affordability
+POL-002999,Lesotho,Investment,Independent Broker,2025-01-14,1,Non-payment
+POL-003001,South Africa,Health,Direct Digital,2026-06-20,1,Affordability
+POL-003020,South Africa,Life,Tied Advisor,2024-07-13,1,Non-payment
+POL-003022,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-003027,Botswana,Funeral,Direct Digital,2023-05-26,1,Affordability
+POL-003034,South Africa,Health,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-003044,Namibia,Health,Tied Advisor,2022-08-11,1,Affordability
+POL-003059,Namibia,Funeral,Tied Advisor,2025-06-18,1,Affordability
+POL-003062,South Africa,Funeral,Tied Advisor,2022-07-31,1,Affordability
+POL-003078,South Africa,Funeral,Independent Broker,2025-05-09,1,Affordability
+POL-003089,Lesotho,Health,Independent Broker,2026-06-20,1,Affordability
+POL-003096,Namibia,Funeral,Tied Advisor,2025-09-11,1,Dissatisfaction
+POL-003114,South Africa,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-003116,Botswana,Health,Direct Digital,2025-09-03,1,Affordability
+POL-003120,Botswana,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-003126,South Africa,Life,Tied Advisor,2024-07-31,1,Switched provider
+POL-003139,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-003142,Namibia,Funeral,Independent Broker,2022-02-06,1,Other
+POL-003144,Botswana,Life,Independent Broker,2022-11-09,1,Affordability
+POL-003181,Namibia,Funeral,Tied Advisor,2022-06-29,1,Non-payment
+POL-003187,South Africa,Investment,Direct Digital,2026-06-20,1,Non-payment
+POL-003191,South Africa,Funeral,Independent Broker,2024-03-15,1,Non-payment
+POL-003194,South Africa,Funeral,Direct Digital,2023-08-06,1,Non-payment
+POL-003207,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-003210,Lesotho,Life,Bancassurance,2023-04-14,1,Switched provider
+POL-003211,South Africa,Funeral,Direct Digital,2022-08-14,1,Non-payment
+POL-003214,South Africa,Life,Bancassurance,2023-02-09,1,Dissatisfaction
+POL-003218,Botswana,Funeral,Independent Broker,2025-11-14,1,Affordability
+POL-003224,South Africa,Funeral,Independent Broker,2026-03-13,1,Non-payment
+POL-003236,South Africa,Investment,Direct Digital,2025-06-18,1,Non-payment
+POL-003239,South Africa,Health,Bancassurance,2023-02-28,1,Dissatisfaction
+POL-003242,South Africa,Life,Tied Advisor,2023-11-05,1,Switched provider
+POL-003243,Botswana,Health,Tied Advisor,2022-10-16,1,Dissatisfaction
+POL-003251,Namibia,Funeral,Tied Advisor,2026-04-03,1,Dissatisfaction
+POL-003252,South Africa,Life,Tied Advisor,2025-01-20,1,Non-payment
+POL-003255,South Africa,Life,Bancassurance,2024-06-14,1,Affordability
+POL-003276,South Africa,Health,Bancassurance,2024-08-25,1,Dissatisfaction
+POL-003286,Namibia,Life,Independent Broker,2025-07-29,1,Non-payment
+POL-003304,South Africa,Health,Direct Digital,2026-03-28,1,Switched provider
+POL-003309,Namibia,Life,Independent Broker,2026-01-25,1,Switched provider
+POL-003319,Namibia,Investment,Tied Advisor,2025-12-23,1,Affordability
+POL-003320,South Africa,Life,Independent Broker,2023-09-08,1,Affordability
+POL-003330,South Africa,Life,Bancassurance,2023-10-17,1,Non-payment
+POL-003341,Namibia,Funeral,Independent Broker,2024-03-20,1,Affordability
+POL-003344,Lesotho,Life,Tied Advisor,2022-09-05,1,Affordability
+POL-003350,Botswana,Funeral,Direct Digital,2024-02-13,1,Non-payment
+POL-003351,South Africa,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-003353,Lesotho,Funeral,Bancassurance,2025-10-27,1,Affordability
+POL-003354,South Africa,Life,Bancassurance,2026-06-20,1,Other
+POL-003356,Botswana,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-003370,Botswana,Life,Independent Broker,2024-04-01,1,Dissatisfaction
+POL-003371,South Africa,Investment,Direct Digital,2026-04-02,1,Affordability
+POL-003381,South Africa,Funeral,Bancassurance,2023-11-17,1,Affordability
+POL-003392,Namibia,Funeral,Tied Advisor,2025-05-26,1,Affordability
+POL-003399,Namibia,Investment,Tied Advisor,2025-04-11,1,Switched provider
+POL-003400,South Africa,Life,Independent Broker,2023-09-10,1,Switched provider
+POL-003404,Lesotho,Health,Independent Broker,2024-04-30,1,Affordability
+POL-003410,South Africa,Health,Direct Digital,2023-12-06,1,Non-payment
+POL-003418,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-003422,South Africa,Life,Independent Broker,2022-09-03,1,Affordability
+POL-003425,Botswana,Health,Independent Broker,2026-06-20,1,Other
+POL-003435,Lesotho,Life,Direct Digital,2026-05-15,1,Dissatisfaction
+POL-003439,South Africa,Health,Bancassurance,2024-09-13,1,Non-payment
+POL-003441,South Africa,Health,Independent Broker,2023-12-07,1,Affordability
+POL-003442,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-003443,Botswana,Funeral,Tied Advisor,2024-05-31,1,Non-payment
+POL-003445,Lesotho,Investment,Bancassurance,2022-11-23,1,Dissatisfaction
+POL-003451,Lesotho,Health,Independent Broker,2023-09-02,1,Non-payment
+POL-003460,Namibia,Funeral,Tied Advisor,2022-09-21,1,Switched provider
+POL-003463,Botswana,Funeral,Direct Digital,2023-03-20,1,Dissatisfaction
+POL-003470,South Africa,Life,Direct Digital,2023-06-14,1,Switched provider
+POL-003486,South Africa,Life,Direct Digital,2024-02-23,1,Non-payment
+POL-003493,South Africa,Life,Independent Broker,2025-11-13,1,Switched provider
+POL-003513,Lesotho,Investment,Bancassurance,2024-03-09,1,Affordability
+POL-003519,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-003530,Lesotho,Health,Tied Advisor,2022-05-29,1,Switched provider
+POL-003540,Botswana,Health,Direct Digital,2025-01-09,1,Affordability
+POL-003541,South Africa,Life,Tied Advisor,2022-03-27,1,Affordability
+POL-003547,Botswana,Funeral,Tied Advisor,2023-09-18,1,Non-payment
+POL-003552,Botswana,Funeral,Independent Broker,2025-06-04,1,Non-payment
+POL-003556,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-003564,Botswana,Life,Tied Advisor,2024-03-16,1,Non-payment
+POL-003565,Namibia,Health,Tied Advisor,2026-03-08,1,Affordability
+POL-003566,South Africa,Funeral,Tied Advisor,2026-05-11,1,Affordability
+POL-003583,South Africa,Life,Independent Broker,2022-08-11,1,Other
+POL-003585,South Africa,Health,Direct Digital,2026-06-20,1,Affordability
+POL-003593,South Africa,Health,Direct Digital,2026-06-20,1,Non-payment
+POL-003612,South Africa,Health,Bancassurance,2026-06-20,1,Affordability
+POL-003619,South Africa,Investment,Bancassurance,2026-06-20,1,Other
+POL-003622,Lesotho,Funeral,Tied Advisor,2025-02-18,1,Affordability
+POL-003624,South Africa,Investment,Independent Broker,2026-06-20,1,Affordability
+POL-003632,Namibia,Funeral,Direct Digital,2024-07-09,1,Non-payment
+POL-003636,South Africa,Investment,Tied Advisor,2026-01-29,1,Affordability
+POL-003645,Lesotho,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-003655,Lesotho,Investment,Independent Broker,2026-04-10,1,Affordability
+POL-003658,South Africa,Investment,Direct Digital,2026-06-20,1,Non-payment
+POL-003669,South Africa,Health,Direct Digital,2025-11-19,1,Switched provider
+POL-003676,Namibia,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-003679,South Africa,Health,Independent Broker,2024-06-03,1,Dissatisfaction
+POL-003690,Botswana,Funeral,Direct Digital,2026-06-20,1,Other
+POL-003698,South Africa,Funeral,Tied Advisor,2024-04-26,1,Switched provider
+POL-003700,South Africa,Investment,Independent Broker,2022-12-08,1,Switched provider
+POL-003713,Lesotho,Life,Bancassurance,2023-11-13,1,Dissatisfaction
+POL-003733,Namibia,Health,Independent Broker,2024-06-02,1,Affordability
+POL-003745,Namibia,Health,Independent Broker,2025-06-24,1,Affordability
+POL-003751,South Africa,Life,Tied Advisor,2025-12-23,1,Affordability
+POL-003759,Botswana,Funeral,Direct Digital,2025-06-08,1,Dissatisfaction
+POL-003761,South Africa,Life,Independent Broker,2023-07-02,1,Non-payment
+POL-003768,South Africa,Funeral,Independent Broker,2024-06-29,1,Non-payment
+POL-003770,South Africa,Health,Tied Advisor,2026-04-28,1,Switched provider
+POL-003773,Namibia,Life,Tied Advisor,2023-09-23,1,Affordability
+POL-003775,South Africa,Funeral,Bancassurance,2024-09-02,1,Switched provider
+POL-003779,Namibia,Funeral,Bancassurance,2023-06-05,1,Non-payment
+POL-003795,Botswana,Funeral,Direct Digital,2026-06-20,1,Non-payment
+POL-003803,South Africa,Life,Tied Advisor,2024-04-07,1,Affordability
+POL-003807,Botswana,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-003821,South Africa,Funeral,Direct Digital,2023-07-26,1,Non-payment
+POL-003827,Botswana,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-003834,Lesotho,Health,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-003847,Lesotho,Life,Independent Broker,2025-01-06,1,Dissatisfaction
+POL-003851,Namibia,Funeral,Tied Advisor,2024-07-16,1,Affordability
+POL-003855,South Africa,Life,Tied Advisor,2026-03-11,1,Non-payment
+POL-003869,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-003875,Lesotho,Life,Bancassurance,2024-01-19,1,Affordability
+POL-003882,Lesotho,Life,Tied Advisor,2024-10-22,1,Non-payment
+POL-003903,Lesotho,Life,Independent Broker,2023-12-09,1,Affordability
+POL-003907,South Africa,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-003919,South Africa,Funeral,Bancassurance,2025-10-17,1,Switched provider
+POL-003925,South Africa,Health,Independent Broker,2025-02-10,1,Switched provider
+POL-003935,Botswana,Funeral,Direct Digital,2023-10-24,1,Affordability
+POL-003936,Botswana,Health,Tied Advisor,2024-07-12,1,Non-payment
+POL-003946,South Africa,Funeral,Tied Advisor,2025-02-22,1,Dissatisfaction
+POL-003949,South Africa,Life,Independent Broker,2024-07-26,1,Dissatisfaction
+POL-003952,South Africa,Funeral,Direct Digital,2025-04-10,1,Affordability
+POL-003957,Namibia,Health,Bancassurance,2026-06-20,1,Non-payment
+POL-003961,Namibia,Health,Independent Broker,2024-11-13,1,Non-payment
+POL-003967,South Africa,Funeral,Bancassurance,2024-04-12,1,Switched provider
+POL-003968,South Africa,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-003969,South Africa,Health,Tied Advisor,2025-05-20,1,Dissatisfaction
+POL-003972,Botswana,Funeral,Direct Digital,2025-04-03,1,Affordability
+POL-003974,South Africa,Life,Tied Advisor,2022-08-09,1,Non-payment
+POL-003992,Namibia,Health,Independent Broker,2024-08-17,1,Switched provider
+POL-003996,South Africa,Funeral,Bancassurance,2025-11-02,1,Affordability
+POL-003998,Namibia,Health,Direct Digital,2026-06-20,1,Switched provider
+POL-004005,Botswana,Funeral,Independent Broker,2023-03-04,1,Affordability
+POL-004015,South Africa,Life,Direct Digital,2023-10-14,1,Other
+POL-004020,South Africa,Health,Independent Broker,2026-06-20,1,Other
+POL-004026,Botswana,Funeral,Tied Advisor,2024-12-26,1,Other
+POL-004029,Botswana,Life,Bancassurance,2024-02-20,1,Non-payment
+POL-004030,South Africa,Funeral,Tied Advisor,2026-01-29,1,Switched provider
+POL-004039,South Africa,Life,Independent Broker,2025-01-20,1,Non-payment
+POL-004046,South Africa,Funeral,Independent Broker,2024-05-06,1,Affordability
+POL-004049,Botswana,Life,Tied Advisor,2025-04-02,1,Non-payment
+POL-004051,Lesotho,Funeral,Independent Broker,2024-03-31,1,Switched provider
+POL-004052,Lesotho,Funeral,Independent Broker,2025-02-23,1,Affordability
+POL-004056,South Africa,Funeral,Independent Broker,2024-12-29,1,Non-payment
+POL-004058,Botswana,Health,Bancassurance,2026-06-20,1,Non-payment
+POL-004064,South Africa,Life,Tied Advisor,2025-05-08,1,Switched provider
+POL-004068,South Africa,Life,Direct Digital,2026-06-20,1,Affordability
+POL-004074,South Africa,Health,Tied Advisor,2026-02-23,1,Affordability
+POL-004075,Namibia,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-004081,Lesotho,Funeral,Direct Digital,2026-06-20,1,Non-payment
+POL-004095,South Africa,Investment,Independent Broker,2024-09-21,1,Non-payment
+POL-004098,Lesotho,Investment,Tied Advisor,2024-09-27,1,Non-payment
+POL-004104,Namibia,Funeral,Tied Advisor,2024-12-20,1,Non-payment
+POL-004111,South Africa,Funeral,Tied Advisor,2023-05-15,1,Non-payment
+POL-004114,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-004118,Botswana,Funeral,Direct Digital,2024-10-24,1,Affordability
+POL-004127,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-004129,South Africa,Investment,Tied Advisor,2025-07-26,1,Other
+POL-004144,South Africa,Health,Independent Broker,2026-01-17,1,Non-payment
+POL-004148,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-004150,Lesotho,Health,Tied Advisor,2026-03-19,1,Switched provider
+POL-004152,Namibia,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-004156,South Africa,Health,Independent Broker,2025-05-07,1,Affordability
+POL-004157,South Africa,Life,Direct Digital,2026-06-20,1,Non-payment
+POL-004165,South Africa,Funeral,Tied Advisor,2023-09-11,1,Affordability
+POL-004171,South Africa,Life,Independent Broker,2023-03-16,1,Switched provider
+POL-004179,Botswana,Life,Tied Advisor,2023-11-22,1,Other
+POL-004184,Namibia,Health,Independent Broker,2026-06-14,1,Affordability
+POL-004185,South Africa,Life,Tied Advisor,2025-11-22,1,Non-payment
+POL-004186,South Africa,Life,Independent Broker,2023-02-26,1,Affordability
+POL-004187,Botswana,Funeral,Independent Broker,2024-05-25,1,Affordability
+POL-004190,Botswana,Funeral,Bancassurance,2026-04-12,1,Affordability
+POL-004193,South Africa,Investment,Independent Broker,2026-06-20,1,Affordability
+POL-004197,South Africa,Funeral,Tied Advisor,2025-02-18,1,Dissatisfaction
+POL-004209,South Africa,Health,Direct Digital,2026-06-20,1,Non-payment
+POL-004212,South Africa,Life,Bancassurance,2025-07-04,1,Dissatisfaction
+POL-004220,South Africa,Funeral,Bancassurance,2022-07-15,1,Other
+POL-004225,South Africa,Funeral,Tied Advisor,2023-10-30,1,Switched provider
+POL-004231,South Africa,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-004233,South Africa,Health,Tied Advisor,2026-06-10,1,Non-payment
+POL-004243,South Africa,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-004257,South Africa,Funeral,Tied Advisor,2025-06-17,1,Other
+POL-004266,South Africa,Funeral,Bancassurance,2025-05-16,1,Dissatisfaction
+POL-004279,Namibia,Funeral,Tied Advisor,2025-10-23,1,Affordability
+POL-004286,South Africa,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-004287,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-004316,South Africa,Life,Tied Advisor,2023-03-20,1,Affordability
+POL-004324,Botswana,Health,Bancassurance,2023-10-28,1,Affordability
+POL-004326,Namibia,Health,Tied Advisor,2025-06-08,1,Dissatisfaction
+POL-004339,South Africa,Life,Tied Advisor,2024-04-28,1,Dissatisfaction
+POL-004340,Botswana,Health,Tied Advisor,2025-10-02,1,Non-payment
+POL-004342,South Africa,Funeral,Independent Broker,2025-07-12,1,Other
+POL-004347,Botswana,Investment,Tied Advisor,2022-06-09,1,Dissatisfaction
+POL-004361,South Africa,Health,Direct Digital,2026-04-25,1,Non-payment
+POL-004364,Lesotho,Life,Independent Broker,2023-01-20,1,Switched provider
+POL-004376,South Africa,Funeral,Bancassurance,2025-06-15,1,Affordability
+POL-004385,South Africa,Funeral,Tied Advisor,2024-10-18,1,Non-payment
+POL-004386,South Africa,Life,Direct Digital,2026-06-20,1,Affordability
+POL-004391,Botswana,Funeral,Tied Advisor,2025-12-21,1,Switched provider
+POL-004398,South Africa,Funeral,Tied Advisor,2023-05-11,1,Affordability
+POL-004403,Botswana,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-004408,Botswana,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-004410,South Africa,Investment,Bancassurance,2026-06-20,1,Other
+POL-004417,South Africa,Life,Tied Advisor,2023-05-29,1,Switched provider
+POL-004420,Botswana,Funeral,Direct Digital,2025-02-13,1,Affordability
+POL-004421,South Africa,Funeral,Independent Broker,2024-07-01,1,Other
+POL-004423,South Africa,Investment,Tied Advisor,2024-10-22,1,Affordability
+POL-004427,Botswana,Funeral,Independent Broker,2025-10-21,1,Affordability
+POL-004429,South Africa,Life,Direct Digital,2025-10-06,1,Affordability
+POL-004438,South Africa,Life,Bancassurance,2026-06-20,1,Affordability
+POL-004449,South Africa,Funeral,Tied Advisor,2023-11-08,1,Non-payment
+POL-004450,South Africa,Health,Independent Broker,2025-03-27,1,Dissatisfaction
+POL-004455,South Africa,Investment,Tied Advisor,2022-04-25,1,Non-payment
+POL-004460,Lesotho,Life,Bancassurance,2026-06-20,1,Non-payment
+POL-004464,Lesotho,Investment,Independent Broker,2026-02-22,1,Dissatisfaction
+POL-004466,South Africa,Health,Tied Advisor,2025-05-05,1,Switched provider
+POL-004474,South Africa,Health,Independent Broker,2024-02-28,1,Affordability
+POL-004479,Botswana,Health,Independent Broker,2022-11-28,1,Non-payment
+POL-004503,South Africa,Investment,Tied Advisor,2026-06-20,1,Switched provider
+POL-004517,Lesotho,Investment,Direct Digital,2025-03-12,1,Affordability
+POL-004520,Botswana,Life,Independent Broker,2026-06-20,1,Affordability
+POL-004525,Botswana,Health,Direct Digital,2024-06-04,1,Affordability
+POL-004526,South Africa,Investment,Direct Digital,2024-06-16,1,Dissatisfaction
+POL-004531,South Africa,Funeral,Bancassurance,2025-06-20,1,Affordability
+POL-004541,South Africa,Funeral,Direct Digital,2023-10-28,1,Affordability
+POL-004544,Lesotho,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-004574,Lesotho,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-004578,Botswana,Life,Independent Broker,2023-09-25,1,Other
+POL-004580,South Africa,Investment,Tied Advisor,2026-06-20,1,Non-payment
+POL-004609,Botswana,Life,Bancassurance,2024-02-23,1,Switched provider
+POL-004611,Namibia,Health,Direct Digital,2023-08-18,1,Non-payment
+POL-004613,South Africa,Life,Tied Advisor,2024-09-06,1,Non-payment
+POL-004622,Namibia,Funeral,Bancassurance,2024-06-03,1,Non-payment
+POL-004632,Botswana,Funeral,Tied Advisor,2026-05-11,1,Affordability
+POL-004633,South Africa,Funeral,Bancassurance,2022-11-28,1,Affordability
+POL-004640,South Africa,Funeral,Independent Broker,2025-12-05,1,Affordability
+POL-004645,South Africa,Health,Direct Digital,2026-06-20,1,Affordability
+POL-004646,Botswana,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-004648,South Africa,Health,Independent Broker,2025-08-19,1,Switched provider
+POL-004650,South Africa,Health,Independent Broker,2026-05-01,1,Non-payment
+POL-004672,Lesotho,Health,Tied Advisor,2024-03-05,1,Affordability
+POL-004673,South Africa,Investment,Direct Digital,2026-06-20,1,Affordability
+POL-004683,South Africa,Life,Bancassurance,2024-06-14,1,Non-payment
+POL-004685,Botswana,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-004686,Namibia,Funeral,Direct Digital,2023-03-24,1,Other
+POL-004697,Lesotho,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-004699,South Africa,Health,Direct Digital,2024-10-13,1,Other
+POL-004726,Botswana,Health,Tied Advisor,2022-06-02,1,Dissatisfaction
+POL-004732,Botswana,Funeral,Tied Advisor,2022-07-30,1,Switched provider
+POL-004738,Botswana,Life,Tied Advisor,2026-03-20,1,Switched provider
+POL-004740,Namibia,Funeral,Tied Advisor,2025-01-21,1,Affordability
+POL-004743,South Africa,Life,Independent Broker,2025-07-21,1,Non-payment
+POL-004754,Botswana,Funeral,Direct Digital,2023-12-31,1,Non-payment
+POL-004762,South Africa,Health,Tied Advisor,2025-08-04,1,Non-payment
+POL-004763,Botswana,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-004767,South Africa,Funeral,Tied Advisor,2025-10-24,1,Affordability
+POL-004770,Namibia,Life,Tied Advisor,2025-11-30,1,Dissatisfaction
+POL-004775,Lesotho,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-004778,South Africa,Health,Tied Advisor,2025-12-21,1,Affordability
+POL-004794,South Africa,Funeral,Independent Broker,2023-10-04,1,Switched provider
+POL-004796,South Africa,Investment,Independent Broker,2026-06-20,1,Switched provider
+POL-004799,Lesotho,Health,Independent Broker,2026-06-20,1,Other
+POL-004816,Namibia,Life,Tied Advisor,2023-07-27,1,Other
+POL-004823,South Africa,Health,Bancassurance,2024-02-19,1,Affordability
+POL-004828,South Africa,Life,Independent Broker,2026-04-30,1,Non-payment
+POL-004835,Lesotho,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-004840,South Africa,Life,Tied Advisor,2026-01-14,1,Non-payment
+POL-004841,South Africa,Funeral,Bancassurance,2025-03-01,1,Dissatisfaction
+POL-004842,South Africa,Health,Bancassurance,2023-12-26,1,Other
+POL-004853,South Africa,Life,Tied Advisor,2025-06-07,1,Other
+POL-004855,Botswana,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-004858,Lesotho,Funeral,Bancassurance,2024-06-13,1,Non-payment
+POL-004862,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-004880,South Africa,Investment,Bancassurance,2026-06-20,1,Non-payment
+POL-004881,South Africa,Funeral,Tied Advisor,2026-06-03,1,Affordability
+POL-004884,Namibia,Life,Direct Digital,2025-04-17,1,Non-payment
+POL-004885,South Africa,Life,Bancassurance,2026-06-20,1,Affordability
+POL-004886,South Africa,Funeral,Tied Advisor,2026-02-27,1,Affordability
+POL-004892,Botswana,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-004897,Lesotho,Life,Direct Digital,2026-06-20,1,Affordability
+POL-004902,Lesotho,Life,Tied Advisor,2023-10-06,1,Non-payment
+POL-004904,South Africa,Funeral,Bancassurance,2025-01-20,1,Dissatisfaction
+POL-004909,Botswana,Funeral,Tied Advisor,2023-08-03,1,Non-payment
+POL-004911,South Africa,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-004936,Lesotho,Life,Bancassurance,2025-05-21,1,Switched provider
+POL-004938,Botswana,Investment,Independent Broker,2026-06-20,1,Affordability
+POL-004940,South Africa,Funeral,Tied Advisor,2025-06-05,1,Non-payment
+POL-004942,Namibia,Funeral,Independent Broker,2025-10-20,1,Affordability
+POL-004950,South Africa,Funeral,Bancassurance,2026-06-20,1,Other
+POL-004967,South Africa,Funeral,Tied Advisor,2025-03-03,1,Affordability
+POL-004970,South Africa,Funeral,Independent Broker,2025-07-12,1,Switched provider
+POL-004979,South Africa,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-004983,Namibia,Life,Tied Advisor,2022-09-19,1,Switched provider
+POL-004989,Namibia,Life,Tied Advisor,2026-03-09,1,Dissatisfaction
+POL-004999,Namibia,Investment,Bancassurance,2026-02-13,1,Non-payment
+POL-005003,Lesotho,Health,Independent Broker,2025-04-17,1,Non-payment
+POL-005008,South Africa,Funeral,Bancassurance,2025-10-15,1,Affordability
+POL-005011,Lesotho,Life,Direct Digital,2026-06-20,1,Affordability
+POL-005015,South Africa,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-005024,South Africa,Funeral,Tied Advisor,2024-09-14,1,Non-payment
+POL-005029,Botswana,Life,Tied Advisor,2025-10-16,1,Other
+POL-005041,Namibia,Health,Bancassurance,2023-09-30,1,Affordability
+POL-005049,South Africa,Funeral,Independent Broker,2023-06-07,1,Affordability
+POL-005050,South Africa,Health,Independent Broker,2022-07-31,1,Non-payment
+POL-005056,South Africa,Health,Independent Broker,2025-04-12,1,Affordability
+POL-005058,Lesotho,Funeral,Tied Advisor,2026-06-02,1,Dissatisfaction
+POL-005063,South Africa,Funeral,Independent Broker,2025-09-23,1,Affordability
+POL-005066,Lesotho,Life,Independent Broker,2024-10-27,1,Non-payment
+POL-005070,Lesotho,Life,Tied Advisor,2025-06-29,1,Affordability
+POL-005078,Botswana,Funeral,Tied Advisor,2025-05-10,1,Non-payment
+POL-005079,South Africa,Investment,Independent Broker,2022-07-22,1,Non-payment
+POL-005089,Botswana,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-005096,South Africa,Funeral,Tied Advisor,2025-10-31,1,Other
+POL-005097,South Africa,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-005098,South Africa,Funeral,Direct Digital,2022-09-25,1,Non-payment
+POL-005111,Namibia,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-005112,Botswana,Life,Tied Advisor,2026-03-22,1,Dissatisfaction
+POL-005115,South Africa,Life,Bancassurance,2023-11-18,1,Other
+POL-005121,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-005123,Namibia,Funeral,Bancassurance,2024-07-29,1,Dissatisfaction
+POL-005129,Namibia,Funeral,Independent Broker,2024-03-11,1,Affordability
+POL-005135,Lesotho,Health,Tied Advisor,2024-05-25,1,Affordability
+POL-005137,Lesotho,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-005157,South Africa,Health,Independent Broker,2026-01-25,1,Non-payment
+POL-005162,Botswana,Funeral,Tied Advisor,2024-03-24,1,Dissatisfaction
+POL-005169,Namibia,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-005178,Botswana,Funeral,Direct Digital,2024-07-17,1,Affordability
+POL-005181,Lesotho,Investment,Tied Advisor,2026-05-04,1,Dissatisfaction
+POL-005198,South Africa,Life,Tied Advisor,2023-10-29,1,Non-payment
+POL-005202,South Africa,Life,Tied Advisor,2024-07-09,1,Affordability
+POL-005208,Namibia,Funeral,Independent Broker,2024-01-20,1,Non-payment
+POL-005211,Botswana,Life,Direct Digital,2026-04-07,1,Non-payment
+POL-005219,Botswana,Funeral,Tied Advisor,2023-12-22,1,Affordability
+POL-005221,Botswana,Investment,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-005224,South Africa,Health,Tied Advisor,2025-05-19,1,Non-payment
+POL-005228,South Africa,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-005235,South Africa,Investment,Direct Digital,2024-03-23,1,Non-payment
+POL-005247,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-005251,Namibia,Funeral,Bancassurance,2024-04-06,1,Switched provider
+POL-005252,Namibia,Health,Independent Broker,2025-02-05,1,Non-payment
+POL-005256,South Africa,Life,Tied Advisor,2025-01-07,1,Affordability
+POL-005260,South Africa,Funeral,Bancassurance,2026-03-13,1,Dissatisfaction
+POL-005267,South Africa,Funeral,Tied Advisor,2026-04-17,1,Affordability
+POL-005270,South Africa,Health,Tied Advisor,2024-12-29,1,Other
+POL-005275,Botswana,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-005286,Lesotho,Funeral,Bancassurance,2025-05-01,1,Affordability
+POL-005288,South Africa,Funeral,Tied Advisor,2025-07-07,1,Other
+POL-005300,South Africa,Funeral,Bancassurance,2025-06-03,1,Other
+POL-005301,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-005310,Botswana,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-005314,South Africa,Funeral,Independent Broker,2026-06-20,1,Other
+POL-005320,Namibia,Health,Tied Advisor,2024-08-24,1,Affordability
+POL-005324,South Africa,Life,Direct Digital,2026-06-20,1,Switched provider
+POL-005338,South Africa,Life,Bancassurance,2021-11-17,1,Non-payment
+POL-005344,Lesotho,Funeral,Direct Digital,2026-06-20,1,Switched provider
+POL-005345,South Africa,Funeral,Tied Advisor,2024-11-08,1,Dissatisfaction
+POL-005361,South Africa,Health,Bancassurance,2023-04-28,1,Switched provider
+POL-005373,Lesotho,Health,Independent Broker,2023-04-04,1,Non-payment
+POL-005382,South Africa,Life,Tied Advisor,2026-06-20,1,Other
+POL-005389,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-005390,Namibia,Health,Tied Advisor,2024-01-27,1,Affordability
+POL-005395,South Africa,Investment,Independent Broker,2023-03-19,1,Dissatisfaction
+POL-005396,Botswana,Funeral,Independent Broker,2023-08-10,1,Affordability
+POL-005397,Lesotho,Health,Independent Broker,2023-10-31,1,Affordability
+POL-005401,South Africa,Health,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-005403,Botswana,Funeral,Independent Broker,2024-09-12,1,Dissatisfaction
+POL-005405,Lesotho,Funeral,Tied Advisor,2024-04-24,1,Non-payment
+POL-005419,South Africa,Funeral,Independent Broker,2026-01-27,1,Affordability
+POL-005423,Lesotho,Investment,Bancassurance,2023-07-17,1,Affordability
+POL-005427,Lesotho,Investment,Tied Advisor,2023-07-15,1,Affordability
+POL-005428,South Africa,Life,Tied Advisor,2024-12-19,1,Dissatisfaction
+POL-005431,South Africa,Health,Independent Broker,2023-08-31,1,Affordability
+POL-005450,South Africa,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-005451,South Africa,Health,Independent Broker,2023-05-06,1,Other
+POL-005454,South Africa,Funeral,Bancassurance,2026-01-25,1,Switched provider
+POL-005456,South Africa,Health,Bancassurance,2023-08-30,1,Non-payment
+POL-005460,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-005471,Botswana,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-005480,South Africa,Health,Direct Digital,2024-07-16,1,Non-payment
+POL-005495,South Africa,Funeral,Bancassurance,2025-07-16,1,Switched provider
+POL-005502,Botswana,Investment,Direct Digital,2024-09-12,1,Switched provider
+POL-005515,Namibia,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-005555,Botswana,Funeral,Bancassurance,2022-12-30,1,Affordability
+POL-005573,South Africa,Investment,Independent Broker,2026-03-28,1,Non-payment
+POL-005586,Botswana,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-005588,Botswana,Life,Independent Broker,2023-07-21,1,Dissatisfaction
+POL-005591,Lesotho,Health,Bancassurance,2024-04-17,1,Dissatisfaction
+POL-005596,Lesotho,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-005604,Botswana,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-005611,South Africa,Funeral,Tied Advisor,2023-08-13,1,Dissatisfaction
+POL-005619,South Africa,Life,Tied Advisor,2025-04-10,1,Affordability
+POL-005622,South Africa,Funeral,Independent Broker,2024-06-02,1,Non-payment
+POL-005628,Namibia,Funeral,Independent Broker,2022-11-20,1,Dissatisfaction
+POL-005630,South Africa,Life,Bancassurance,2023-05-07,1,Affordability
+POL-005635,Lesotho,Funeral,Direct Digital,2023-12-25,1,Switched provider
+POL-005642,Botswana,Investment,Tied Advisor,2023-07-17,1,Affordability
+POL-005664,South Africa,Funeral,Direct Digital,2026-06-20,1,Switched provider
+POL-005673,Namibia,Funeral,Bancassurance,2026-06-20,1,Other
+POL-005676,Botswana,Funeral,Tied Advisor,2022-08-13,1,Non-payment
+POL-005702,Botswana,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-005708,South Africa,Health,Direct Digital,2024-06-12,1,Affordability
+POL-005710,South Africa,Investment,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-005722,Botswana,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-005727,Botswana,Funeral,Direct Digital,2024-12-26,1,Switched provider
+POL-005730,South Africa,Funeral,Tied Advisor,2025-04-28,1,Non-payment
+POL-005738,South Africa,Funeral,Direct Digital,2025-12-31,1,Dissatisfaction
+POL-005741,South Africa,Health,Tied Advisor,2026-05-22,1,Dissatisfaction
+POL-005742,South Africa,Health,Tied Advisor,2025-10-14,1,Dissatisfaction
+POL-005743,South Africa,Health,Tied Advisor,2023-05-21,1,Affordability
+POL-005747,South Africa,Funeral,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-005752,Namibia,Funeral,Bancassurance,2025-11-13,1,Dissatisfaction
+POL-005753,Namibia,Life,Tied Advisor,2025-11-01,1,Non-payment
+POL-005759,South Africa,Investment,Tied Advisor,2026-06-20,1,Switched provider
+POL-005767,South Africa,Investment,Tied Advisor,2026-06-20,1,Non-payment
+POL-005778,South Africa,Funeral,Direct Digital,2026-06-04,1,Non-payment
+POL-005782,Botswana,Life,Tied Advisor,2026-03-15,1,Non-payment
+POL-005789,South Africa,Funeral,Independent Broker,2022-10-12,1,Dissatisfaction
+POL-005793,Botswana,Life,Independent Broker,2023-12-13,1,Other
+POL-005827,South Africa,Investment,Direct Digital,2024-02-12,1,Non-payment
+POL-005829,South Africa,Funeral,Direct Digital,2025-07-26,1,Non-payment
+POL-005833,Lesotho,Health,Direct Digital,2023-04-29,1,Non-payment
+POL-005835,South Africa,Health,Bancassurance,2026-06-20,1,Other
+POL-005841,Botswana,Life,Bancassurance,2024-11-06,1,Affordability
+POL-005850,Botswana,Health,Tied Advisor,2023-03-06,1,Switched provider
+POL-005851,South Africa,Funeral,Independent Broker,2026-06-20,1,Switched provider
+POL-005852,South Africa,Funeral,Independent Broker,2024-12-04,1,Non-payment
+POL-005854,Botswana,Funeral,Bancassurance,2024-12-25,1,Switched provider
+POL-005865,South Africa,Funeral,Direct Digital,2024-06-30,1,Dissatisfaction
+POL-005868,South Africa,Health,Direct Digital,2026-06-20,1,Other
+POL-005871,South Africa,Life,Bancassurance,2026-06-20,1,Non-payment
+POL-005874,South Africa,Life,Independent Broker,2022-09-29,1,Dissatisfaction
+POL-005888,Lesotho,Life,Independent Broker,2025-09-04,1,Non-payment
+POL-005897,South Africa,Funeral,Tied Advisor,2025-02-16,1,Non-payment
+POL-005898,South Africa,Funeral,Direct Digital,2024-10-23,1,Affordability
+POL-005912,South Africa,Funeral,Independent Broker,2022-06-16,1,Non-payment
+POL-005918,South Africa,Funeral,Tied Advisor,2024-01-16,1,Affordability
+POL-005933,South Africa,Life,Bancassurance,2026-06-20,1,Switched provider
+POL-005948,South Africa,Funeral,Tied Advisor,2025-05-01,1,Affordability
+POL-005955,South Africa,Life,Tied Advisor,2026-04-05,1,Non-payment
+POL-005964,Botswana,Funeral,Independent Broker,2025-09-06,1,Other
+POL-005965,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-005981,Namibia,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-005983,Botswana,Investment,Independent Broker,2024-05-19,1,Non-payment
+POL-005987,South Africa,Life,Tied Advisor,2024-12-18,1,Other
+POL-005988,South Africa,Life,Bancassurance,2023-06-11,1,Other
+POL-005992,South Africa,Health,Tied Advisor,2025-07-15,1,Dissatisfaction
+POL-005997,South Africa,Funeral,Independent Broker,2025-08-24,1,Dissatisfaction
+POL-006006,Botswana,Life,Independent Broker,2023-11-22,1,Non-payment
+POL-006011,South Africa,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-006020,Namibia,Life,Tied Advisor,2022-11-26,1,Non-payment
+POL-006021,Namibia,Funeral,Direct Digital,2026-06-20,1,Non-payment
+POL-006032,South Africa,Health,Independent Broker,2023-12-24,1,Switched provider
+POL-006039,South Africa,Funeral,Tied Advisor,2024-06-15,1,Switched provider
+POL-006049,Lesotho,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-006054,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-006055,Botswana,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-006072,South Africa,Health,Tied Advisor,2022-08-28,1,Other
+POL-006074,South Africa,Life,Direct Digital,2025-04-23,1,Affordability
+POL-006075,Botswana,Health,Tied Advisor,2022-08-10,1,Non-payment
+POL-006082,South Africa,Funeral,Independent Broker,2021-12-25,1,Affordability
+POL-006084,South Africa,Funeral,Independent Broker,2024-05-25,1,Affordability
+POL-006088,Namibia,Funeral,Tied Advisor,2023-08-06,1,Non-payment
+POL-006115,Lesotho,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-006118,Lesotho,Funeral,Tied Advisor,2023-08-06,1,Non-payment
+POL-006127,South Africa,Health,Independent Broker,2025-03-12,1,Non-payment
+POL-006132,South Africa,Investment,Independent Broker,2026-06-20,1,Non-payment
+POL-006139,South Africa,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-006145,Lesotho,Funeral,Tied Advisor,2026-01-10,1,Non-payment
+POL-006153,Botswana,Life,Tied Advisor,2022-11-10,1,Affordability
+POL-006171,South Africa,Funeral,Tied Advisor,2025-12-29,1,Dissatisfaction
+POL-006172,Botswana,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-006190,Namibia,Life,Bancassurance,2024-01-27,1,Non-payment
+POL-006193,South Africa,Health,Tied Advisor,2023-07-05,1,Affordability
+POL-006197,South Africa,Life,Tied Advisor,2023-04-07,1,Other
+POL-006204,Lesotho,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-006207,Namibia,Health,Bancassurance,2025-01-02,1,Affordability
+POL-006226,Namibia,Life,Independent Broker,2025-11-11,1,Affordability
+POL-006229,Botswana,Funeral,Bancassurance,2025-08-26,1,Non-payment
+POL-006234,Namibia,Investment,Tied Advisor,2023-06-05,1,Non-payment
+POL-006238,South Africa,Investment,Independent Broker,2024-01-28,1,Switched provider
+POL-006246,South Africa,Life,Tied Advisor,2024-04-02,1,Non-payment
+POL-006257,Botswana,Funeral,Bancassurance,2025-03-10,1,Affordability
+POL-006259,Namibia,Health,Independent Broker,2025-07-07,1,Dissatisfaction
+POL-006262,Botswana,Life,Independent Broker,2026-06-20,1,Affordability
+POL-006267,South Africa,Funeral,Tied Advisor,2025-08-12,1,Switched provider
+POL-006269,Botswana,Health,Independent Broker,2026-06-20,1,Affordability
+POL-006273,South Africa,Life,Direct Digital,2026-06-20,1,Non-payment
+POL-006275,South Africa,Funeral,Independent Broker,2026-06-20,1,Other
+POL-006277,Namibia,Funeral,Independent Broker,2024-08-31,1,Dissatisfaction
+POL-006280,South Africa,Funeral,Bancassurance,2026-02-27,1,Non-payment
+POL-006283,South Africa,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-006291,Namibia,Funeral,Bancassurance,2024-06-22,1,Affordability
+POL-006292,Botswana,Life,Bancassurance,2026-05-16,1,Affordability
+POL-006301,South Africa,Life,Tied Advisor,2025-08-28,1,Non-payment
+POL-006305,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-006314,Botswana,Funeral,Tied Advisor,2024-10-27,1,Non-payment
+POL-006322,South Africa,Funeral,Tied Advisor,2025-10-25,1,Affordability
+POL-006332,South Africa,Investment,Bancassurance,2024-10-12,1,Non-payment
+POL-006337,South Africa,Investment,Bancassurance,2026-06-20,1,Switched provider
+POL-006344,Botswana,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-006345,South Africa,Investment,Tied Advisor,2025-02-18,1,Affordability
+POL-006347,Botswana,Health,Independent Broker,2026-06-20,1,Other
+POL-006357,Lesotho,Health,Independent Broker,2023-10-11,1,Other
+POL-006362,Botswana,Life,Independent Broker,2023-11-18,1,Non-payment
+POL-006363,South Africa,Health,Independent Broker,2022-06-27,1,Switched provider
+POL-006366,South Africa,Life,Independent Broker,2023-09-29,1,Affordability
+POL-006368,South Africa,Funeral,Tied Advisor,2024-07-07,1,Affordability
+POL-006374,South Africa,Funeral,Independent Broker,2025-06-27,1,Non-payment
+POL-006381,South Africa,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-006401,South Africa,Funeral,Direct Digital,2025-07-21,1,Dissatisfaction
+POL-006406,South Africa,Investment,Bancassurance,2022-07-08,1,Other
+POL-006414,Lesotho,Health,Tied Advisor,2023-03-07,1,Dissatisfaction
+POL-006417,South Africa,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-006423,Botswana,Health,Independent Broker,2023-02-21,1,Switched provider
+POL-006426,South Africa,Life,Tied Advisor,2024-08-28,1,Affordability
+POL-006429,Namibia,Life,Independent Broker,2024-06-18,1,Dissatisfaction
+POL-006433,Botswana,Funeral,Bancassurance,2023-11-10,1,Affordability
+POL-006436,South Africa,Investment,Independent Broker,2026-06-20,1,Non-payment
+POL-006440,Namibia,Funeral,Independent Broker,2023-09-01,1,Non-payment
+POL-006445,Namibia,Funeral,Independent Broker,2025-09-04,1,Dissatisfaction
+POL-006461,South Africa,Life,Tied Advisor,2024-01-14,1,Other
+POL-006462,South Africa,Funeral,Independent Broker,2024-02-29,1,Affordability
+POL-006481,South Africa,Funeral,Independent Broker,2025-04-18,1,Other
+POL-006491,Lesotho,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-006509,South Africa,Health,Independent Broker,2025-06-24,1,Non-payment
+POL-006530,Namibia,Funeral,Tied Advisor,2024-08-01,1,Dissatisfaction
+POL-006531,South Africa,Funeral,Tied Advisor,2026-03-29,1,Affordability
+POL-006538,South Africa,Funeral,Tied Advisor,2025-12-27,1,Affordability
+POL-006543,Botswana,Investment,Independent Broker,2024-12-14,1,Affordability
+POL-006549,South Africa,Funeral,Bancassurance,2024-09-09,1,Non-payment
+POL-006555,South Africa,Health,Bancassurance,2024-09-27,1,Non-payment
+POL-006557,South Africa,Health,Direct Digital,2026-03-02,1,Affordability
+POL-006560,South Africa,Investment,Tied Advisor,2022-12-26,1,Dissatisfaction
+POL-006563,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-006564,South Africa,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-006568,South Africa,Life,Bancassurance,2026-03-10,1,Affordability
+POL-006570,South Africa,Funeral,Tied Advisor,2025-09-21,1,Non-payment
+POL-006584,Botswana,Funeral,Direct Digital,2026-01-11,1,Switched provider
+POL-006610,South Africa,Funeral,Tied Advisor,2025-09-19,1,Switched provider
+POL-006613,South Africa,Funeral,Direct Digital,2023-10-06,1,Dissatisfaction
+POL-006615,Lesotho,Life,Direct Digital,2026-06-20,1,Non-payment
+POL-006622,Lesotho,Funeral,Direct Digital,2022-07-01,1,Other
+POL-006626,South Africa,Investment,Tied Advisor,2023-12-29,1,Affordability
+POL-006629,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-006631,South Africa,Funeral,Independent Broker,2025-04-25,1,Dissatisfaction
+POL-006632,South Africa,Life,Independent Broker,2023-12-15,1,Non-payment
+POL-006637,Namibia,Funeral,Tied Advisor,2025-05-21,1,Affordability
+POL-006643,Botswana,Life,Bancassurance,2025-06-07,1,Other
+POL-006646,Botswana,Health,Independent Broker,2025-04-15,1,Affordability
+POL-006648,South Africa,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-006650,Botswana,Investment,Independent Broker,2024-01-27,1,Non-payment
+POL-006653,South Africa,Health,Tied Advisor,2022-10-07,1,Non-payment
+POL-006660,South Africa,Health,Direct Digital,2024-05-08,1,Non-payment
+POL-006667,South Africa,Funeral,Tied Advisor,2022-10-21,1,Non-payment
+POL-006669,Botswana,Life,Independent Broker,2025-03-20,1,Affordability
+POL-006688,South Africa,Life,Tied Advisor,2024-06-19,1,Dissatisfaction
+POL-006690,South Africa,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-006692,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-006693,Lesotho,Life,Bancassurance,2024-04-03,1,Non-payment
+POL-006697,South Africa,Funeral,Independent Broker,2022-07-13,1,Non-payment
+POL-006701,Botswana,Funeral,Independent Broker,2024-01-18,1,Affordability
+POL-006711,Lesotho,Investment,Tied Advisor,2026-06-20,1,Affordability
+POL-006717,Namibia,Investment,Direct Digital,2024-12-28,1,Dissatisfaction
+POL-006718,South Africa,Health,Tied Advisor,2025-11-04,1,Dissatisfaction
+POL-006724,South Africa,Health,Bancassurance,2026-06-20,1,Affordability
+POL-006726,South Africa,Health,Direct Digital,2024-01-09,1,Affordability
+POL-006730,Botswana,Funeral,Bancassurance,2024-09-16,1,Non-payment
+POL-006733,South Africa,Life,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-006734,Botswana,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-006740,South Africa,Life,Independent Broker,2023-07-10,1,Affordability
+POL-006753,South Africa,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-006754,South Africa,Funeral,Bancassurance,2024-08-22,1,Affordability
+POL-006764,South Africa,Health,Independent Broker,2026-02-23,1,Non-payment
+POL-006774,South Africa,Funeral,Direct Digital,2022-08-16,1,Affordability
+POL-006785,Namibia,Life,Independent Broker,2025-02-14,1,Non-payment
+POL-006794,Lesotho,Funeral,Tied Advisor,2024-11-13,1,Non-payment
+POL-006803,Namibia,Life,Independent Broker,2022-01-24,1,Non-payment
+POL-006820,South Africa,Funeral,Tied Advisor,2022-08-07,1,Affordability
+POL-006822,South Africa,Health,Direct Digital,2024-06-24,1,Non-payment
+POL-006824,Namibia,Life,Tied Advisor,2023-02-15,1,Non-payment
+POL-006837,South Africa,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-006839,South Africa,Life,Tied Advisor,2022-11-02,1,Affordability
+POL-006846,South Africa,Health,Bancassurance,2025-01-10,1,Dissatisfaction
+POL-006862,South Africa,Funeral,Bancassurance,2025-11-01,1,Other
+POL-006871,South Africa,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-006900,Namibia,Life,Tied Advisor,2026-01-19,1,Dissatisfaction
+POL-006906,South Africa,Investment,Direct Digital,2024-12-12,1,Switched provider
+POL-006907,Lesotho,Life,Bancassurance,2025-11-14,1,Switched provider
+POL-006948,South Africa,Funeral,Bancassurance,2024-12-15,1,Affordability
+POL-006956,South Africa,Life,Tied Advisor,2023-08-27,1,Affordability
+POL-006959,Namibia,Health,Tied Advisor,2026-04-07,1,Non-payment
+POL-006964,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-006966,Botswana,Health,Independent Broker,2026-06-20,1,Affordability
+POL-006969,Botswana,Investment,Bancassurance,2022-07-16,1,Switched provider
+POL-006971,South Africa,Health,Direct Digital,2026-05-20,1,Dissatisfaction
+POL-006973,South Africa,Funeral,Tied Advisor,2025-08-10,1,Affordability
+POL-006988,Namibia,Funeral,Direct Digital,2023-06-16,1,Affordability
+POL-007002,South Africa,Funeral,Independent Broker,2022-11-14,1,Non-payment
+POL-007004,Lesotho,Investment,Independent Broker,2023-05-21,1,Non-payment
+POL-007006,South Africa,Health,Independent Broker,2023-10-17,1,Affordability
+POL-007013,Lesotho,Life,Tied Advisor,2026-06-20,1,Switched provider
+POL-007015,South Africa,Health,Tied Advisor,2026-06-20,1,Other
+POL-007020,Lesotho,Life,Direct Digital,2023-08-04,1,Non-payment
+POL-007023,Namibia,Life,Direct Digital,2025-03-03,1,Dissatisfaction
+POL-007032,South Africa,Funeral,Tied Advisor,2025-04-19,1,Affordability
+POL-007040,Botswana,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-007046,Botswana,Life,Bancassurance,2026-02-16,1,Non-payment
+POL-007050,Lesotho,Investment,Independent Broker,2024-04-01,1,Affordability
+POL-007052,Namibia,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-007053,Lesotho,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-007068,Botswana,Life,Direct Digital,2026-06-20,1,Non-payment
+POL-007071,Botswana,Life,Independent Broker,2023-06-28,1,Affordability
+POL-007075,Botswana,Funeral,Bancassurance,2026-05-17,1,Non-payment
+POL-007076,South Africa,Funeral,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-007088,South Africa,Life,Tied Advisor,2022-06-29,1,Affordability
+POL-007104,Namibia,Investment,Independent Broker,2023-04-29,1,Affordability
+POL-007108,South Africa,Funeral,Tied Advisor,2024-12-06,1,Affordability
+POL-007109,South Africa,Funeral,Bancassurance,2023-12-16,1,Non-payment
+POL-007117,South Africa,Life,Tied Advisor,2025-06-30,1,Affordability
+POL-007130,Lesotho,Investment,Bancassurance,2025-07-26,1,Non-payment
+POL-007132,South Africa,Life,Tied Advisor,2026-05-19,1,Dissatisfaction
+POL-007154,Lesotho,Life,Tied Advisor,2024-04-12,1,Other
+POL-007155,South Africa,Life,Direct Digital,2026-06-20,1,Other
+POL-007158,Lesotho,Funeral,Independent Broker,2023-09-19,1,Affordability
+POL-007164,South Africa,Funeral,Tied Advisor,2023-10-25,1,Dissatisfaction
+POL-007167,Botswana,Investment,Direct Digital,2024-11-08,1,Dissatisfaction
+POL-007173,South Africa,Investment,Direct Digital,2026-06-05,1,Switched provider
+POL-007189,Lesotho,Life,Independent Broker,2025-03-09,1,Affordability
+POL-007192,Botswana,Funeral,Tied Advisor,2022-07-14,1,Affordability
+POL-007201,South Africa,Investment,Bancassurance,2026-06-20,1,Affordability
+POL-007204,South Africa,Life,Independent Broker,2022-08-15,1,Affordability
+POL-007205,South Africa,Life,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-007217,South Africa,Funeral,Tied Advisor,2025-05-08,1,Switched provider
+POL-007218,Botswana,Health,Independent Broker,2026-06-20,1,Non-payment
+POL-007221,South Africa,Funeral,Independent Broker,2023-09-13,1,Non-payment
+POL-007246,Namibia,Investment,Independent Broker,2026-05-16,1,Non-payment
+POL-007259,South Africa,Funeral,Direct Digital,2025-03-27,1,Affordability
+POL-007264,South Africa,Investment,Tied Advisor,2026-06-20,1,Non-payment
+POL-007265,Namibia,Funeral,Independent Broker,2025-06-09,1,Affordability
+POL-007268,Botswana,Funeral,Bancassurance,2026-01-30,1,Affordability
+POL-007271,South Africa,Funeral,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-007274,Lesotho,Investment,Independent Broker,2026-01-18,1,Non-payment
+POL-007278,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-007283,Lesotho,Investment,Direct Digital,2024-08-27,1,Dissatisfaction
+POL-007287,Lesotho,Funeral,Bancassurance,2023-12-22,1,Non-payment
+POL-007290,South Africa,Funeral,Independent Broker,2023-12-16,1,Affordability
+POL-007295,Lesotho,Funeral,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-007296,Botswana,Funeral,Direct Digital,2025-04-18,1,Affordability
+POL-007299,South Africa,Life,Independent Broker,2026-06-20,1,Affordability
+POL-007309,South Africa,Funeral,Tied Advisor,2024-12-02,1,Other
+POL-007311,Namibia,Life,Independent Broker,2024-07-21,1,Switched provider
+POL-007313,Namibia,Funeral,Direct Digital,2025-03-09,1,Non-payment
+POL-007323,Botswana,Health,Bancassurance,2026-06-20,1,Affordability
+POL-007325,Botswana,Life,Independent Broker,2025-03-26,1,Non-payment
+POL-007343,Lesotho,Funeral,Bancassurance,2025-01-25,1,Non-payment
+POL-007363,Botswana,Funeral,Independent Broker,2025-07-28,1,Affordability
+POL-007365,South Africa,Funeral,Direct Digital,2026-06-20,1,Affordability
+POL-007366,Lesotho,Funeral,Bancassurance,2025-12-04,1,Non-payment
+POL-007371,South Africa,Funeral,Independent Broker,2022-07-31,1,Switched provider
+POL-007374,South Africa,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-007380,Lesotho,Funeral,Tied Advisor,2023-11-16,1,Switched provider
+POL-007390,South Africa,Life,Direct Digital,2024-10-26,1,Non-payment
+POL-007401,South Africa,Life,Independent Broker,2023-09-22,1,Affordability
+POL-007406,Botswana,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-007409,South Africa,Funeral,Tied Advisor,2025-11-19,1,Affordability
+POL-007416,Botswana,Funeral,Tied Advisor,2022-01-08,1,Dissatisfaction
+POL-007417,Botswana,Health,Independent Broker,2024-12-09,1,Non-payment
+POL-007426,South Africa,Investment,Independent Broker,2026-04-07,1,Affordability
+POL-007438,Namibia,Investment,Independent Broker,2022-10-21,1,Dissatisfaction
+POL-007443,South Africa,Investment,Direct Digital,2023-09-22,1,Non-payment
+POL-007449,South Africa,Funeral,Tied Advisor,2025-02-12,1,Dissatisfaction
+POL-007450,South Africa,Funeral,Direct Digital,2022-09-08,1,Non-payment
+POL-007453,South Africa,Investment,Tied Advisor,2024-01-21,1,Switched provider
+POL-007462,South Africa,Funeral,Tied Advisor,2023-09-24,1,Affordability
+POL-007465,South Africa,Health,Tied Advisor,2025-02-28,1,Non-payment
+POL-007466,South Africa,Life,Bancassurance,2025-04-01,1,Non-payment
+POL-007468,South Africa,Life,Independent Broker,2023-05-19,1,Switched provider
+POL-007488,South Africa,Funeral,Tied Advisor,2024-04-15,1,Switched provider
+POL-007489,Namibia,Life,Direct Digital,2022-01-31,1,Non-payment
+POL-007491,Namibia,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-007494,South Africa,Health,Tied Advisor,2023-09-08,1,Non-payment
+POL-007497,South Africa,Investment,Independent Broker,2025-11-15,1,Dissatisfaction
+POL-007498,South Africa,Health,Independent Broker,2024-04-20,1,Affordability
+POL-007501,South Africa,Funeral,Tied Advisor,2024-01-27,1,Other
+POL-007511,Namibia,Life,Bancassurance,2025-05-10,1,Non-payment
+POL-007517,Namibia,Life,Tied Advisor,2023-08-14,1,Non-payment
+POL-007523,South Africa,Funeral,Tied Advisor,2026-06-20,1,Non-payment
+POL-007536,Namibia,Funeral,Direct Digital,2026-05-28,1,Switched provider
+POL-007538,South Africa,Health,Independent Broker,2025-02-25,1,Non-payment
+POL-007546,Botswana,Health,Direct Digital,2025-11-07,1,Affordability
+POL-007548,South Africa,Life,Direct Digital,2024-02-17,1,Dissatisfaction
+POL-007550,Botswana,Funeral,Direct Digital,2026-01-14,1,Affordability
+POL-007554,South Africa,Life,Bancassurance,2022-10-31,1,Non-payment
+POL-007559,South Africa,Health,Tied Advisor,2023-03-23,1,Affordability
+POL-007566,South Africa,Health,Tied Advisor,2024-12-15,1,Dissatisfaction
+POL-007572,South Africa,Funeral,Tied Advisor,2022-01-17,1,Switched provider
+POL-007581,Namibia,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-007585,Namibia,Life,Tied Advisor,2025-09-26,1,Affordability
+POL-007596,South Africa,Funeral,Bancassurance,2023-10-02,1,Affordability
+POL-007597,South Africa,Investment,Independent Broker,2022-11-25,1,Other
+POL-007606,Lesotho,Funeral,Tied Advisor,2024-04-13,1,Non-payment
+POL-007609,South Africa,Life,Bancassurance,2025-10-29,1,Affordability
+POL-007625,Namibia,Investment,Direct Digital,2026-06-20,1,Non-payment
+POL-007628,Lesotho,Life,Direct Digital,2025-05-16,1,Dissatisfaction
+POL-007630,Namibia,Funeral,Bancassurance,2025-11-18,1,Dissatisfaction
+POL-007633,South Africa,Funeral,Tied Advisor,2023-10-06,1,Non-payment
+POL-007640,Botswana,Investment,Bancassurance,2024-06-13,1,Non-payment
+POL-007643,Namibia,Investment,Independent Broker,2026-06-20,1,Affordability
+POL-007648,Botswana,Funeral,Independent Broker,2024-07-05,1,Switched provider
+POL-007649,South Africa,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-007650,South Africa,Funeral,Independent Broker,2023-12-04,1,Switched provider
+POL-007652,Namibia,Investment,Tied Advisor,2024-12-10,1,Affordability
+POL-007655,Botswana,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-007661,South Africa,Funeral,Tied Advisor,2024-01-07,1,Non-payment
+POL-007675,Namibia,Funeral,Independent Broker,2022-08-28,1,Non-payment
+POL-007681,South Africa,Life,Tied Advisor,2023-10-21,1,Affordability
+POL-007690,South Africa,Health,Direct Digital,2024-09-23,1,Dissatisfaction
+POL-007694,South Africa,Life,Bancassurance,2026-06-20,1,Affordability
+POL-007697,South Africa,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-007710,South Africa,Funeral,Bancassurance,2024-04-19,1,Switched provider
+POL-007722,South Africa,Funeral,Bancassurance,2024-12-12,1,Affordability
+POL-007726,South Africa,Funeral,Independent Broker,2024-10-30,1,Switched provider
+POL-007728,South Africa,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-007731,South Africa,Funeral,Direct Digital,2024-09-21,1,Non-payment
+POL-007735,Namibia,Life,Direct Digital,2026-06-20,1,Affordability
+POL-007737,Botswana,Funeral,Direct Digital,2025-06-25,1,Non-payment
+POL-007748,Botswana,Life,Independent Broker,2024-08-08,1,Switched provider
+POL-007761,South Africa,Life,Independent Broker,2023-08-28,1,Dissatisfaction
+POL-007767,South Africa,Health,Tied Advisor,2026-01-18,1,Affordability
+POL-007773,South Africa,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-007775,Botswana,Funeral,Tied Advisor,2026-03-17,1,Affordability
+POL-007777,Namibia,Funeral,Independent Broker,2026-02-10,1,Dissatisfaction
+POL-007779,South Africa,Life,Independent Broker,2024-12-05,1,Non-payment
+POL-007782,Namibia,Life,Independent Broker,2024-10-07,1,Non-payment
+POL-007786,South Africa,Funeral,Tied Advisor,2026-06-20,1,Switched provider
+POL-007787,South Africa,Health,Tied Advisor,2023-09-16,1,Non-payment
+POL-007788,Botswana,Life,Independent Broker,2025-12-03,1,Non-payment
+POL-007790,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-007815,Lesotho,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-007821,South Africa,Health,Independent Broker,2025-03-10,1,Non-payment
+POL-007824,South Africa,Funeral,Tied Advisor,2022-05-30,1,Other
+POL-007827,Lesotho,Life,Bancassurance,2024-08-26,1,Affordability
+POL-007830,Lesotho,Funeral,Bancassurance,2022-12-05,1,Affordability
+POL-007831,South Africa,Health,Tied Advisor,2023-10-18,1,Affordability
+POL-007853,South Africa,Life,Independent Broker,2023-07-16,1,Dissatisfaction
+POL-007854,Lesotho,Life,Tied Advisor,2025-12-25,1,Non-payment
+POL-007855,South Africa,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-007857,Namibia,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-007860,Namibia,Funeral,Bancassurance,2026-06-20,1,Affordability
+POL-007869,South Africa,Life,Direct Digital,2025-03-30,1,Non-payment
+POL-007874,South Africa,Funeral,Direct Digital,2025-02-01,1,Affordability
+POL-007876,South Africa,Life,Tied Advisor,2022-10-06,1,Non-payment
+POL-007879,Botswana,Life,Tied Advisor,2023-12-08,1,Switched provider
+POL-007880,South Africa,Investment,Direct Digital,2026-06-16,1,Non-payment
+POL-007886,South Africa,Funeral,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-007899,South Africa,Health,Tied Advisor,2026-01-18,1,Non-payment
+POL-007900,Lesotho,Funeral,Independent Broker,2026-04-19,1,Affordability
+POL-007904,South Africa,Life,Bancassurance,2026-06-20,1,Other
+POL-007910,Lesotho,Life,Tied Advisor,2024-05-12,1,Affordability
+POL-007936,South Africa,Health,Independent Broker,2024-03-30,1,Other
+POL-007940,South Africa,Life,Direct Digital,2025-05-26,1,Other
+POL-007955,South Africa,Investment,Direct Digital,2022-07-22,1,Affordability
+POL-007956,Namibia,Health,Tied Advisor,2023-05-20,1,Affordability
+POL-007957,South Africa,Health,Direct Digital,2023-03-15,1,Affordability
+POL-007958,South Africa,Investment,Independent Broker,2026-06-20,1,Non-payment
+POL-007961,Botswana,Funeral,Bancassurance,2025-07-28,1,Non-payment
+POL-007964,South Africa,Investment,Independent Broker,2026-06-20,1,Switched provider
+POL-007980,South Africa,Funeral,Bancassurance,2024-11-18,1,Other
+POL-007984,Botswana,Funeral,Bancassurance,2023-12-18,1,Non-payment
+POL-008000,South Africa,Life,Tied Advisor,2024-12-01,1,Affordability
+POL-008005,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Other
+POL-008008,South Africa,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-008009,Namibia,Health,Bancassurance,2026-06-20,1,Non-payment
+POL-008026,South Africa,Life,Independent Broker,2022-06-21,1,Non-payment
+POL-008027,Botswana,Life,Bancassurance,2025-08-08,1,Dissatisfaction
+POL-008039,Namibia,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-008042,Lesotho,Funeral,Independent Broker,2023-12-27,1,Affordability
+POL-008048,South Africa,Life,Independent Broker,2024-03-22,1,Non-payment
+POL-008049,South Africa,Funeral,Bancassurance,2023-01-11,1,Non-payment
+POL-008051,South Africa,Funeral,Independent Broker,2026-06-01,1,Non-payment
+POL-008055,Namibia,Funeral,Bancassurance,2023-11-05,1,Affordability
+POL-008060,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-008063,Botswana,Funeral,Independent Broker,2025-09-02,1,Affordability
+POL-008065,South Africa,Health,Independent Broker,2023-02-22,1,Non-payment
+POL-008068,South Africa,Life,Direct Digital,2025-07-03,1,Dissatisfaction
+POL-008072,Namibia,Funeral,Bancassurance,2023-12-07,1,Affordability
+POL-008073,Lesotho,Health,Tied Advisor,2023-01-16,1,Non-payment
+POL-008083,Lesotho,Investment,Tied Advisor,2025-02-10,1,Non-payment
+POL-008084,Botswana,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-008088,South Africa,Funeral,Tied Advisor,2025-12-23,1,Dissatisfaction
+POL-008090,Botswana,Life,Direct Digital,2026-06-20,1,Other
+POL-008095,Lesotho,Life,Independent Broker,2024-06-27,1,Affordability
+POL-008104,South Africa,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-008116,Botswana,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-008117,Lesotho,Funeral,Direct Digital,2025-08-21,1,Non-payment
+POL-008124,Lesotho,Investment,Tied Advisor,2023-08-17,1,Switched provider
+POL-008125,Namibia,Investment,Direct Digital,2025-06-17,1,Switched provider
+POL-008130,Botswana,Funeral,Bancassurance,2023-08-17,1,Non-payment
+POL-008152,Botswana,Life,Bancassurance,2022-10-07,1,Switched provider
+POL-008153,South Africa,Funeral,Independent Broker,2025-12-27,1,Non-payment
+POL-008164,Botswana,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-008166,South Africa,Funeral,Bancassurance,2024-08-07,1,Non-payment
+POL-008170,Namibia,Life,Independent Broker,2024-10-30,1,Non-payment
+POL-008181,Namibia,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-008182,South Africa,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-008190,Lesotho,Life,Direct Digital,2024-12-15,1,Affordability
+POL-008195,South Africa,Life,Tied Advisor,2023-10-28,1,Affordability
+POL-008198,Botswana,Funeral,Bancassurance,2025-12-27,1,Non-payment
+POL-008201,South Africa,Funeral,Independent Broker,2024-02-24,1,Affordability
+POL-008203,Botswana,Life,Tied Advisor,2025-06-07,1,Affordability
+POL-008205,South Africa,Funeral,Tied Advisor,2022-07-02,1,Non-payment
+POL-008208,South Africa,Health,Bancassurance,2024-06-11,1,Non-payment
+POL-008227,Namibia,Health,Tied Advisor,2024-04-24,1,Switched provider
+POL-008241,Namibia,Life,Tied Advisor,2025-11-13,1,Non-payment
+POL-008248,South Africa,Health,Direct Digital,2026-06-20,1,Switched provider
+POL-008255,Namibia,Life,Tied Advisor,2026-06-20,1,Non-payment
+POL-008271,Lesotho,Investment,Tied Advisor,2026-06-20,1,Non-payment
+POL-008277,South Africa,Funeral,Tied Advisor,2025-03-03,1,Affordability
+POL-008281,South Africa,Life,Tied Advisor,2023-11-25,1,Switched provider
+POL-008282,Botswana,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-008286,South Africa,Health,Direct Digital,2026-06-20,1,Affordability
+POL-008295,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-008298,South Africa,Health,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-008306,South Africa,Health,Bancassurance,2025-05-01,1,Switched provider
+POL-008309,Namibia,Life,Direct Digital,2026-06-20,1,Dissatisfaction
+POL-008311,Botswana,Health,Bancassurance,2026-06-20,1,Affordability
+POL-008330,South Africa,Life,Direct Digital,2023-06-16,1,Affordability
+POL-008335,South Africa,Life,Bancassurance,2024-06-01,1,Non-payment
+POL-008343,Namibia,Life,Bancassurance,2023-06-29,1,Non-payment
+POL-008350,Lesotho,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-008353,South Africa,Funeral,Direct Digital,2024-11-21,1,Non-payment
+POL-008367,South Africa,Health,Tied Advisor,2023-04-17,1,Dissatisfaction
+POL-008376,South Africa,Investment,Independent Broker,2026-06-20,1,Non-payment
+POL-008377,Botswana,Life,Bancassurance,2026-06-20,1,Affordability
+POL-008390,South Africa,Health,Bancassurance,2025-05-07,1,Affordability
+POL-008408,Botswana,Life,Tied Advisor,2022-09-19,1,Non-payment
+POL-008409,South Africa,Life,Independent Broker,2024-07-02,1,Affordability
+POL-008411,South Africa,Life,Independent Broker,2026-06-20,1,Non-payment
+POL-008433,South Africa,Health,Independent Broker,2026-06-20,1,Affordability
+POL-008439,Botswana,Funeral,Independent Broker,2025-01-15,1,Non-payment
+POL-008448,South Africa,Life,Tied Advisor,2026-06-20,1,Affordability
+POL-008453,South Africa,Investment,Direct Digital,2024-03-06,1,Affordability
+POL-008456,South Africa,Life,Tied Advisor,2023-06-25,1,Affordability
+POL-008459,Namibia,Funeral,Independent Broker,2026-04-08,1,Non-payment
+POL-008472,South Africa,Funeral,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-008474,Botswana,Funeral,Independent Broker,2024-01-30,1,Non-payment
+POL-008481,South Africa,Life,Tied Advisor,2022-09-18,1,Other
+POL-008482,South Africa,Funeral,Bancassurance,2025-04-09,1,Non-payment
+POL-008483,Botswana,Investment,Independent Broker,2024-05-03,1,Affordability
+POL-008485,South Africa,Funeral,Bancassurance,2026-06-20,1,Switched provider
+POL-008487,Namibia,Funeral,Independent Broker,2024-10-20,1,Non-payment
+POL-008493,South Africa,Life,Independent Broker,2024-03-19,1,Non-payment
+POL-008496,South Africa,Funeral,Independent Broker,2026-05-31,1,Non-payment
+POL-008504,South Africa,Funeral,Independent Broker,2024-12-05,1,Affordability
+POL-008512,Lesotho,Life,Independent Broker,2026-06-20,1,Switched provider
+POL-008518,South Africa,Funeral,Tied Advisor,2026-03-13,1,Switched provider
+POL-008523,Lesotho,Investment,Bancassurance,2025-08-15,1,Other
+POL-008530,South Africa,Life,Independent Broker,2023-03-15,1,Non-payment
+POL-008545,Namibia,Health,Direct Digital,2026-06-02,1,Affordability
+POL-008546,Botswana,Funeral,Tied Advisor,2022-09-05,1,Affordability
+POL-008547,Lesotho,Funeral,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-008550,South Africa,Investment,Bancassurance,2024-06-15,1,Affordability
+POL-008556,South Africa,Funeral,Independent Broker,2026-06-20,1,Affordability
+POL-008557,South Africa,Investment,Tied Advisor,2023-11-03,1,Affordability
+POL-008558,Lesotho,Health,Direct Digital,2025-08-04,1,Other
+POL-008563,Lesotho,Funeral,Bancassurance,2026-06-20,1,Switched provider
+POL-008574,South Africa,Health,Tied Advisor,2026-03-29,1,Dissatisfaction
+POL-008576,Namibia,Life,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-008585,South Africa,Funeral,Independent Broker,2023-08-16,1,Switched provider
+POL-008603,South Africa,Investment,Tied Advisor,2024-07-20,1,Affordability
+POL-008608,South Africa,Funeral,Tied Advisor,2023-11-21,1,Non-payment
+POL-008612,South Africa,Health,Tied Advisor,2026-06-20,1,Non-payment
+POL-008614,South Africa,Funeral,Independent Broker,2024-04-02,1,Affordability
+POL-008622,South Africa,Health,Direct Digital,2024-08-11,1,Non-payment
+POL-008625,Namibia,Life,Independent Broker,2025-08-07,1,Affordability
+POL-008626,South Africa,Funeral,Independent Broker,2025-11-24,1,Non-payment
+POL-008639,South Africa,Health,Tied Advisor,2025-05-16,1,Dissatisfaction
+POL-008644,Botswana,Funeral,Tied Advisor,2026-06-20,1,Affordability
+POL-008654,Lesotho,Health,Tied Advisor,2026-06-20,1,Affordability
+POL-008659,Namibia,Funeral,Independent Broker,2025-07-31,1,Switched provider
+POL-008666,Lesotho,Funeral,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-008682,Namibia,Life,Bancassurance,2026-06-20,1,Dissatisfaction
+POL-008683,South Africa,Health,Bancassurance,2025-10-27,1,Affordability
+POL-008706,South Africa,Health,Tied Advisor,2026-06-20,1,Dissatisfaction
+POL-008710,Namibia,Health,Tied Advisor,2026-02-04,1,Affordability
+POL-008711,Botswana,Funeral,Direct Digital,2023-09-08,1,Non-payment
+POL-008712,South Africa,Health,Independent Broker,2022-08-04,1,Affordability
+POL-008719,Lesotho,Funeral,Direct Digital,2023-02-21,1,Affordability
+POL-008720,South Africa,Funeral,Direct Digital,2026-06-20,1,Other
+POL-008732,Lesotho,Funeral,Direct Digital,2024-01-26,1,Dissatisfaction
+POL-008734,Lesotho,Life,Direct Digital,2024-05-09,1,Affordability
+POL-008737,South Africa,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-008741,South Africa,Life,Direct Digital,2025-10-07,1,Non-payment
+POL-008748,South Africa,Funeral,Tied Advisor,2022-09-02,1,Affordability
+POL-008749,Namibia,Investment,Independent Broker,2023-05-23,1,Affordability
+POL-008760,Namibia,Funeral,Independent Broker,2026-06-20,1,Non-payment
+POL-008762,South Africa,Investment,Tied Advisor,2024-10-12,1,Affordability
+POL-008767,Lesotho,Health,Tied Advisor,2026-06-20,1,Switched provider
+POL-008773,Namibia,Funeral,Direct Digital,2026-02-18,1,Dissatisfaction
+POL-008780,Lesotho,Investment,Tied Advisor,2024-08-16,1,Switched provider
+POL-008786,Lesotho,Life,Bancassurance,2025-10-10,1,Affordability
+POL-008795,South Africa,Funeral,Bancassurance,2023-02-13,1,Affordability
+POL-008804,Namibia,Life,Tied Advisor,2025-07-09,1,Non-payment
+POL-008807,Namibia,Funeral,Bancassurance,2026-06-20,1,Non-payment
+POL-008815,South Africa,Life,Independent Broker,2026-06-20,1,Dissatisfaction
+POL-008839,Botswana,Funeral,Independent Broker,2026-01-12,1,Non-payment
+POL-008845,South Africa,Funeral,Tied Advisor,2023-08-12,1,Affordability
+POL-008858,South Africa,Funeral,Tied Advisor,2023-11-19,1,Dissatisfaction
+POL-008862,South Africa,Health,Bancassurance,2026-06-20,1,Switched provider
+POL-008877,South Africa,Funeral,Direct Digital,2024-11-07,1,Dissatisfaction
+POL-008879,Botswana,Life,Independent Broker,2026-03-11,1,Switched provider
+POL-008881,South Africa,Funeral,Tied Advisor,2026-03-31,1,Non-payment
+POL-008883,South Africa,Life,Tied Advisor,2025-06-03,1,Affordability
+POL-008890,Namibia,Health,Independent Broker,2026-06-20,1,Switched provider
+POL-008897,South Africa,Health,Independent Broker,2023-09-29,1,Dissatisfaction
+POL-008899,Lesotho,Life,Bancassurance,2022-10-23,1,Non-payment
+POL-008910,South Africa,Life,Tied Advisor,2023-11-07,1,Affordability
+POL-008911,Botswana,Life,Independent Broker,2026-06-20,1,Affordability
+POL-008938,South Africa,Funeral,Tied Advisor,2023-08-17,1,Affordability
+POL-008946,South Africa,Funeral,Independent Broker,2025-12-14,1,Affordability
+POL-008948,South Africa,Health,Tied Advisor,2024-09-22,1,Switched provider
+POL-008951,South Africa,Funeral,Independent Broker,2026-05-03,1,Non-payment
+POL-008952,Lesotho,Funeral,Independent Broker,2024-08-16,1,Affordability
+POL-008954,South Africa,Life,Direct Digital,2026-06-20,1,Affordability
+POL-008962,South Africa,Life,Tied Advisor,2025-03-08,1,Affordability
+POL-008964,South Africa,Health,Tied Advisor,2025-02-20,1,Non-payment
+POL-008968,Botswana,Funeral,Direct Digital,2024-08-22,1,Non-payment
+POL-008969,South Africa,Funeral,Bancassurance,2026-06-20,1,Switched provider
+POL-008974,South Africa,Funeral,Bancassurance,2025-01-23,1,Affordability
+POL-008979,Botswana,Funeral,Direct Digital,2024-12-09,1,Switched provider
+POL-008986,Namibia,Funeral,Bancassurance,2025-01-15,1,Affordability
+POL-008995,Lesotho,Investment,Independent Broker,2026-06-20,1,Other
+POL-009000,Botswana,Funeral,Bancassurance,2025-12-10,1,Dissatisfaction

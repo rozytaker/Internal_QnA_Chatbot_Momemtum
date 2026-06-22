@@ -1,0 +1,236 @@
+{
+  "domains": {
+    "Claims Data": {
+      "icon": "",
+      "color": "#1B6F7E",
+      "tables": ["claims_master", "claims_by_cell", "fraud_flags", "triage_outcomes"],
+      "example_queries": [
+        "What is the average claim amount by product line in Q1 2025?",
+        "Show claims volume by month for Lesotho vs Botswana"
+      ]
+    },
+    "Policy Data": {
+      "icon": "",
+      "color": "#6B3FA0",
+      "tables": ["policy_master", "lapse_events", "new_business", "premium_history"],
+      "example_queries": [
+        "What was the lapse rate for funeral products in Botswana Q1 by channel?"
+      ]
+    },
+    "Multiply Data": {
+      "icon": "",
+      "color": "#D2691E",
+      "tables": ["multiply_engagement", "active_dayz", "tier_history", "reward_redemptions"],
+      "example_queries": [
+        "How many clients downgraded Multiply tiers in the last 90 days?"
+      ]
+    },
+    "Distribution Data": {
+      "icon": "",
+      "color": "#1B7F5C",
+      "tables": ["advisor_performance", "lead_pipeline", "conversion_rates", "territory_data"],
+      "example_queries": []
+    }
+  },
+  "tables": {
+    "claims_master": {
+      "domain": "Claims Data",
+      "description": "One row per claim lodged across all Guardrisk cells and Momentum/Metropolitan products. The core claims transaction table.",
+      "columns": {
+        "claim_id": "unique claim identifier",
+        "policy_id": "linked policy",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "product_line": "Funeral / Life / Health / Investment",
+        "cell": "Guardrisk industry cell, e.g. Motor Cell, Agri Cell",
+        "loss_date": "date the insured event occurred",
+        "submission_date": "date the claim was submitted",
+        "claim_amount": "claimed amount in local currency",
+        "broker_id": "broker who originated the claim",
+        "assessor_id": "assessor who handled the claim",
+        "repairer_id": "repairer/provider involved"
+      }
+    },
+    "claims_by_cell": {
+      "domain": "Claims Data",
+      "description": "Pre-aggregated monthly claims volume and value per Guardrisk cell and market. Use for cell/market trend questions.",
+      "columns": {
+        "cell": "Guardrisk industry cell",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "month": "calendar month (period start)",
+        "claims_count": "number of claims that month",
+        "total_claim_amount": "sum of claim amounts",
+        "avg_claim_amount": "average claim amount"
+      }
+    },
+    "fraud_flags": {
+      "domain": "Claims Data",
+      "description": "Fraud Risk Score and two-layer verdict (Isolation Forest + Graph Analytics) per claim, joins to claims_master on claim_id.",
+      "columns": {
+        "claim_id": "linked claim",
+        "fraud_risk_score": "composite score 0-100, higher = riskier",
+        "layer1a_verdict": "Isolation Forest verdict: Clean/Amber/Red style tier",
+        "layer1b_verdict": "Graph ring verdict: Clear / Suspected / Confirmed",
+        "final_tier": "Green (0-30) / Amber (31-70) / Red (71-100)",
+        "flagged_date": "date scored"
+      }
+    },
+    "triage_outcomes": {
+      "domain": "Claims Data",
+      "description": "What actually happened to each claim after triage: outcome and turnaround time. Joins to claims_master / fraud_flags on claim_id.",
+      "columns": {
+        "claim_id": "linked claim",
+        "tier": "Green / Amber / Red",
+        "outcome": "Auto-approved / Human review / SIU referral",
+        "turnaround_hours": "hours from submission to outcome"
+      }
+    },
+    "policy_master": {
+      "domain": "Policy Data",
+      "description": "One row per policy: the master book of business across all markets, products and channels.",
+      "columns": {
+        "policy_id": "unique policy identifier",
+        "client_id": "client who owns the policy (a client may hold several policies)",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "product_type": "Funeral / Life / Health / Investment",
+        "channel": "Tied Advisor / Independent Broker / Bancassurance / Direct Digital",
+        "brand": "Momentum / Metropolitan",
+        "advisor_id": "servicing advisor",
+        "inception_date": "policy start date",
+        "sum_assured": "cover amount",
+        "premium": "monthly premium",
+        "status": "Active / Lapsed"
+      }
+    },
+    "lapse_events": {
+      "domain": "Policy Data",
+      "description": "One row per policy that lapsed, with reason. To compute a lapse RATE for a segment, join against policy_master (denominator = all policies in the segment, numerator = matching rows here).",
+      "columns": {
+        "policy_id": "linked policy",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "product_type": "Funeral / Life / Health / Investment",
+        "channel": "Tied Advisor / Independent Broker / Bancassurance / Direct Digital",
+        "lapse_date": "date the policy lapsed",
+        "lapse_flag": "always 1 in this table",
+        "reason": "Affordability / Non-payment / Dissatisfaction / Switched provider / Other"
+      }
+    },
+    "new_business": {
+      "domain": "Policy Data",
+      "description": "Policies issued (new business) in the trailing 24 months.",
+      "columns": {
+        "policy_id": "linked policy",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "product_type": "Funeral / Life / Health / Investment",
+        "channel": "Tied Advisor / Independent Broker / Bancassurance / Direct Digital",
+        "advisor_id": "advisor who sold the policy",
+        "issue_date": "date issued",
+        "premium": "monthly premium at issue"
+      }
+    },
+    "premium_history": {
+      "domain": "Policy Data",
+      "description": "Monthly premium due/paid per policy for the trailing 6 months. Use for persistency and on-time payment questions.",
+      "columns": {
+        "policy_id": "linked policy",
+        "period": "month",
+        "premium_due": "amount due",
+        "premium_paid": "amount actually paid (0 if missed)",
+        "on_time_flag": "1 if paid on time, else 0"
+      }
+    },
+    "multiply_engagement": {
+      "domain": "Multiply Data",
+      "description": "Monthly Multiply wellness engagement score per client for the trailing 6 months.",
+      "columns": {
+        "client_id": "linked client",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "tier": "Blue / Bronze / Silver / Gold / Diamond",
+        "month": "calendar month",
+        "engagement_score": "0-100 wellness engagement score"
+      }
+    },
+    "active_dayz": {
+      "domain": "Multiply Data",
+      "description": "Monthly Active Dayz and Recharge Dayz (sleep) per client for the trailing 6 months.",
+      "columns": {
+        "client_id": "linked client",
+        "month": "calendar month",
+        "active_dayz": "active days that month, 0-21",
+        "recharge_dayz": "recharge/sleep-compliant days, 0-14"
+      }
+    },
+    "tier_history": {
+      "domain": "Multiply Data",
+      "description": "Multiply tier change events per client (upgrade or downgrade).",
+      "columns": {
+        "client_id": "linked client",
+        "from_tier": "prior tier",
+        "to_tier": "new tier",
+        "change_date": "date of change",
+        "direction": "upgrade / downgrade"
+      }
+    },
+    "reward_redemptions": {
+      "domain": "Multiply Data",
+      "description": "Partner reward redemption events per client.",
+      "columns": {
+        "client_id": "linked client",
+        "redemption_date": "date redeemed",
+        "partner": "redemption partner",
+        "reward_value": "value of the reward"
+      }
+    },
+    "advisor_performance": {
+      "domain": "Distribution Data",
+      "description": "Monthly KPIs per advisor for the trailing 6 months: lead volumes, contact rate, conversion rate, speed to contact.",
+      "columns": {
+        "advisor_id": "unique advisor identifier",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "territory": "advisor's territory, e.g. Gauteng, Windhoek",
+        "month": "calendar month",
+        "leads_assigned": "leads assigned that month",
+        "leads_contacted": "leads contacted that month",
+        "contact_rate": "leads_contacted / leads_assigned",
+        "conversions": "leads converted to sales",
+        "conversion_rate": "conversions / leads_contacted",
+        "avg_hours_to_first_contact": "average speed to first contact, in hours"
+      }
+    },
+    "lead_pipeline": {
+      "domain": "Distribution Data",
+      "description": "Individual leads moving through the sales funnel.",
+      "columns": {
+        "lead_id": "unique lead identifier",
+        "advisor_id": "assigned advisor",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "territory": "advisor's territory",
+        "product_interest": "Funeral / Life / Health / Investment",
+        "stage": "New / Contacted / Meeting / Proposal / Closed Won / Closed Lost",
+        "created_date": "date the lead was created",
+        "last_update": "date of last stage change"
+      }
+    },
+    "conversion_rates": {
+      "domain": "Distribution Data",
+      "description": "Monthly conversion rate per advisor per product line.",
+      "columns": {
+        "advisor_id": "linked advisor",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "product_type": "Funeral / Life / Health / Investment",
+        "month": "calendar month",
+        "conversion_rate": "conversion rate for that advisor/product/month"
+      }
+    },
+    "territory_data": {
+      "domain": "Distribution Data",
+      "description": "Territory-level rollup: advisor headcount, total leads and total conversions.",
+      "columns": {
+        "territory": "territory name",
+        "market": "South Africa / Lesotho / Botswana / Namibia",
+        "advisor_count": "number of advisors in the territory",
+        "total_leads": "total leads in the territory",
+        "total_conversions": "total closed-won leads in the territory"
+      }
+    }
+  }
+}
